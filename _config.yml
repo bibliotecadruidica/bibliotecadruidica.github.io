@@ -1,0 +1,15 @@
+# Site settings
+title: Biblioteca Druídica
+email: greumthedruid@gmail.com
+description: >
+  Acervo de RPG.
+baseurl: ""
+url: "https://bibliotecadruidica.github.io"
+
+# Coleções
+#Coleções:
+#  Livros:
+#    output: false
+
+sass:
+  style: compressed
