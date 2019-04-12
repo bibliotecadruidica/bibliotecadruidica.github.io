@@ -2,7 +2,7 @@
 layout: default
 ---
 <main class="shelf">
-   <a href="data/d&d5ed.yml">
+  {% for book in site.data.book %}
   <article class="book">
     <figure class="book-cover">
       <a href="{{ book.link }}">
