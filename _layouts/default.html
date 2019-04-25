@@ -5,7 +5,8 @@
   <body>
     {{ content }}
     {% include footer.html %}
- <script type='text/javascript'>
+    <footer>
+    <script type='text/javascript'>
 function disableSelection(target){
 if (typeof target.onselectstart!="undefined") //IE route
 target.onselectstart=function(){return false}
@@ -14,8 +15,9 @@ target.style.MozUserSelect="none"
 else //All other route (ie: Opera)
 target.onmousedown=function(){return false}
 target.style.cursor = "default"
+
 }
 </script>
-
+</footer>
   </body>
 </html>
