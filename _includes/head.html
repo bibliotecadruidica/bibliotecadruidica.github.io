@@ -24,11 +24,16 @@ window['CboxReady'] = function (Cbox) {
 
   gtag('config', 'UA-137841686-1');
 </script>
-<script>
-// Desabilitar o botão direito do mouse
-var DADrccolor = "#F1F1F1";
- <img src="./not.png";
+<script type='text/javascript'>
+function disableSelection(target){
+if (typeof target.onselectstart!="undefined") //IE route
+target.onselectstart=function(){return false}
+else if (typeof target.style.MozUserSelect!="undefined") //Firefox route
+target.style.MozUserSelect="none"
+else //All other route (ie: Opera)
+target.onmousedown=function(){return false}
+target.style.cursor = "default"
+}
 </script>
-<script type="text/javascript" src="http://yourjavascript.com/2122535051/antirightclick.js"></script>
 	
 </head>
