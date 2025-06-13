@@ -710,7 +710,11 @@
             React.useEffect(() => {
                 const handleNavEvent = (event) => {
                     const { view } = event.detail;
-                    handleNavigate('category', view);
+                    if (view === 'home') {
+                        handleNavigate('home');
+                    } else {
+                        handleNavigate('category', view);
+                    }
                 };
                 
                 document.addEventListener('navigate', handleNavEvent);
