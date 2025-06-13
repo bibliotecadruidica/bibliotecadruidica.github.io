@@ -7,11 +7,15 @@ layout: default
     /* Define o caminho para a sua imagem de fundo */
     background-image: url('./images/bg.png');
 
-    /* Opcional: Faz a imagem cobrir toda a tela, sem repetir e sem distorcer */
-    background-size: cover; /* Faz a imagem se esticar para cobrir todo o fundo */
-    background-repeat: no-repeat; /* Evita que a imagem se repita */
-    background-position: center center; /* Centraliza a imagem */
-    background-attachment: fixed; /* Deixa a imagem fixa durante a rolagem da página */
+       /* Faz a imagem cobrir toda a tela, sem repetir e sem distorcer */
+    background-size: cover;
+    background-repeat: no-repeat; 
+    background-position: center center;
+
+    /* ALTERAÇÃO AQUI: 
+      Mude de 'fixed' para 'scroll' para que a imagem role com a página.
+    */
+    background-attachment: scroll; 
   }
 </style>
  <script language='JavaScript'> 
