@@ -2,6 +2,18 @@
 layout: default
 ---
 <head>
+	<style>
+  body {
+    /* Define o caminho para a sua imagem de fundo */
+    background-image: url('./images/bg.png');
+
+    /* Opcional: Faz a imagem cobrir toda a tela, sem repetir e sem distorcer */
+    background-size: cover; /* Faz a imagem se esticar para cobrir todo o fundo */
+    background-repeat: no-repeat; /* Evita que a imagem se repita */
+    background-position: center center; /* Centraliza a imagem */
+    background-attachment: fixed; /* Deixa a imagem fixa durante a rolagem da página */
+  }
+</style>
  <script language='JavaScript'> 
 //Bloqueador de Botão Direito
 function clique() {if (event.button==2||event.button==3) {oncontextmenu=&#39;return false&#39;;}} 
