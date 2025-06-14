@@ -353,11 +353,11 @@
                 </a>
                 <ul class="submenu">
                     <li><a class="submenu-link nav-action" data-view="Chamado de Cthulhu">Chamado de Cthulhu</a></li>
-                     <li><a class="submenu-link nav-action" data-view="Rastro de Cthulhu">Rastro de Cthulhu</a></li>
+                    <li><a class="submenu-link nav-action" data-view="Rastro de Cthulhu">Rastro de Cthulhu</a></li>
                 </ul>
             </li>
 
-             <li class="nav-item has-dropdown">
+            <li class="nav-item has-dropdown">
                 <a class="nav-link">
                     <i class="fa-solid fa-scroll icon"></i>
                     <span class="text">Outros Sistemas</span>
@@ -876,9 +876,9 @@
                         const submenu = item.querySelector('.submenu');
                         submenu.style.maxHeight = submenu.scrollHeight + 'px';
                     } else {
-                         item.classList.remove('dropdown-active');
-                         const submenu = item.querySelector('.submenu');
-                         submenu.style.maxHeight = '0px';
+                        item.classList.remove('dropdown-active');
+                        const submenu = item.querySelector('.submenu');
+                        submenu.style.maxHeight = '0px';
                     }
                 });
             });
@@ -893,9 +893,14 @@
                     document.dispatchEvent(new CustomEvent('navigate', { detail: { view: view } }));
 
                     if (window.innerWidth <= 768) {
-                       closeMenu();
+                        closeMenu();
                     }
                 });
+            });
+
+            // Disable context menu (right-click)
+            document.addEventListener('contextmenu', function(e) {
+                e.preventDefault();
             });
         });
     </script>
