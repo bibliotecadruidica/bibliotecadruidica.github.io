@@ -16,7 +16,7 @@
 body {
   transition: margin-left var(--transition-speed) ease;
   background: linear-gradient(rgba(17, 24, 39, 0.85), rgba(17, 24, 39, 0.85)),
-    url('./image/bg2.wep');
+    url('./image/bg2.webp');
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
