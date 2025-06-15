@@ -56,7 +56,7 @@ let booksData = [];
 // Função para carregar os dados do arquivo YAML
 async function loadBooksData() {
     try {
-        const response = await fetch('./books.yml'); // Caminho para o seu arquivo YAML
+        const response = await fetch('./data/books.yml'); // Caminho para o seu arquivo YAML
         if (!response.ok) {
             throw new Error(`HTTP error! status: ${response.status}`);
         }
