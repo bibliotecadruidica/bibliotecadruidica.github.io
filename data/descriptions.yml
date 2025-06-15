@@ -1,471 +1,470 @@
-# descriptions.yml
 - title: 'Fichas D&D 5D'
-  description: 'Um conjunto de fichas prontas para uso, otimizadas para Dungeons & Dragons 5ª Edição, facilitando a criação e o acompanhamento de seus personagens em qualquer campanha. Essencial para jogadores e mestres que buscam praticidade.'
+  description: "Folhas vitais para os aventureiros, onde a essência de vossos heróis é tecida. Cada marca reflete a jornada, as forças ocultas e os dons que a natureza vos concedeu."
 - title: 'Guia do Mestre D&D 5D'
-  description: 'O compêndio definitivo para Mestres de D&D 5ª Edição. Repleto de ferramentas, dicas para construir mundos, gerenciar encontros, criar monstros e conduzir narrativas épicas. Um recurso indispensável para dar vida às suas campanhas.'
+  description: "O pergaminho sagrado para o Guardião do Círculo, revelando os segredos para tecer mundos, invocar desafios e guiar os corações intrépidos por trilhas desconhecidas. A sabedoria para a criação de reinos e lendas."
 - title: 'Livro Do Jogador D&D 5D'
-  description: 'Seu ponto de partida para aventuras em Dungeons & Dragons 5ª Edição. Contém todas as regras essenciais para criar personagens, explorar mundos fantásticos, combater monstros e dominar magias, mergulhando de cabeça no universo do RPG.'
+  description: "A essência da aventura nas mãos de cada alma corajosa. Este volume desvenda os mistérios das sendas, as artes de combate e os elos com a magia, preparando-vos para o vasto mundo que vos espera."
 - title: 'Manual Dos Monstros D&D 5D'
-  description: 'Explore uma vasta coleção de criaturas e vilões icônicos para suas campanhas de D&D 5ª Edição. Este manual oferece estatísticas, habilidades e descrições detalhadas para desafiar seus jogadores em qualquer ambiente.'
+  description: "Um tomo de advertências e conhecimento sobre as criaturas que espreitam nas sombras e sob a luz do sol. Cada página descreve os perigos e maravilhas da fauna, dos seres mais humildes aos mais temíveis."
 - title: 'Regras Básicas dos Jogadores D&D 5D'
-  description: 'Uma introdução concisa às mecânicas fundamentais de D&D 5ª Edição. Perfeito para novos jogadores ou para quem busca uma referência rápida sobre os pilares do jogo: criação de personagem, exploração, combate e magia.'
+  description: "As sementes do conhecimento para todo novo viajante. Aqui jazem os fundamentos que vos permitirão trilhar os primeiros passos na senda da aventura, compreendendo os ventos e as correntes que guiam vosso destino."
 - title: 'Guia do Volo para Monstros D&D 5D'
-  description: 'Expanda seu bestiário de D&D 5ª Edição com novas e intrigantes criaturas. Volo apresenta monstros únicos, variantes de raças clássicas e informações aprofundadas sobre suas origens e ecologia, enriquecendo suas narrativas.'
+  description: "Volo, um trovador incansável, partilha aqui seus encontros com as bestas mais exóticas e enigmáticas. Um acervo de contos e sabedorias sobre a fauna oculta, essencial para quem busca compreender os mistérios selvagens."
 - title: 'Guia De Xanathar Para Todas As Coisas D&D 5D'
-  description: 'Um tesouro de novas opções e regras para D&D 5ª Edição. Inclui subclasses adicionais, magias, itens mágicos e ferramentas para mestres, expandindo as possibilidades de criação de personagens e construção de mundos.'
+  description: "Dos pensamentos de Xanathar, um observador peculiar, emerge um compêndio de reflexões sobre magias, tesouros e as nuances da existência. Uma visão singular sobre as diversas faces do mundo."
 - title: 'Guia de Classe - Ninja D&D 5D'
-  description: 'Domine a arte furtiva e mortal do ninja em suas campanhas de D&D 5ª Edição. Este guia oferece regras para incorporar essa classe lendária, com novas habilidades, tradições e equipamentos para mestres e jogadores.'
+  description: "Para aqueles que caminham nas sombras e se movem com a leveza do vento. Este guia desvenda as artes ocultas e as disciplinas silenciosas dos ninjas, mestres da furtividade e da precisão."
 - title: 'Costa da Espada - Guia de Aventureiros D&D 5D'
-  description: 'Explore a icônica região da Costa da Espada em D&D 5ª Edição. Este guia detalha cidades, locais lendários, facções e oportunidades de aventura, ideal para mestres que desejam ambientar suas histórias nos Reinos Esquecidos.'
+  description: "Um mapa detalhado e um guia para as terras exuberantes e perigosas da Costa da Espada. Aqui, os bravos encontram trilhas para a glória e lendas a serem forjadas."
 - title: 'Compêndio do Jogador - Elemental Evil D&D 5D'
-  description: 'Descubra novas opções para personagens e uma campanha focada na ameaça do Elemental Evil para D&D 5ª Edição. Inclui novas raças, magias e regras que aprofundam a imersão neste perigoso cenário.'
+  description: "Despertai para os poderes primordiais dos elementos! Este compêndio revela os segredos para controlar as forças da terra, água, fogo e ar, e enfrentar as ameaças elementais que assolam o reino."
 - title: 'Compêndio de Magia D&D 5D'
-  description: 'Um extenso catálogo de magias para D&D 5ª Edição, compilando encantamentos de diversas fontes. Essencial para conjuradores que buscam expandir seu repertório arcano e divino, oferecendo opções para todas as situações.'
+  description: "As palavras de poder e os rituais que moldam a realidade. Este tomo abarca a vastidão do arcano, desde os cânticos mais simples até os feitiços mais complexos, para aqueles que buscam dominar as correntes da magia."
 - title: 'Moderno D&D 5D'
-  description: 'Adapte D&D 5ª Edição para cenários contemporâneos. Este suplemento apresenta regras para armas de fogo, tecnologia moderna e desafios urbanos, permitindo que suas aventuras transcendam o reino da fantasia medieval.'
+  description: "Uma adaptação para tempos de invenções e construções de ferro. Dungeons & Dragons, mas com um toque de modernidade, onde a magia se entrelaça com as maravilhas da engenharia."
 - title: 'Fora Do Abismo D&D 5D'
-  description: 'Uma campanha épica para D&D 5ª Edição que leva os aventureiros a uma jornada perigosa pelas profundezas do Subterrâneo, enfrentando demônios e horrores cósmicos em uma luta pela sobrevivência.'
+  description: "Uma jornada nas profundezas do Subterrâneo, onde a escuridão e os horrores aguardam. Este livro é um mapa para escapar das garras do abismo e guiar os perdidos de volta à luz."
 - title: 'Assassinato em Baldur''s Gate D&D 5D'
-  description: 'Investigue uma série de assassinatos misteriosos na famosa cidade de Baldur’s Gate em D&D 5ª Edição. Uma aventura envolvente que testa as habilidades de investigação e combate dos seus personagens.'
+  description: "Os sussurros do crime ecoam pelas ruas de Baldur's Gate. Um mistério sombrio espera, onde a astúcia e a investigação são as únicas chaves para desvendar as sombras que cercam a cidade."
 - title: 'Unearthed Arcana - Ranger e Ladino D&D 5D'
-  description: 'Experimente conceitos e revisões para as classes Ranger e Ladino em D&D 5ª Edição. Este material de Unearthed Arcana explora novas abordagens para essas classes clássicas, oferecendo versatilidade e profundidade.'
+  description: "Descobri novos caminhos para o errante da floresta e o mestre das sombras. Este Unearthed Arcana oferece vislumbres de habilidades aprimoradas para Ranger e Ladino, aperfeiçoando sua conexão com a natureza e a discrição."
 - title: 'Unearthed Arcana - Talentos para Raças D&D 5D'
-  description: 'Expanda as opções de personalização de personagens em D&D 5ª Edição com talentos específicos para diversas raças. Este Unearthed Arcana oferece maneiras únicas de aprimorar suas habilidades e distintivos raciais.'
+  description: "O potencial inexplorado das raças é revelado. Este tomo oferece novos talentos que fortalecem os laços com a herança ancestral e desvendam capacidades únicas para cada linhagem."
 - title: 'Unearthed Arcana - Monge - Tradições Monásticas D&D 5D'
-  description: 'Descubra novas tradições monásticas para a classe Monge em D&D 5ª Edição. Este material de Unearthed Arcana apresenta diferentes filosofias e técnicas de combate, permitindo criar monges com estilos de jogo variados.'
+  description: "A arte do corpo e da mente, refinada em novas tradições. Para os monges, este guia abre sendas para a iluminação através de disciplinas nunca antes exploradas."
 - title: 'Unearthed Arcana - Talentos D&D 5D'
-  description: 'Explore uma série de novos talentos para D&D 5ª Edição, oferecendo opções adicionais para personalizar seus personagens e aprimorar suas habilidades além do que é possível com as classes e raças básicas.'
+  description: "Novos dons e habilidades para moldar vossos heróis. Este volume oferece uma vasta gama de talentos, permitindo que cada aventureiro se especialize e se torne ainda mais singular."
 - title: 'Unearthed Arcana O Ranger, Revisado D&D 5D'
-  description: 'Uma revisão abrangente da classe Ranger para D&D 5ª Edição, buscando aprimorar sua jogabilidade e eficácia em combate e exploração. Ideal para jogadores que buscam uma experiência renovada com o Ranger.'
+  description: "O Ranger, guardião da natureza, é aprimorado e redescoberto. Esta revisão oferece novas perspectivas e mecânicas para aqueles que defendem as fronteiras selvagens."
 - title: 'Unearthed Arcana Druida - Círculos Druídicos D&D 5D'
-  description: 'Aprofunde-se nos poderes da natureza com novos Círculos Druídicos para D&D 5ª Edição. Este Unearthed Arcana oferece opções para druidas que se conectam à natureza de formas distintas e poderosas.'
+  description: "Os murmúrios da floresta trazem novos segredos para os filhos da natureza. Descobri círculos druídicos que aprofundam a conexão com os elementos e as formas da vida."
 - title: 'Unearthed Arcana Aventuras Aquáticas D&D 5D'
-  description: 'Prepare-se para explorar as profundezas e os mistérios aquáticos em D&D 5ª Edição. Este suplemento de Unearthed Arcana oferece regras e ideias para aventuras subaquáticas e desafios ambientais.'
+  description: "Os oceanos e as profundezas aguardam. Este guia oferece perigos e maravilhas das águas, preparando-vos para jornadas subaquáticas e encontros com criaturas abissais."
 - title: 'Unearthed Arcana - Construindo Encontros D&D 5D'
-  description: 'Ferramentas e diretrizes para Mestres de D&D 5ª Edição criarem encontros balanceados e desafiadores. Este Unearthed Arcana ajuda a construir combates e interações memoráveis para seus jogadores.'
+  description: "Para os mestres que buscam tecer os desafios, este manual revela a arte de construir encontros memoráveis, equilibrando perigos e recompensas para os aventureiros."
 - title: 'Unearthed Arcana Luz, Escuridão, Subterrâneo D&D 5D'
-  description: 'Explore os contrastes e perigos das profundezas em D&D 5ª Edição. Este Unearthed Arcana oferece regras para ambientar aventuras em locais de luz escassa, escuridão total e nos vastos subterrâneos.'
+  description: "Explorai os contrastes do mundo: a luz que revela, a escuridão que esconde e o subterrâneo que guarda segredos ancestrais. Um guia para todos os recantos da existência."
 - title: 'Unearthed Arcana - Bárbaro - Caminhos Primitivos D&D 5D'
-  description: 'Descubra novos Caminhos Primitivos para a classe Bárbaro em D&D 5ª Edição. Este Unearthed Arcana expande as opções para bárbaros, permitindo que manifestem sua fúria de maneiras variadas e destrutivas.'
+  description: "A fúria primordial dos bárbaros encontra novos caminhos. Desvendai sendas de combate que ressoam com a selvageria da natureza e a força inata do espírito."
 - title: 'Unearthed Arcana - Bruxo e Mago - Patrono Transcendental e Tradição Arcana D&D 5D'
-  description: 'Novas opções para Bruxo e Mago em D&D 5ª Edição. Este Unearthed Arcana apresenta um novo Patrono para Bruxos e uma nova Tradição Arcana para Magos, expandindo as possibilidades de conjuração.'
+  description: "Novos pactos e segredos arcanos são revelados. Bruxos e Magos encontrarão aqui patronos e tradições que expandem seus horizontes mágicos e sua compreensão do cosmo."
 - title: 'Unearthed Arcana - Classes de Prestígio e Magias das Runas D&D 5D'
-  description: 'Explore Classes de Prestígio e o poder das Magias das Runas em D&D 5ª Edição. Este material de Unearthed Arcana oferece novas formas de personalizar e aprimorar seus personagens ao longo da jornada.'
+  description: "Elevai vossa jornada com classes de prestígio que concedem poder e conhecimento. Desvendai também as magias rúnicas, símbolos antigos de grande poder."
 - title: 'Unearthed Arcana - Clérigo - Domínios Divinos D&D 5D'
-  description: 'Expanda o poder divino com novos Domínios para a classe Clérigo em D&D 5ª Edição. Este Unearthed Arcana oferece opções para clérigos que servem a diferentes divindades com focos e habilidades únicas.'
+  description: "A fé se aprofunda com novos domínios divinos. Clérigos encontrarão aqui fontes de poder e propósito que abençoam e protegem aqueles que caminham pela luz."
 - title: 'Unearthed Arcana - Combate em Massa D&D 5D'
-  description: 'Regras e diretrizes para gerenciar grandes batalhas e conflitos em massa em D&D 5ª Edição. Este Unearthed Arcana ajuda Mestres a conduzir cenários de guerra e confrontos épicos com múltiplas unidades.'
+  description: "Quando exércitos se chocam e a batalha se estende, este guia oferece regras para simular combates em larga escala, onde o destino de reinos é decidido pela estratégia e coragem."
 - title: 'Unearthed Arcana - Eberron D&D 5D'
-  description: 'Uma adaptação do cenário de Eberron para D&D 5ª Edição. Explore um mundo de magia e tecnologia, com novas raças, subclasses e elementos específicos deste universo pulp fantasy noir.'
+  description: "Explorai as maravilhas e mistérios de Eberron, um mundo de magia e tecnologia. Este Unearthed Arcana traz elementos para aventuras neste reino de pulso vibrante e segredos forjados."
 - title: 'Unearthed Arcana - Feiticeiro D&D 5D'
-  description: 'Novas opções e aprimoramentos para a classe Feiticeiro em D&D 5ª Edição. Este Unearthed Arcana explora diferentes origens de poder e metamagias, permitindo criar feiticeiros únicos e poderosos.'
+  description: "O poder inato da magia é explorado em novas linhagens de feiticeiros. Descobri a profundidade de vossos dons e moldai a realidade com a força de vossa alma."
 - title: 'Unearthed Arcana - Guerreiro - Arquétipos Marciais D&D 5D'
-  description: 'Descubra novos Arquétipos Marciais para a classe Guerreiro em D&D 5ª Edição. Este Unearthed Arcana oferece diferentes especializações de combate, expandindo a versatilidade e o estilo de luta dos seus guerreiros.'
+  description: "A arte da guerra se expande com novos arquétipos marciais. Guerreiros encontrarão aqui disciplinas que aprimoram sua maestria em combate e sua destreza tática."
 - title: 'Unearthed Arcana - Mago Revisitado D&D 5D'
-  description: 'Uma revisão e aprimoramento da classe Mago para D&D 5ª Edição. Este Unearthed Arcana busca refinar as Tradições Arcanas e adicionar novas mecânicas para tornar a experiência do mago ainda mais cativante.'
+  description: "Os mistérios da magia arcana são reexaminados. Uma nova perspectiva sobre as tradições e os poderes dos magos, desvendando segredos esquecidos e novas abordagens."
 - title: 'Unearthed Arcana - Modificando Classes D&D 5D'
-  description: 'Diretrizes e exemplos para Mestres personalizarem e modificarem as classes existentes em D&D 5ª Edição. Este Unearthed Arcana permite adaptar as classes para atender às necessidades de sua campanha.'
+  description: "A flexibilidade do destino está em vossas mãos. Este guia oferece ferramentas para moldar e adaptar as classes, criando aventureiros únicos e inigualáveis."
 - title: 'Unearthed Arcana - Paladino - Juramentos Sagrados D&D 5D'
-  description: 'Novos Juramentos Sagrados para a classe Paladino em D&D 5ª Edição. Este Unearthed Arcana oferece diferentes caminhos para paladinos, cada um com seus próprios princípios, poderes e desafios morais.'
+  description: "A chama da devoção se acende com novos juramentos sagrados. Paladinos encontrarão aqui propósitos que guiam sua lâmina e sua fé contra as trevas."
 - title: 'Unearthed Arcana - Ranger - Novos Conceitos D&D 5D'
-  description: 'Explore conceitos inovadores para a classe Ranger em D&D 5ª Edição. Este Unearthed Arcana oferece uma nova abordagem para a classe, buscando torná-la mais envolvente e eficaz em suas aventuras.'
+  description: "O espírito da floresta encontra novas formas de se manifestar. Este Unearthed Arcana oferece conceitos frescos para o Ranger, aprofundando sua conexão com a natureza e suas habilidades de rastreamento."
 - title: 'Unearthed Arcana - Regras Variantes D&D 5D'
-  description: 'Um conjunto de regras opcionais e variantes para D&D 5ª Edição, permitindo personalizar a experiência de jogo. Este Unearthed Arcana oferece flexibilidade para adaptar o sistema ao seu estilo de mesa.'
+  description: "Para os mestres que buscam flexibilidade, este volume apresenta regras alternativas que podem enriquecer a experiência de jogo, adaptando-se a diferentes estilos de aventura."
 - title: 'Unearthed Arcana - Subclasses Revisadas D&D 5D'
-  description: 'Atualizações e revisões para diversas subclasses existentes em D&D 5ª Edição. Este Unearthed Arcana visa balancear e aprimorar a jogabilidade, oferecendo novas opções e ajustando as existentes.'
+  description: "As especializações de classe são aprimoradas e redefinidas. Novas e excitantes opções para as subclasses, permitindo que vossos heróis se destaquem ainda mais."
 - title: 'Unearthed Arcana - Artífice - Especializações D&D 5D'
-  description: 'Novas especializações para a classe Artífice em D&D 5ª Edição. Este Unearthed Arcana expande as invenções e criações mágicas dos artífices, permitindo-lhes focar em diferentes áreas da engenharia arcana.'
+  description: "A união da magia e da invenção é revelada. Para os artífices, este tomo oferece novas especializações que expandem suas criações e sua maestria com o arcano e o mecânico."
 - title: 'Unearthed Arcana - Opções de Classes Revisadas D&D 5D'
-  description: 'Explore um conjunto de opções revisadas para diversas classes em D&D 5ª Edição. Este Unearthed Arcana oferece alternativas para aprimorar o desempenho e a versatilidade dos seus personagens.'
+  description: "Uma revisão abrangente das opções de classe, oferecendo ajustes e aprimoramentos para refinar vossos heróis e suas habilidades no campo de batalha."
 - title: 'Unearthed Arcana - Bardo - Colégios de Bardos D&D 5D'
-  description: 'Novos Colégios de Bardos para a classe Bardo em D&D 5ª Edição. Este Unearthed Arcana expande as formas como os bardos podem inspirar e influenciar, com novas habilidades musicais e sociais.'
+  description: "A melodia da aventura ressoa com novos colégios de bardos. Descobri inspirações e poderes que enriquecem a arte da performance e do encantamento."
 - title: 'Unearthed Arcana - O Místico D&D 5D'
-  description: 'Introduza o poder da mente em D&D 5ª Edição com a classe Místico. Este Unearthed Arcana explora o psionismo e suas manifestações, oferecendo um novo tipo de conjurador para suas campanhas.'
+  description: "Os sussurros da mente desvendam poderes psíquicos. Este volume introduz o Místico, um mestre da vontade e da psique, capaz de moldar a realidade com a força de sua mente."
 - title: 'Unearthed Arcana - Psionismo e O Místico - Tomo I D&D 5D'
-  description: 'O primeiro tomo dedicado ao psionismo e à classe Místico em D&D 5ª Edição. Aprofunde-se nas mecânicas do poder mental, com novas habilidades, disciplinas e opções para essa classe mística.'
+  description: "O primeiro tomo de um estudo aprofundado sobre o psionismo e os místicos. Adentrai os reinos da mente e compreendei os poderes que transcendem a magia convencional."
 - title: 'Unearthed Arcana - Psionismo e O Místico - Tomo II D&D 5D'
-  description: 'A continuação do estudo do psionismo em D&D 5ª Edição. Este segundo tomo de Unearthed Arcana explora ainda mais as complexidades do Místico, com poderes adicionais e insights sobre essa forma de magia.'
+  description: "A continuação da jornada pelos mistérios do psionismo. Este segundo tomo aprofunda os conhecimentos sobre os místicos e as vastas capacidades da mente."
 - title: 'Unearthed Arcana - Os Fiéis D&D 5D'
-  description: 'Expanda as opções para personagens devotos e as divindades em D&D 5ª Edição. Este Unearthed Arcana explora temas de fé, devoção e o impacto dos deuses no mundo do jogo, com novas bençãos e anátemas.'
+  description: "A fé é uma força poderosa. Este volume explora as diversas manifestações da devoção, oferecendo novas opções para personagens que seguem um caminho divino."
 - title: 'Unearthed Arcana - Magia Moderna D&D 5D'
-  description: 'Incorpore elementos de magia contemporânea em D&D 5ª Edição. Este Unearthed Arcana oferece regras para magias com foco em tecnologia e cenários modernos, expandindo o escopo das suas aventuras.'
+  description: "A magia se adapta aos tempos de progresso. Descobri como as artes arcanas se entrelaçam com o mundo moderno, criando novas oportunidades e desafios."
 - title: 'Unearthed Arcana - Magia Negra Ancestral D&D 5D'
-  description: 'Explore os segredos sombrios da magia ancestral em D&D 5ª Edição. Este Unearthed Arcana apresenta novos feitiços e rituais proibidos, perfeitos para campanhas com um tom mais sinistro e arcaico.'
+  description: "Os segredos sombrios de uma magia esquecida são revelados. Para aqueles que ousam mergulhar nas profundezas do arcano, este tomo oferece feitiços ancestrais de poder proibido."
 - title: 'Unearthed Arcana - Heróis Góticos D&D 5D'
-  description: 'Crie personagens com uma estética gótica e elementos de horror para D&D 5ª Edição. Este Unearthed Arcana oferece novas opções para ambientar campanhas sombrias e atmosféricas, inspiradas no gênero gótico.'
+  description: "Inspirado por contos de terror e mistério, este guia apresenta elementos para criar heróis e aventuras em cenários góticos, onde o horror e a melancolia se encontram."
 - title: 'Unearthed Arcana - Kits de Antigamente D&D 5D'
-  description: 'Retome os clássicos "kits" de personagem para D&D 5ª Edição, adaptando conceitos de edições anteriores. Este Unearthed Arcana oferece pacotes de habilidades e temas para agilizar a criação de personagens.'
+  description: "Uma homenagem aos tempos passados, este volume resgata conceitos de kits de personagens, oferecendo novas formas de construir e personalizar vossos aventureiros."
 - title: 'Unearthed Arcana - Talentos para Perícias D&D 5D'
-  description: 'Aprimore as perícias de seus personagens com novos talentos focados em habilidades específicas em D&D 5ª Edição. Este Unearthed Arcana permite uma especialização mais profunda em áreas não-combate.'
+  description: "Aprimorai vossas habilidades mundanas com novos talentos. Este guia permite que vossos heróis se destaquem em suas perícias, tornando-os ainda mais versáteis e competentes."
 - title: 'Unearthed Arcana - Tempo de Inatividade D&D 5D'
-  description: 'Regras e atividades para o tempo de inatividade entre as aventuras em D&D 5ª Edição. Este Unearthed Arcana oferece opções para seus personagens treinarem, pesquisarem ou se envolverem em outras atividades lucrativas.'
+  description: "O tempo entre as aventuras é tão importante quanto a jornada em si. Este volume oferece ideias e regras para o que vossos heróis fazem quando não estão salvando o mundo."
 - title: 'Unearthed Arcana - Um Trio de Subclasses D&D 5D'
-  description: 'Descubra três novas subclasses para D&D 5ª Edição, adicionando variedade e novas opções estratégicas para diferentes classes. Este Unearthed Arcana é ideal para expandir o leque de personagens.'
+  description: "Três novas subclasses para expandir as opções de vossos heróis, oferecendo poderes e habilidades inéditas para classes já existentes."
 - title: 'Unearthed Arcana - Armadilhas Revisitadas D&D 5D'
-  description: 'Um olhar aprofundado e regras aprimoradas para armadilhas em D&D 5ª Edição. Este Unearthed Arcana oferece novas ideias e mecânicas para mestres criarem armadilhas mais desafiadoras e interessantes.'
+  description: "Para os mestres que amam um bom desafio, este guia oferece novas ideias e mecânicas para armadilhas, tornando os encontros ainda mais traiçoeiros e empolgantes."
 - title: 'Unearthed Arcana - Magias de Iniciação D&D 5D'
-  description: 'Explore magias poderosas e complexas de iniciação para D&D 5ª Edição. Este Unearthed Arcana oferece feitiços de alto nível e rituais que exigem um custo e um preparo maiores, para momentos épicos.'
+  description: "As primeiras centelhas da magia são exploradas em novas magias de iniciação, oferecendo rituais e feitiços para aqueles que dão seus primeiros passos no caminho arcano."
 - title: 'Unearthed Arcana - Quando os Exércitos Colidem D&D 5D'
-  description: 'Regras e diretrizes para simular e gerenciar grandes conflitos e batalhas entre exércitos em D&D 5ª Edição. Este Unearthed Arcana permite que mestres conduzam cenários de guerra em larga escala.'
+  description: "A grandiosidade da guerra ganha vida com regras para conflitos em larga escala. Quando os exércitos se chocam, este guia ajuda a narrar o caos e a estratégia da batalha."
 - title: 'Unearthed Arcana - Personagens Rápidos D&D 5D'
-  description: 'Crie personagens de D&D 5ª Edição de forma ágil e eficiente. Este Unearthed Arcana oferece ferramentas e modelos para gerar personagens rapidamente, ideal para one-shots ou sessões introdutórias.'
+  description: "Para aqueles momentos em que a aventura não pode esperar, este volume oferece ferramentas para criar personagens rapidamente, permitindo que a ação comece sem demora."
 - title: 'Warcraft RPG - Livro de Regras D&D 3.5'
-  description: 'Aventure-se no mundo de Azeroth com este sistema de RPG adaptado para D&D 3.5. Explore as facções, raças e conflitos épicos do universo de Warcraft, combinando fantasia heroica com o sistema D20.'
+  description: "Do mundo de Azeroth, surge um livro de regras que permite moldar o destino de heróis e vilões. Mergulhai nos conflitos e lendas de Warcraft com as mecânicas de D&D 3.5."
 - title: 'Warcraft RPG - Livro dos Monstros 3.5'
-  description: 'Um bestiário completo de criaturas de Azeroth, adaptado para D&D 3.5. Encontre estatísticas e descrições de feras, demônios e seres fantásticos para povoar suas campanhas de Warcraft RPG.'
+  description: "Os seres de Azeroth, dos mais temíveis aos mais humildes, são catalogados neste volume. Um guia essencial para enfrentar as criaturas que habitam o reino de Warcraft."
 - title: 'Warcraft - As Raças de Warcraft D&D 5D'
-  description: 'Explore as diversas raças de Azeroth adaptadas para D&D 5ª Edição. Detalhes sobre orcs, elfos, anões e muito mais, permitindo que você crie personagens icônicos do universo de Warcraft.'
+  description: "Desvendai a história e as peculiaridades das diversas raças que habitam Azeroth, adaptadas para D&D 5E. Desde os nobres elfos até os valorosos orcs, cada linhagem carrega seu destino."
 - title: 'Warcraft - Cavernas Ígneas D&D 5D'
-  description: 'Aventure-se pelas perigosas Cavernas Ígneas em D&D 5ª Edição. Uma masmorra cheia de perigos elementais e inimigos ardentes, ambientada no universo de Warcraft para desafios intensos.'
+  description: "Uma aventura nas profundezas das Cavernas Ígneas, um lugar de fogo e perigo. Enfrentai os desafios ardentes e descobri os segredos que as chamas guardam."
 - title: 'World of Warcraft - Cenário de Campanha D&D 5D'
-  description: 'Mergulhe no vasto e épico mundo de World of Warcraft com este cenário de campanha adaptado para D&D 5ª Edição. Explore os continentes, facções e prepare-se para grandes aventuras em Azeroth.'
+  description: "O vasto mundo de World of Warcraft se abre para vossas campanhas. Este cenário oferece a estrutura para criar lendas épicas nos reinos de Azeroth, adaptado para D&D 5E."
 - title: 'Mago a Ascensão - A Cruzada dos Feiticeiros'
-  description: 'Explore um período sombrio e fascinante do Mundo das Trevas, onde magos das Tradições e da Tecnocracia se enfrentam em uma guerra oculta. Este suplemento aprofunda a narrativa e as mecânicas de Mago a Ascensão.'
+  description: "A guerra pela realidade se intensifica. Este tomo narra a cruzada dos feiticeiros, mestres da Vontade, contra aqueles que buscam aprisionar o livre pensamento. Um conflito de ideias e magias."
 - title: 'Mago a Ascensão - Antecedentes'
-  description: 'Detalhe a história e as conexões de seus personagens em Mago a Ascensão. Este suplemento oferece novas opções de Antecedentes, enriquecendo a profundidade e as motivações de seus magos.'
+  description: "As raízes de vossa existência. Este livro explora os antecedentes que moldam os magos, desde suas origens até os eventos que os levaram ao despertar da magia."
 - title: 'Mago a Ascensão - Certame o Duelo Arcano'
-  description: 'Aprofunde-se nas regras e na arte do duelo mágico em Mago a Ascensão. Este livro detalha os rituais, as estratégias e as consequências dos confrontos arcanos entre magos.'
+  description: "O confronto de vontades e a batalha das magias. Este guia desvenda as regras e os segredos dos duelos arcanos, onde o poder e a astúcia dos magos são testados."
 - title: 'Mago - A Ascensão - Companheiro do Narrador'
-  description: 'Um recurso essencial para Narradores de Mago a Ascensão. Contém dicas, regras expandidas e ferramentas para gerenciar os desafios da realidade, os paradoxos e os conflitos da Guerra da Ascensão.'
+  description: "Para o Guardião da Verdade, um companheiro essencial. Este volume oferece insights e ferramentas para guiar os magos em suas jornadas pela realidade e seus desafios."
 - title: 'Mago a Ascensão - Escudo do Narrador'
-  description: 'Um escudo prático para o Narrador de Mago a Ascensão, com tabelas de referência rápida, regras essenciais e arte temática para facilitar a condução das sessões.'
+  description: "A barreira entre a realidade e os reinos do Narrador. Este escudo oferece tabelas e referências cruciais para facilitar a condução das narrativas de Mago a Ascensão."
 - title: 'Mago a Ascensão - A Cruzada dos Feiticeiros - Escudo do Narrador'
-  description: 'Um escudo específico para o Narrador da campanha "A Cruzada dos Feiticeiros", contendo informações cruciais e tabelas para guiar as aventuras neste período de intensa batalha mágica.'
+  description: "Um escudo vital para o Narrador, com informações e tabelas específicas para guiar a intensa Cruzada dos Feiticeiros, onde cada decisão molda o futuro da realidade."
 - title: 'Mago a Ascensão - Forjado no Fogo do Dragão'
-  description: 'Aprofunde-se nas facções e segredos do dragão no universo de Mago a Ascensão. Este suplemento revela intrigas ocultas e poderes ancestrais que moldam o destino dos magos.'
+  description: "As lendas dos dragões se entrelaçam com os poderes dos magos. Este livro explora a conexão entre a magia e as criaturas míticas, revelando segredos ancestrais."
 - title: 'Mago a Ascensão - Guia da Tecnocracia'
-  description: 'Entenda a organização, filosofia e métodos da Tecnocracia em Mago a Ascensão. Este guia oferece uma visão detalhada dessa facção, suas divisões e como elas buscam moldar a realidade.'
+  description: "Compreendei os artífices da realidade consensual. Este guia explora as filosofias e as ferramentas da Tecnocracia, a facção que busca impor a ordem através da ciência e da razão."
 - title: 'Mago a Ascensão - Liche'
-  description: 'Explore os sombrios segredos da imortalidade e da necromancia arcana em Mago a Ascensão. Este suplemento detalha a criação e a natureza dos liches, tanto como ameaças quanto como caminhos obscuros para magos.'
+  description: "Os horrores da imortalidade. Este volume mergulha na existência dos liches, seres que desafiam a morte e buscam o poder arcano através da necromancia e dos segredos proibidos."
 - title: 'Mago a Ascensão - Livro de Convenção - Iteração X'
-  description: 'Um mergulho profundo na Convenção Iteração X da Tecnocracia. Descubra sua história, objetivos, métodos e as tecnologias arcanas que utilizam para impor sua visão de ordem ao mundo.'
+  description: "Os segredos da Iteração X são desvendados. Este livro explora a convenção dedicada à tecnologia e à eficiência, onde a mente humana se une às máquinas para moldar o futuro."
 - title: 'Mago - A Ascensão - Livro de Tradição - Adeptos da Virtualidade'
-  description: 'Explore o mundo digital e a magia da informação com os Adeptos da Virtualidade. Este livro de Tradição detalha suas práticas, crenças e o impacto da tecnologia na Guerra da Ascensão.'
+  description: "Para aqueles que trilham os reinos digitais. Este livro explora os Adeptos da Virtualidade, mestres da informação e da realidade simulada, que buscam o conhecimento no ciberespaço."
 - title: 'Mago a Ascensão - Livro de Tradição - Coro Celestial'
-  description: 'Conheça a fé e a harmonia do Coro Celestial. Este livro de Tradição explora suas doutrinas, milagres e a busca pela união divina em um mundo fragmentado pela descrença.'
+  description: "A melodia da criação ecoa através do Coro Celestial. Este tomo desvenda a tradição que busca a harmonia divina e a ascensão espiritual através da fé e da música."
 - title: 'Mago a Ascensão - Livro de Tradição - Eutanatos'
-  description: 'Mergulhe na filosofia sombria dos Eutanatos, os mestres da morte e do ciclo da alma. Este livro de Tradição revela seus mistérios, rituais e o papel que desempenham no equilíbrio da existência.'
+  description: "Os segredos da morte e do destino são revelados. Os Eutanatos, guardiões do ciclo da vida e da morte, buscam a harmonia universal através da compreensão dos limites da existência."
 - title: 'Mago a Ascensão - Livro de Tradição - Irmandade de Akasha'
-  description: 'Aprofunde-se na sabedoria oriental e nas artes marciais místicas da Irmandade de Akasha. Este livro de Tradição detalha suas práticas de iluminação, disciplinas e a busca pela harmonia interior.'
+  description: "A busca pela iluminação interior. Este livro explora a Irmandade de Akasha, mestres da mente e do espírito, que buscam a verdade através da meditação e da introspecção."
 - title: 'Mago a Ascensão - Livro de Tradição - Oradores dos Sonhos'
-  description: 'Explore os reinos oníricos e a sabedoria ancestral dos Oradores dos Sonhos. Este livro de Tradição revela seus segredos, rituais xamânicos e a conexão com os espíritos e o mundo dos sonhos.'
+  description: "Os reinos do sonho e da imaginação se abrem. Os Oradores dos Sonhos exploram as paisagens oníricas, buscando sabedoria e poder nas profundezas do subconsciente."
 - title: 'Mago a Ascensão - Livro de Tradição - Ordem de Hermes'
-  description: 'Desvende os segredos da magia cerimonial e da alta feitiçaria com a Ordem de Hermes. Este livro de Tradição explora suas complexas tradições, rituais e o legado dos grandes magos herméticos.'
+  description: "A antiga arte da magia hermética é desvendada. Este livro explora a Ordem de Hermes, os tradicionais magos que buscam o conhecimento através de rituais complexos e do estudo dos elementos."
 - title: 'Mago a Ascensão - Livro de Tradição - Verbena'
-  description: 'Conecte-se à natureza selvagem e aos rituais pagãos das Verbena. Este livro de Tradição detalha suas práticas de magia natural, cura e a veneração dos ciclos da vida e da morte.'
+  description: "A magia da vida e da natureza. As Verbenas, filhas da terra e do sangue, conectam-se com as forças primordiais, buscando a cura e a harmonia através dos rituais naturais."
 - title: 'Mago a Ascensão - Manifesto Transmissões do Conselho Rebelde'
-  description: 'Documentos e proclamações do Conselho Rebelde, oferecendo uma perspectiva interna sobre a resistência contra a Tecnocracia e as lutas internas das Tradições Místicas.'
+  description: "A voz da resistência ecoa. Este manifesto reúne as transmissões do Conselho Rebelde, desafiando a Tecnocracia e defendendo a liberdade da Vontade e da criação."
 - title: 'Mago a Ascensão - Manual do Narrador'
-  description: 'Um guia abrangente para Narradores de Mago a Ascensão, com conselhos sobre como criar tramas complexas, gerenciar o Paradoxo e explorar os temas filosóficos e de conspiração do jogo.'
+  description: "O guia supremo para conduzir as complexas narrativas de Mago a Ascensão. Ferramentas, dicas e inspirações para o Narrador que busca criar mundos vibrantes e desafios mágicos."
 - title: 'Mago a Ascensão - Mestres da Arte'
-  description: 'Explore as profundezas das Esferas de Magia e a maestria dos Arcanos. Este suplemento detalha o funcionamento avançado da magia em Mago a Ascensão e as complexidades de cada Esfera.'
+  description: "A maestria da magia em sua forma mais pura. Este livro explora os Mestres da Arte, aqueles que alcançaram o ápice do conhecimento arcano e moldam a realidade com facilidade."
 - title: 'Mago a Ascensão - Básico - 2ª Edição'
-  description: 'A edição fundamental de Mago a Ascensão, apresentando as regras básicas e o cenário central do Mundo das Trevas onde magos lutam pela definição da realidade.'
+  description: "A segunda edição do livro básico de Mago a Ascensão. Um ponto de partida essencial para adentrar o mundo onde a Vontade molda a realidade e a magia é uma força viva."
 - title: 'Mago a Ascensão - Módulo Básico - 3ª Edição'
-  description: 'A terceira edição do livro básico de Mago a Ascensão, com regras atualizadas e aprofundamento do cenário, ideal para quem busca uma experiência mais refinada no Mundo das Trevas.'
+  description: "A terceira edição do coração de Mago a Ascensão. Este módulo básico aprofunda as regras e o cenário, permitindo uma imersão ainda maior na guerra pela realidade."
 - title: 'Mago a Ascensão - O Livro da Loucura'
-  description: 'Mergulhe nas profundezas da sanidade e da insanidade mágica em Mago a Ascensão. Este suplemento explora os efeitos da loucura no despertar mágico e as consequências de manipular a realidade.'
+  description: "A linha entre a genialidade e a insanidade é tênue. Este livro explora os reinos da loucura, onde a mente se dobra e se quebra diante dos horrores da realidade."
 - title: 'Mago a Ascensão - Paradoxo e Choque de Retorno'
-  description: 'Um estudo detalhado sobre as mecânicas de Paradoxo e Choque de Retorno em Mago a Ascensão. Entenda como o conflito com a realidade cobra seu preço dos magos e como gerenciar suas consequências.'
+  description: "As consequências do poder. Este volume aprofunda os conceitos de Paradoxo e Choque de Retorno, mostrando os perigos de manipular a realidade e os custos da magia."
 - title: 'Mago a Ascensão - Traição de Sangue'
-  description: 'Uma trama de intriga e traição que permeia as Tradições Místicas em Mago a Ascensão. Este suplemento oferece uma aventura pronta e detalhes sobre facções e personagens envolvidos em uma complexa conspiração.'
+  description: "As intrigas e os laços quebrados no mundo dos magos. Este conto explora a traição de sangue, onde a lealdade é testada e os segredos podem levar à ruína."
 - title: 'Vampiro a Idade das Trevas - Choque de Vontades'
-  description: 'Conflitos e intrigas intensas na Idade das Trevas. Este suplemento de Vampiro a Idade das Trevas explora as tensões entre os clãs e os mortais, culminando em embates de poder e fé.'
+  description: "Na Idade das Trevas, os Anciões se enfrentam em um choque de vontades. Este livro detalha as intrigas e os conflitos que moldam o destino dos Cainitas em tempos sombrios."
 - title: 'Vampiro a Idade das Trevas - Companheiro do Narrador'
-  description: 'Um guia essencial para o Narrador de Vampiro a Idade das Trevas. Oferece conselhos, regras expandidas e inspirações para conduzir crônicas sombrias em um período de fé e superstição.'
+  description: "Para o Guardião da Noite, um aliado indispensável. Este volume oferece conselhos e recursos para conduzir histórias de horror e intriga na Idade das Trevas."
 - title: 'Vampiro a Idade das Trevas - Escudo do Narrador'
-  description: 'Um escudo prático para o Narrador de Vampiro a Idade das Trevas, com tabelas de referência e arte temática para facilitar a condução das sessões em um mundo medieval de trevas.'
+  description: "Um escudo para proteger os segredos da noite. Este material oferece tabelas e informações essenciais para o Narrador em suas crônicas de Vampiro na Idade das Trevas."
 - title: 'Vampiro a Idade das Trevas - Ficha de Personagem'
-  description: 'Fichas de personagem detalhadas para Vampiro a Idade das Trevas, permitindo criar e acompanhar seus vampiros em suas jornadas por um mundo dominado pela fé e pela escuridão.'
+  description: "O pergaminho onde a existência imortal é registrada. Esta ficha permite detalhar as peculiaridades, os dons e as maldições dos vampiros na Idade das Trevas."
 - title: 'Vampiro a Idade das Trevas - Fontes de Carmesim Brilhante'
-  description: 'Explore os mistérios e segredos ancestrais que permeiam o sangue dos vampiros na Idade das Trevas. Este suplemento revela novas Disciplinas e rituais de sangue para enriquecer suas crônicas.'
+  description: "Os rios de sangue que nutrem os Cainitas. Este livro explora as Fontes de Carmesim Brilhante, revelando os locais e métodos de obtenção do vital líquido na Idade das Trevas."
 - title: 'Vampiro a Idade das Trevas - Livro de Clã - Baali'
-  description: 'Mergulhe nos horrores e nos pactos infernais dos Baali, os vampiros demoníacos da Idade das Trevas. Este livro de clã revela seus segredos, suas origens e seu papel na corrupção do mundo.'
+  description: "Os segredos sombrios dos Baali, corrompidos pelo inferno. Este livro explora a história e as práticas deste clã de vampiros dedicados ao caos e à destruição."
 - title: 'Vampiro a Idade das Trevas - Livro de Clã - Capadócio'
-  description: 'Conheça os Capadócios, os "Clã da Morte" na Idade das Trevas. Este livro de clã explora seus rituais sombrios, a busca pela verdadeira morte e os segredos da necromancia vampírica.'
+  description: "A morte é apenas o começo para os Capadócios. Este livro explora a história e os segredos deste clã de estudiosos da morte, que buscam entender os mistérios da vida após o túmulo."
 - title: 'Vampiro a Idade das Trevas - Livro de Clã - Salubri'
-  description: 'Descubra a história e os mistérios dos Salubri, os vampiros de um olho só da Idade das Trevas. Este livro de clã aborda sua natureza dual de curandeiros e guerreiros, e sua perseguição por outros clãs.'
+  description: "Os curandeiros e os caçadores de demônios. Este livro explora o clã Salubri, divididos entre aqueles que buscam a redenção e os que caçam os servos do mal."
 - title: 'Vampiro a Idade das Trevas - Livro de Segredos do Narrador'
-  description: 'Um compêndio de segredos e informações ocultas para o Narrador de Vampiro a Idade das Trevas. Revela verdades chocantes sobre o mundo, os Antediluvianos e as conspirações milenares.'
+  description: "Os véus do mistério são levantados. Este livro revela os segredos mais profundos da Idade das Trevas, oferecendo ao Narrador informações cruciais para suas tramas."
 - title: 'Vampiro a Idade das Trevas - Módulo Básico'
-  description: 'O livro essencial para Vampiro a Idade das Trevas, que transporta os jogadores para uma Europa medieval sombria, onde vampiros lutam por poder e sobrevivência sob a sombra da fé.'
+  description: "A essência de Vampiro na Idade das Trevas. Este módulo básico introduz os jogadores a um mundo de feudos, crenças e horrores vampíricos em um passado distante."
 - title: 'Vampiro a Idade das Trevas - Os Fragmentos de Erciyes'
-  description: 'Uma aventura misteriosa e sombria para Vampiro a Idade das Trevas, envolvendo relíquias antigas e os segredos dos Capadócios. Leve seus personagens a uma jornada perigosa em busca de conhecimento proibido.'
+  description: "Os fragmentos de uma antiga maldição. Esta aventura leva os vampiros a buscarem artefatos misteriosos que guardam segredos e perigos da era mais sombria."
 - title: 'Vampiro a Máscara - A Arte de Vampiro a Máscara'
-  description: 'Uma coletânea de ilustrações e conceitos visuais que definiram o universo de Vampiro a Máscara. Perfeito para fãs da estética sombria e gótica do Mundo das Trevas.'
+  description: "Uma celebração visual do Mundo das Trevas. Este livro apresenta a arte que deu vida aos vampiros de A Máscara, revelando a estética sombria e cativante."
 - title: 'Vampiro - A Máscara - Carniçais - Vício Fatal'
-  description: 'Explore a vida dos carniçais, servos mortais dos vampiros, com este suplemento para Vampiro a Máscara. Detalha seu vício fatal pelo sangue e as complexidades de sua existência servil.'
+  description: "A servidão e a dependência. Este volume explora a vida dos carniçais, humanos ligados aos vampiros, e os vícios que os aprisionam em um ciclo de devoção e horror."
 - title: 'Vampiro a Máscara - Companheiro do Narrador'
-  description: 'Um guia indispensável para Narradores de Vampiro a Máscara. Oferece dicas sobre como construir crônicas envolventes, gerenciar a política vampírica e os desafios da Besta interior.'
+  description: "Para o Narrador das crônicas modernas de Vampiro, um guia indispensável. Este volume oferece conselhos, ideias e ferramentas para tecer as intrigas da Camarilla e do Sabá."
 - title: 'Vampiro a Máscara - Corações Sangrentos - Diablerie Inglaterra'
-  description: 'Uma aventura sombria e intensa para Vampiro a Máscara, ambientada na Inglaterra, onde a diablerie e intrigas políticas se entrelaçam em uma trama de poder e traição.'
+  description: "Os sussurros de um crime hediondo. Esta crônica mergulha na diablerie, a prática proibida entre vampiros, em meio às sombras da Inglaterra."
 - title: 'Vampiro a Máscara - Crianças da Inquisição'
-  description: 'Aprofunde-se nos caçadores de vampiros e nas forças da Inquisição em Vampiro a Máscara. Este suplemento detalha as organizações mortais que perseguem os Membros, adicionando tensão às crônicas.'
+  description: "Os filhos da fé, transformados em caçadores. Este livro explora a Inquisição e seus agentes, vampiros que se voltam contra sua própria espécie, movidos por uma distorcida devoção."
 - title: 'Vampiro a Máscara - Edição de 20º Aniversário'
-  description: 'A edição comemorativa de Vampiro a Máscara, reunindo e expandindo o material clássico. É a versão definitiva para fãs e novos jogadores, com regras aprimoradas e conteúdo abrangente.'
+  description: "A celebração de duas décadas de horror e intriga. Esta edição comemorativa reúne e aprimora todo o vasto universo de Vampiro a Máscara, um tesouro para os fãs."
 - title: 'Vampiro a Máscara - Edição de 20º Aniversário - Fichas'
-  description: 'Fichas de personagem oficiais para a Edição de 20º Aniversário de Vampiro a Máscara, projetadas para facilitar a criação e o acompanhamento de seus personagens vampiros.'
+  description: "Folhas para registrar os séculos de existência. Fichas de personagem detalhadas para a Edição de 20º Aniversário, permitindo criar vampiros com toda a profundidade."
 - title: 'Vampiro a Máscara - Enciclopædia Vampirica'
-  description: 'Um compêndio exaustivo de termos, conceitos e personagens do universo de Vampiro a Máscara. Essencial para quem busca aprofundar seu conhecimento sobre a rica lore dos Cainitas.'
+  description: "Um compêndio de todo o saber proibido. Esta enciclopédia abarca os segredos, os clãs e as lendas do Mundo das Trevas, um guia definitivo para o universo vampírico."
 - title: 'Vampiro a Máscara - Escolhidos de Caim - A Mão Negra'
-  description: 'Descubra os segredos da Mão Negra, uma sociedade sombria de vampiros com propósitos misteriosos em Vampiro a Máscara. Este suplemento revela sua história e suas conexões com os Antediluvianos.'
+  description: "A seita misteriosa e temida. Este livro explora os Escolhidos de Caim, também conhecidos como a Mão Negra, uma organização oculta que desafia as convenções vampíricas."
 - title: 'Vampiro a Máscara - Escudo do Narrador'
-  description: 'Um escudo prático para o Narrador de Vampiro a Máscara, contendo tabelas essenciais e arte imersiva para guiar suas sessões no Mundo das Trevas.'
+  description: "Um escudo que vela os segredos da noite. Tabelas, gráficos e informações cruciais para o Narrador, facilitando a condução de suas crônicas vampíricas."
 - title: 'Vampiro a Máscara - Estranha Fome'
-  description: 'Uma aventura arrepiante para Vampiro a Máscara que explora os aspectos mais sombrios da natureza vampírica e os desafios de controlar a Besta interior.'
+  description: "Um desejo insaciável que consome a alma. Esta aventura explora os perigos da Estranha Fome, uma maldição que aflige os vampiros e os leva a atos desesperados."
 - title: 'Vampiro a Máscara - Feitiçaria Setita'
-  description: 'Desvende os rituais arcanos e os segredos de sangue dos Seguidores de Set. Este suplemento aprofunda a feitiçaria setita, suas origens e seu uso para corromper e manipular.'
+  description: "Os rituais obscuros dos Seguidores de Set. Este livro desvenda a feitiçaria dos Setitas, mestres da corrupção e do engano, que manipulam as sombras para seus próprios fins."
 - title: 'Vampiro a Máscara - Gehenna a Noite Final'
-  description: 'O épico clímax das crônicas de Vampiro a Máscara, narrando o apocalipse vampírico conhecido como Gehenna. Os Antediluvianos despertam, e o destino dos Cainitas está em jogo.'
+  description: "O fim se aproxima. Este volume narra os eventos de Gehenna, a profecia do apocalipse vampírico, onde os Anciões despertam e o destino dos Cainitas é selado."
 - title: 'Vampiro a Máscara - Guia da Camarilla'
-  description: 'Explore a estrutura, a política e os segredos da Camarilla, a seita dominante dos vampiros em Vampiro a Máscara. Essencial para compreender as intrigas e o poder nos salões dos príncipes.'
+  description: "A sociedade secreta que governa os vampiros. Este guia explora a estrutura, as leis e as intrigas da Camarilla, a seita que busca manter a Máscara e a ordem entre os Cainitas."
 - title: 'Vampiro a Máscara - Guia do Sabá'
-  description: 'Conheça o brutal e fervoroso Sabá, a seita que rejeita a Máscara e abraça sua natureza predatória. Este guia detalha suas crenças, rituais e a eterna guerra contra a Camarilla.'
+  description: "A seita selvagem e anarquista. Este guia desvenda os rituais, as filosofias e os horrores do Sabá, a facção que abraça a besta interior e busca a liberdade da Máscara."
 - title: 'Vampiro a Máscara - Guia dos Jogadores'
-  description: 'Expanda as opções de criação e desenvolvimento de personagens em Vampiro a Máscara, com novas regras, qualidades, defeitos e dicas para jogadores que buscam aprofundar suas experiências.'
+  description: "O manual essencial para os novos Cainitas. Este guia oferece todas as ferramentas e conhecimentos para criar e interpretar um vampiro no Mundo das Trevas."
 - title: 'Vampiro a Máscara - Livro de Clã - Assamita'
-  description: 'Mergulhe na história e nas Disciplinas dos Assamitas, os mestres assassinos entre os vampiros. Este livro de clã revela seus códigos de honra e sua busca por vitae e conhecimento.'
+  description: "Os mestres da morte silenciosa. Este livro mergulha nos segredos dos Assamitas, assassinos honrados e místicos do sangue, que servem a uma justiça própria."
 - title: 'Vampiro a Máscara - Livro de Clã - Bricta'
-  description: 'Explore os mistérios e a natureza perturbadora dos Bricta, um clã de vampiros conhecido por suas maldições e o controle sobre emoções e doenças. Uma adição única para crônicas sombrias.'
+  description: "Um clã envolto em mistério e loucura. Este volume explora os Bricta, vampiros com uma conexão peculiar com a mente e os limites da sanidade."
 - title: 'Vampiro a Máscara - Livro de Clã - Brujah'
-  description: 'Conheça os Brujah, os rebeldes e filósofos do Mundo das Trevas. Este livro de clã detalha sua história turbulenta, sua paixão e sua constante luta contra a tirania e a opressão.'
+  description: "Os rebeldes e filósofos do Mundo das Trevas. Este livro explora os ideais, a fúria e o espírito indomável dos Brujah, sempre à beira da revolução."
 - title: 'Vampiro a Máscara - Livro de Clã - Gangrel'
-  description: 'Aprofunde-se na vida selvagem e nas conexões animais dos Gangrel. Este livro de clã explora sua independência, suas Disciplinas de transformação e sua aversão à civilização.'
+  description: "Os nômades e selvagens. Este volume mergulha na natureza indomável dos Gangrel, vampiros que mantêm uma forte conexão com a besta interior e a vida selvagem."
 - title: 'Vampiro a Máscara - Livro de Clã - Gangrel - Devir'
-  description: 'A versão brasileira do livro de clã Gangrel, trazendo a tradução e adaptações para o público nacional, mantendo toda a essência dos vampiros nômades e selvagens.'
+  description: "A visão da Devir sobre os Gangrel. Este livro aprofunda as nuances deste clã de andarilhos, adaptado para as crônicas brasileiras."
 - title: 'Vampiro a Máscara - Livro de Clã - Giovanni'
-  description: 'Desvende os segredos sombrios dos Giovanni, o clã de necromantes e mercadores da morte. Este livro de clã explora seus rituais macabros e sua influência no submundo financeiro.'
+  description: "Os senhores da morte e da riqueza. Este livro explora os segredos dos Giovanni, um clã de necromantes e empresários, cujo poder reside na manipulação da vida e da morte."
 - title: 'Vampiro a Máscara - Livro de Clã - La Sombra'
-  description: 'Mergulhe nas sombras e nos rituais de fé distorcidos dos Lasombra. Este livro de clã detalha sua natureza aristocrática, sua manipulação da escuridão e seu papel no Sabá.'
+  description: "Os mestres das sombras. Este volume revela os segredos dos Lasombra, aristocratas e manipuladores que dominam as trevas e as intrigas do Sabá."
 - title: 'Vampiro a Máscara - Livro de Clã - Malkaviano'
-  description: 'Entre na mente caótica dos Malkavianos, o clã da insanidade profética. Este livro de clã explora suas Disciplinas de Dominação e Auspícios, e a fina linha entre loucura e percepção.'
+  description: "Os profetas loucos e a sabedoria distorcida. Este livro explora os Malkavianos, um clã cuja insanidade lhes concede vislumbres da verdade e do caos."
 - title: 'Vampiro a Máscara - Livro de Clã - Nosferatu'
-  description: 'Conheça os Nosferatu, os párias deformados e mestres das informações no Mundo das Trevas. Este livro de clã detalha sua existência nas cloacas e sua vasta rede de contatos.'
+  description: "Os horrores ocultos nas catacumbas. Este volume revela os segredos dos Nosferatu, os vampiros desfigurados que habitam as sombras e detêm informações vitais."
 - title: 'Vampiro a Máscara - Livro de Clã - Ravnos'
-  description: 'Descubra os enganos e ilusões dos Ravnos, o clã de ciganos e ilusionistas. Este livro de clã explora suas histórias, suas Disciplinas de Quimerismo e seu estilo de vida nômade.'
+  description: "Os enganadores e ilusionistas. Este livro explora os Ravnos, um clã de nômades e trapaceiros, cujas habilidades de ilusão tornam a realidade um jogo."
 - title: 'Vampiro a Máscara - Livro de Clã - Seguidores de Set'
-  description: 'Aprofunde-se na corrupção e nos cultos dos Seguidores de Set, os vampiros adoradores de um deus sombrio. Este livro de clã revela seus rituais e sua busca por conhecimento proibido.'
+  description: "Os adoradores da serpente. Este volume desvenda os segredos dos Seguidores de Set, um clã que busca a corrupção e o prazer, servindo a um deus ancestral da escuridão."
 - title: 'Vampiro a Máscara - Livro de Clã - Setita'
-  description: 'Uma versão focada no clã Setita, explorando suas raízes egípcias e sua influência sutil e corruptora no Mundo das Trevas, buscando trazer a glória do deus Set.'
+  description: "A versão concisa dos Seguidores de Set. Este livro oferece uma visão geral sobre este clã e sua adoração à serpente, mestre da corrupção e do engano."
 - title: 'Vampiro a Máscara - Livro de Clã - Toreador'
-  description: 'Explore a paixão e a beleza perigosa dos Toreador, os artistas e hedonistas entre os vampiros. Este livro de clã detalha sua busca pela perfeição estética e sua influência na alta sociedade.'
+  description: "Os amantes da beleza e da decadência. Este volume explora os Toreador, artistas e sedutores, que buscam a perfeição em todas as suas formas, mesmo na imortalidade."
 - title: 'Vampiro a Máscara - Livro de Clã - Toreador - Devir'
-  description: 'A versão traduzida do livro de clã Toreador, trazendo para o público brasileiro todo o glamour e os dramas dos vampiros mais artísticos e apaixonados do Mundo das Trevas.'
+  description: "A visão da Devir sobre os elegantes Toreador. Este livro aprofunda as nuances deste clã de estetas, adaptado para as crônicas brasileiras."
 - title: 'Vampiro a Máscara - Livro de Clã - Tremere'
-  description: 'Desvende os segredos da Taumaturgia e os rituais de sangue dos Tremere, o clã de feiticeiros. Este livro de clã explora sua hierarquia rígida e sua busca implacável por poder mágico.'
+  description: "Os magos do sangue. Este volume revela os segredos dos Tremere, um clã de feiticeiros que forjaram sua imortalidade através da magia e do conhecimento arcano."
 - title: 'Vampiro a Máscara - Livro de Clã - Tzimisce'
-  description: 'Mergulhe nos horrores e na Vicissitude dos Tzimisce, os antigos senhores das terras da Europa Oriental. Este livro de clã revela seus rituais de carne e sua conexão com a terra.'
+  description: "Os senhores do horror e da carne. Este livro explora os Tzimisce, um clã de monstros que moldam a carne e o osso, buscando a perfeição através da metamorfose e da dor."
 - title: 'Vampiro a Máscara - Livro de Clã - Ventrue'
-  description: 'Conheça a nobreza e o poder dos Ventrue, os líderes e príncipes da Camarilla. Este livro de clã detalha sua história de liderança e sua busca implacável por controle e status.'
+  description: "Os líderes e aristocratas do mundo vampírico. Este volume explora os Ventrue, o clã que busca o poder e o controle, guiando a Camarilla com sua astúcia e influência."
 - title: 'Vampiro a Máscara - Livro de Clã - Vladers'
-  description: 'Explore a linhagem sombria dos Vladers, uma vertente misteriosa de vampiros com uma conexão profunda com a história e o folclore do Leste Europeu. Um clã focado em poder e herança.'
+  description: "Para os amantes da história, este livro explora o clã Vladers, ligando-os à figura histórica de Vlad, o Empalador, e suas raízes sombrias no leste europeu."
 - title: 'Vampiro a Máscara - Livro de Nod'
-  description: 'Um texto mítico e fundamental no universo de Vampiro a Máscara, o Livro de Nod narra a criação dos vampiros por Caim e a profecia da Gehenna, o fim dos tempos dos Cainitas.'
+  description: "As escrituras ancestrais dos vampiros. Este livro sagrado revela os mitos e as profecias dos Cainitas, contando a história da criação e do destino de sua espécie."
 - title: 'Vampiro a Máscara - Los Angeles à Noite'
-  description: 'Uma ambientação detalhada de Los Angeles para Vampiro a Máscara, com personagens, locais e intrigas que dão vida à cidade dos anjos sob a perspectiva dos Membros.'
+  description: "As luzes brilhantes de Los Angeles escondem uma sombra eterna. Este cenário explora as intrigas e os conflitos vampíricos na cidade dos anjos, onde a glória e a perdição se encontram."
 - title: 'Vampiro a Máscara - Manual do Narrador'
-  description: 'Este manual oferece ao Narrador de Vampiro a Máscara ferramentas avançadas, dicas para construção de crônicas, e insights sobre como aprofundar os temas de horror pessoal e moralidade.'
+  description: "O guia completo para o Narrador que comanda as noites de Vampiro a Máscara. Dicas, ferramentas e inspirações para criar crônicas inesquecíveis no Mundo das Trevas."
 - title: 'Vampiro a Máscara - Módulo Básico'
-  description: 'O livro essencial para iniciar sua jornada em Vampiro a Máscara. Mergulhe em um mundo de trevas e intrigas onde você é um vampiro lutando para sobreviver e manter sua humanidade.'
+  description: "O ponto de partida para adentrar o Mundo das Trevas. Este módulo básico introduz o universo de Vampiro a Máscara, onde os Imortais se escondem entre os mortais."
 - title: 'Vampiro a Máscara - Módulo Básico - 3ª Edição'
-  description: 'A terceira edição do livro básico de Vampiro a Máscara, com regras revisadas e um aprofundamento do cenário do Mundo das Trevas, oferecendo uma experiência de jogo mais refinada.'
+  description: "Aprimorado para a terceira edição. Este módulo básico oferece uma experiência ainda mais profunda e detalhada do universo de Vampiro a Máscara, com regras e cenário expandidos."
 - title: 'Vampiro a Máscara - Noites de Profecia'
-  description: 'Uma série de eventos e sinais que anunciam a Gehenna em Vampiro a Máscara. Este suplemento detalha os presságios do apocalipse vampírico, permitindo que os Narradores incorporem esses eventos em suas crônicas.'
+  description: "Os presságios do fim se revelam. Esta crônica explora as Noites de Profecia, onde os vampiros se preparam para a iminente Gehenna e o destino do Mundo das Trevas é selado."
 - title: 'Vampiro a Máscara - O Livro de Receitas Anarquistas'
-  description: 'Um guia prático para os vampiros Anarquistas, com táticas, estratégias e recursos para aqueles que buscam derrubar a Camarilla e lutar por liberdade e autonomia no Mundo das Trevas.'
+  description: "Para os corações rebeldes. Este livro oferece estratégias, táticas e ideias para a seita Anarquista, que busca subverter a Camarilla e construir sua própria liberdade."
 - title: 'Vampiro a Máscara - Os Caçadores Caçados'
-  description: 'Explore o lado dos caçadores de vampiros em Vampiro a Máscara, oferecendo uma perspectiva sobre as organizações mortais que lutam contra os Cainitas. Perfeito para introduzir antagonistas ou histórias de caçadores.'
+  description: "Quando o caçador se torna a presa. Este volume inverte os papéis, explorando as histórias dos caçadores de vampiros que se veem perseguidos pelos próprios monstros que buscam destruir."
 - title: 'Vampiro a Máscara - Os Membros Mais Procurados'
-  description: 'Detalhes sobre os vampiros mais infames e procurados do Mundo das Trevas. Este suplemento oferece antagonistas poderosos e enredos para as crônicas mais perigosas.'
+  description: "Os Cainitas mais notórios e perigosos. Este livro detalha os vampiros procurados pela Camarilla ou Sabá, cada um com sua própria história de poder e transgressão."
 - title: 'Vampiro a Máscara - Refúgios dos Amaldiçoados'
-  description: 'Explore locais secretos e seguros onde vampiros podem se esconder da luz do sol e de seus inimigos. Este suplemento descreve diversos refúgios com suas peculiaridades e perigos.'
+  description: "Os santuários e esconderijos na noite eterna. Este guia explora os refúgios dos amaldiçoados, locais onde os vampiros buscam segurança e poder em meio à escuridão."
 - title: 'Vampiro a Máscara - Revelações da Mãe Sombria'
-  description: 'Descubra os segredos ancestrais e as lendas sombrias que envolvem a Mãe Sombria, uma figura mítica no universo de Vampiro a Máscara, com implicações profundas para a história dos vampiros.'
+  description: "Os segredos de Lilith e sua influência no Mundo das Trevas. Este livro aprofunda os mistérios da Mãe Sombria e seu legado nas linhagens vampíricas."
 - title: 'Vampiro a Máscara - Succubus Club a Festa dos Mortos'
-  description: 'Uma aventura misteriosa e intrigante ambientada no Succubus Club, um local infame no Mundo das Trevas, onde vampiros se reúnem e segredos sombrios são revelados.'
+  description: "Um local de perdição e prazer. Esta aventura se desenrola no Succubus Club, onde vampiros se reúnem em meio a uma atmosfera de sedução e perigo."
 - title: 'Vampiro a Máscara - Tempo do Sangue Fraco'
-  description: 'Explore a ascensão dos vampiros de Sangue Fraco e suas implicações para a sociedade Cainita em Vampiro a Máscara. Este suplemento detalha suas habilidades e os desafios que enfrentam.'
+  description: "O declínio da linhagem. Este volume explora o fenômeno do Sangue Fraco, vampiros cujas conexões com Caim são tênues, marcando uma nova era para os Cainitas."
 - title: 'Vampiro a Máscara - Temporada de Caça'
-  description: 'Uma campanha intensa de caça e sobrevivência para Vampiro a Máscara, onde os personagens são alvos de caçadores poderosos. Perfeito para testar a astúcia e as habilidades dos seus vampiros.'
+  description: "A caçada começa. Este livro detalha as regras e os desafios de uma Temporada de Caça, onde os vampiros se tornam presas dos caçadores mortais."
 - title: 'Vampiro a Máscara - Vampiros do Oriente'
-  description: 'Aprofunde-se nos mistérios e na mitologia dos Kuei-jin, os vampiros orientais, e sua relação com os Cainitas ocidentais. Este suplemento expande o universo de Vampiro para o Leste.'
+  description: "As lendas dos vampiros do leste. Este volume explora as diversas linhagens e tradições dos vampiros que habitam as terras do Oriente, com suas próprias filosofias e mistérios."
 - title: 'Vampiro o Réquiem - Feitiços da Anciã'
-  description: 'Explore os rituais arcanos e os segredos ancestrais da magia de sangue em Vampiro: O Réquiem. Este suplemento revela novas formas de taumaturgia e rituais poderosos.'
+  description: "Os rituais sussurrados pelos mais antigos vampiros. Este livro revela os Feitiços da Anciã, magias poderosas e arcaicas para aqueles que buscam o verdadeiro poder."
 - title: 'Vampiro o Réquiem - Módulo Básico'
-  description: 'O livro fundamental de Vampiro: O Réquiem, introduzindo um novo Mundo das Trevas, onde vampiros lutam por poder e identidade em uma sociedade fragmentada e misteriosa.'
+  description: "Uma nova era para os Amaldiçoados. Este módulo básico apresenta o Réquiem, um novo sistema de Vampiro, onde os Cainitas buscam seu lugar em um mundo em constante mudança."
 - title: 'Vampiro o Réquiem - O Filho de Maria'
-  description: 'Uma narrativa envolvente e sombria em Vampiro: O Réquiem, explorando temas de fé, redenção e os mistérios do sangue. Uma aventura para testar a moralidade dos seus personagens.'
+  description: "Os mistérios de uma linhagem secreta. Esta crônica mergulha na história do Filho de Maria, revelando segredos ancestrais e os perigos de seu legado."
 - title: 'Vampiro o Réquiem - O Testamento de Longino'
-  description: 'Descubra os segredos do lendário Longino e seu legado para os vampiros em Vampiro: O Réquiem. Este suplemento revela informações cruciais sobre a história e a natureza dos Cainitas.'
+  description: "As palavras de um imortal que testemunhou os primórdios. Este livro revela o Testamento de Longino, uma figura mítica cuja sabedoria pode moldar o destino dos vampiros."
 - title: 'Vampiro o Réquiem - Os Poderes do Dragão'
-  description: 'Aprofunde-se nas Disciplinas de sangue e nos poderes inatos dos vampiros em Vampiro: O Réquiem. Este suplemento oferece novas opções e insights sobre as habilidades sobrenaturais.'
+  description: "Os dons ocultos da linhagem. Este volume explora os Poderes do Dragão, habilidades místicas e rituais que concedem aos vampiros um controle ainda maior sobre o mundo."
 - title: 'Vampiro o Réquiem - Ritos e Práticas do Círculo da Anciã'
-  description: 'Explore os rituais e a sabedoria ancestral do Círculo da Anciã em Vampiro: O Réquiem. Este suplemento detalha suas crenças, suas práticas de sangue e seu papel na sociedade vampírica.'
+  description: "Os rituais mais sagrados e profanos dos vampiros. Este livro detalha os Ritos e Práticas do Círculo da Anciã, mostrando como os mais velhos mantêm seu poder e influência."
 - title: 'Vampiro o Réquiem - Segredos Tebanos'
-  description: 'Desvende os segredos ocultos da teologia vampírica e os mistérios de clãs antigos em Vampiro: O Réquiem. Este suplemento revela verdades chocantes sobre a história dos Cainitas.'
+  description: "Os mistérios ancestrais do Egito. Este volume desvenda os Segredos Tebanos, revelando a história e as práticas dos vampiros do Nilo, herdeiros de um legado milenar."
 - title: 'Ação!!! - Escudo do Mestre'
-  description: 'Um escudo prático para o Mestre do sistema Ação!!!, com tabelas de referência rápida e informações essenciais para agilizar a condução de suas sessões de RPG de ação e aventura.'
+  description: "Um escudo para o mestre que orquestra a ação e o caos. Tabelas e referências rápidas para manter o ritmo acelerado de Ação!!! e garantir que a aventura nunca pare."
 - title: 'Ação!!! - Ficha de Personagem'
-  description: 'Fichas de personagem detalhadas e intuitivas para o sistema Ação!!!, facilitando a criação e o controle de seus heróis em aventuras cheias de adrenalina e perigo.'
+  description: "A folha onde a adrenalina dos heróis é registrada. Esta ficha de personagem é essencial para criar agentes destemidos e aventureiros cheios de energia em Ação!!!."
 - title: 'Ação!!! - Módulo Básico'
-  description: 'O livro de regras fundamental para o sistema Ação!!!, oferecendo tudo o que você precisa para criar heróis e viver aventuras emocionantes em diversos gêneros, com foco na narrativa ágil.'
+  description: "Pura adrenalina e emoção. Este módulo básico de Ação!!! mergulha os jogadores em um mundo de explosões, perseguições e combates intensos, onde a aventura é o lema."
 - title: 'Angus RPG - Escudo do Mestre'
-  description: 'Um escudo para o Mestre do Angus RPG, com informações essenciais e tabelas para agilizar a condução de campanhas de fantasia medieval neste sistema brasileiro.'
+  description: "Para o bardo contador de histórias, um escudo que guarda os segredos de Angus. Tabelas e informações para guiar as sagas épicas e as canções de heroísmo."
 - title: 'Angus RPG'
-  description: 'O livro básico de Angus RPG, um sistema brasileiro de fantasia medieval que promete aventuras épicas em um mundo repleto de magia, perigos e desafios para os heróis.'
+  description: "Embarcai em aventuras épicas nas terras de Angus. Este livro básico oferece as regras e o cenário para explorar um mundo de fantasia e lendas."
 - title: 'Angus RPG - Mapa'
-  description: 'Um mapa detalhado do mundo de Angus RPG, perfeito para mestres e jogadores explorarem as terras, cidades e masmorras deste cenário de fantasia.'
+  description: "Um mapa que revela os reinos de Angus, de florestas ancestrais a montanhas imponentes. Guias-vos por cada trilha e cada recanto desta terra de maravilhas."
 - title: '13ª Era - Dado de Intensidade'
-  description: 'Um dado de referência para o sistema 13ª Era, utilizado para determinar a intensidade de ícones e eventos, adicionando um elemento dinâmico às suas campanhas.'
+  description: "O dado que amplifica o destino. O Dado de Intensidade adiciona uma camada extra de imprevisibilidade e emoção aos combates de 13ª Era, elevando o drama a cada rolagem."
 - title: '13ª Era - Livro Básico'
-  description: 'O livro fundamental de 13ª Era, um RPG de fantasia heroica que foca na relação dos personagens com os Poderosos Ícones do mundo, criando histórias épicas e interligadas.'
+  description: "O portal para a 13ª Era, um mundo de ícones poderosos e destinos interligados. Este livro básico oferece as regras e o cenário para aventuras épicas em um reino em constante mudança."
 - title: '2Q RPG - Mesoilha - A Ilha do Meio'
-  description: 'Explore a Mesoilha, um cenário de campanha intrigante para 2Q RPG, repleto de mistérios, facções e oportunidades de aventura em uma ilha isolada e cheia de segredos.'
+  description: "Descobri os mistérios de Mesoilha, um local onde o equilíbrio e a natureza são tudo. Uma aventura única para os viajantes de 2Q RPG."
 - title: '2Q RPG - Módulo Básico 0.9'
-  description: 'A versão preliminar do módulo básico de 2Q RPG, oferecendo as regras essenciais para começar a jogar este sistema com foco em protagonistas e narrativa.'
+  description: "A primeira centelha de 2Q RPG. Este módulo básico na versão 0.9 introduz as mecânicas fundamentais e o cenário para os primeiros passos na jornada."
 - title: '2Q RPG - Módulo Básico 1.0 - Volume 1 - Protagonistas'
-  description: 'O primeiro volume do módulo básico de 2Q RPG, focado na criação e desenvolvimento de personagens protagonistas, com regras e conceitos para dar profundidade aos seus heróis.'
+  description: "O primeiro tomo da versão 1.0 de 2Q RPG, dedicado aos protagonistas. Aqui, encontrai tudo o que é preciso para criar e desenvolver vossos heróis nesta nova era."
 - title: '2Q RPG - Módulo Básico 1.0 - Volume 2 - Narradores'
-  description: 'O segundo volume do módulo básico de 2Q RPG, dedicado aos Narradores, com dicas, ferramentas e inspirações para criar histórias envolventes e conduzir sessões memoráveis.'
+  description: "O segundo tomo da versão 1.0 de 2Q RPG, um guia essencial para os narradores. Ferramentas, dicas e inspirações para conduzir as histórias e os desafios do mundo."
 - title: '2Q RPG - Módulo Básico 1.0 - Volume 3 - Combates'
-  description: 'O terceiro volume do módulo básico de 2Q RPG, com regras detalhadas para combates dinâmicos e estratégicos, garantindo que os confrontos sejam emocionantes e decisivos.'
+  description: "O terceiro tomo da versão 1.0 de 2Q RPG, focado nos combates. Aprendei as táticas e as regras para enfrentar os desafios e sair vitorioso das batalhas."
 - title: '7º Mar - Guia do Jogador'
-  description: 'Um guia completo para jogadores de 7º Mar, o RPG de capa e espada. Contém regras de criação de personagem, novas perícias e dicas para se tornar um herói lendário nos mares de Théah.'
+  description: "Para os corsários e heróis dos Sete Mares. Este guia oferece as ferramentas para criar personagens e navegar pelas águas perigosas e pelas intrigas de Thèah."
 - title: '7º Mar - Guia do Mestre'
-  description: 'Um guia essencial para o Mestre de 7º Mar, com dicas para construir aventuras cheias de intrigas políticas, duelos de espada e exploração de um mundo vibrante de piratas e nobres.'
+  description: "O mapa para os reinos perigosos e as intrigas dos Sete Mares. Este guia do mestre oferece recursos para conduzir aventuras épicas de pirataria e mistério."
 - title: '7º Mar - Mais Forte que a Espada'
-  description: 'Expanda suas aventuras em 7º Mar com este suplemento, adicionando novas escolas de esgrima, truques de combate e aprofundando o sistema de duelos para tornar as lutas ainda mais épicas.'
+  description: "As palavras podem ser mais afiadas que qualquer lâmina. Este suplemento explora o poder da intriga, da diplomacia e da astúcia em um mundo de duelos e traições."
 - title: '7º Mar - Livro Básico de Regras'
-  description: 'O livro fundamental de 7º Mar, que transporta os jogadores para um mundo de aventura, intriga e romance no século XVII, onde piratas, mosqueteiros e feiticeiros vivem em alto mar.'
+  description: "As ondas vos chamam! Este livro básico de 7º Mar apresenta as regras para se tornar um herói em um mundo de capa e espada, pirataria e mistério nas vastas águas de Thèah."
 - title: 'Violentina Um Jogo Marginal de Contar'
-  description: 'Um RPG de mesa que explora a realidade marginal do Brasil, com uma abordagem sombria e visceral. Perfeito para histórias urbanas e de sobrevivência em um cenário implacável.'
+  description: "As ruas sussurram histórias de violência e redenção. Violentina é um jogo marginal de contar, onde cada ação tem um preço e cada escolha molda um destino sombrio."
 - title: 'Violentina - Trash'
-  description: 'Expanda o universo de Violentina com este suplemento, mergulhando nas subculturas "trash" e nos aspectos mais bizarros e perturbadores da sociedade marginal.'
+  description: "O lado mais bruto e visceral de Violentina. Este suplemento mergulha no submundo do crime e da decadência, onde a sobrevivência é a única regra."
 - title: 'Violentina - Nostra'
-  description: 'Explore o mundo do crime organizado e da máfia em Violentina. Este suplemento adiciona elementos de intriga, lealdade e traição para crônicas focadas em sindicatos criminosos.'
+  description: "As famílias que controlam as sombras. Este volume explora as intrigas e os códigos de honra da 'Nostra', a máfia de Violentina, onde a lealdade é um luxo perigoso."
 - title: 'Violentina - Gótica'
-  description: 'Mergulhe no lado sombrio e melancólico do universo de Violentina, explorando temas de horror gótico, decadência e segredos ancestrais que assombram as grandes cidades.'
+  description: "O horror e a melancolia se entrelaçam com a violência. Este suplemento traz elementos góticos para Violentina, criando histórias de sofrimento e beleza sombria."
 - title: 'Violentina - Gabarito de Mesa (A3)'
-  description: 'Um gabarito de mesa para Violentina no formato A3, contendo informações e regras de referência rápida para facilitar a condução das sessões pelo mestre.'
+  description: "Uma ferramenta essencial para o jogo. Este gabarito de mesa em A3 oferece referências rápidas e visuais para conduzir as tensas narrativas de Violentina."
 - title: 'Violentina - Rádio Violentina'
-  description: 'Um suplemento que adiciona elementos de mídia e comunicação ao universo de Violentina, explorando rádios piratas, transmissões clandestinas e a disseminação de informações no submundo.'
+  description: "Os ecos da cidade em vossas mãos. Rádio Violentina é uma trilha sonora e um guia de atmosfera para as crônicas, transmitindo os sons e os sussurros do submundo."
 - title: 'Rastro de Cthulhu Planilha_de Investigador'
-  description: 'Fichas de personagem para Rastro de Cthulhu, o RPG de horror investigativo baseado nos Mitos de Cthulhu, com foco nas habilidades de investigação e nos pontos de sanidade.'
+  description: "As marcas da sanidade e do terror. Esta planilha permite registrar os atributos e a descida à loucura dos investigadores que ousam desvendar os mistérios de Cthulhu."
 - title: 'Rastro de Cthulhu O Morro do Silêncio'
-  description: 'Uma aventura assustadora para Rastro de Cthulhu, levando os investigadores a um morro isolado onde o silêncio esconde segredos ancestrais e horrores cósmicos à espreita.'
+  description: "Uma colina onde o silêncio guarda segredos aterrorizantes. Esta aventura leva os investigadores a desvendar os mistérios de um local onde o Mítico espreita nas sombras."
 - title: 'Rastro de Cthulhu O Incrível Caso'
-  description: 'Um mistério intrigante para Rastro de Cthulhu, desafiando os investigadores a desvendar um caso bizarro que os levará aos limites da sanidade e da realidade.'
+  description: "Um mistério que desafia a razão. Este caso de Rastro de Cthulhu testa a sanidade dos investigadores enquanto eles mergulham em uma trama de horrores cósmicos."
 - title: 'Rastro de Cthulhu - Livro de Regras'
-  description: 'O livro básico de Rastro de Cthulhu, um RPG que utiliza o sistema Gumshoe para focar na investigação de mistérios sobrenaturais e na luta contra os horrores indescritíveis dos Mitos de Cthulhu.'
+  description: "Os segredos do Mítico, revelados. Este livro de regras de Rastro de Cthulhu equipa os investigadores com as ferramentas para enfrentar os horrores cósmicos e desvendar mistérios inomináveis."
 - title: 'Rastro de Cthulhu - Horror em Kingsbury'
-  description: 'Uma aventura de horror Lovecraftiano em Kingsbury para Rastro de Cthulhu, onde os investigadores enfrentarão cultos sombrios e a manifestação de entidades cósmicas em uma cidade aparentemente tranquila.'
+  description: "As ruas de Kingsbury guardam um horror indescritível. Esta crônica leva os investigadores a desvendar uma série de eventos perturbadores que ameaçam a sanidade da cidade."
 - title: 'Rastro de Cthulhu - A Agonia de St Margaret'
-  description: 'Uma aventura sombria e desesperadora para Rastro de Cthulhu, explorando os segredos de um convento e a agonia de suas freiras, que escondem uma verdade terrível ligada aos Mitos.'
+  description: "Uma história de desespero e revelações sombrias. Esta aventura de Rastro de Cthulhu mergulha em um cenário onde a fé é testada e os mistérios cósmicos se revelam."
 - title: 'Chamado de Cthulhu Ficha de Personagem'
-  description: 'Fichas de personagem clássicas para Chamado de Cthulhu, o icônico RPG de horror cósmico, essenciais para criar investigadores que desafiam os horrores indescritíveis dos Mitos.'
+  description: "O documento onde a sanidade se esvai. Esta ficha de personagem é essencial para registrar a jornada dos investigadores na face dos horrores cósmicos de Cthulhu."
 - title: 'Chamado de Cthulhu De Profundis'
-  description: 'Um suplemento para Chamado de Cthulhu que explora a loucura e a degradação mental dos investigadores, com regras e insights sobre a perda de sanidade e seus efeitos.'
+  description: "Os sussurros do abismo, traduzidos em palavras. De Profundis é um jogo epistolar que mergulha os jogadores na loucura gradual, onde as cartas revelam a verdade oculta."
 - title: 'Chamado de Cthulhu 7E Escudo'
-  description: 'Um escudo prático para o Guardião (Narrador) de Chamado de Cthulhu 7ª Edição, com tabelas de referência e arte imersiva para guiar suas sessões de horror cósmico.'
+  description: "Um escudo que vela os segredos inomináveis. Este escudo do guardião para a 7ª Edição de Chamado de Cthulhu oferece referências rápidas e essenciais para conduzir as sessões."
 - title: 'Chamado de Cthulhu 7E - Livro do Guardião (Preview)'
-  description: 'Uma prévia do Livro do Guardião para Chamado de Cthulhu 7ª Edição, oferecendo um vislumbre das novas regras e do cenário aprimorado para os mestres de horror.'
+  description: "Um vislumbre dos horrores que aguardam. Este preview do Livro do Guardião da 7ª Edição de Chamado de Cthulhu oferece um aperitivo dos mistérios cósmicos."
 - title: 'Chamado de Cthulhu - Tribal Dance.'
-  description: 'Uma aventura intrigante para Chamado de Cthulhu que leva os investigadores a desvendar mistérios ligados a rituais tribais sombrios e cultos ancestrais.'
+  description: "Os rituais primitivos e os medos ancestrais. Esta aventura de Chamado de Cthulhu explora a dança tribal e os ritos esquecidos que podem despertar entidades aterrorizantes."
 - title: 'Chamado de Cthulhu - Rigor Mortis'
-  description: 'Uma aventura macabra para Chamado de Cthulhu, explorando temas de morte, ressurreição e os horrores que espreitam além do véu da vida, desafiando a sanidade dos investigadores.'
+  description: "A rigidez da morte é apenas o começo. Esta crônica mergulha em um mistério macabro, onde os limites entre a vida e a morte se desfazem diante dos horrores cósmicos."
 - title: 'Chamado de Cthulhu - Livro Básico'
-  description: 'O livro essencial para mergulhar no RPG de horror cósmico Chamado de Cthulhu. Explore os Mitos de Cthulhu e tente manter sua sanidade diante de entidades indescritíveis.'
+  description: "O portal para a loucura e o terror cósmico. Este livro básico de Chamado de Cthulhu introduz o universo de H.P. Lovecraft, onde a humanidade é insignificante diante dos Grandes Antigos."
 - title: 'Chamado de Cthulhu - Fast Play'
-  description: 'Uma versão simplificada e rápida para jogar Chamado de Cthulhu, ideal para sessões introdutórias ou para quem deseja experimentar o horror cósmico de forma ágil.'
+  description: "Uma imersão rápida nos horrores inomináveis. Este guia de Fast Play de Chamado de Cthulhu permite que novos investigadores experimentem o terror rapidamente."
 - title: 'Chamado de Cthulhu - Documentos Sinistros'
-  description: 'Uma coletânea de documentos, notas e pistas para enriquecer suas campanhas de Chamado de Cthulhu. Perfeito para imersão e para desafiar as habilidades de investigação dos jogadores.'
+  description: "Evidências macabras e segredos proibidos. Este suplemento apresenta uma coleção de documentos sinistros, fragmentos que podem levar os investigadores à beira da loucura."
 - title: 'Chamado de Cthulhu - Degraus para o Abismo'
-  description: 'Uma aventura aterrorizante para Chamado de Cthulhu, onde os investigadores são arrastados para um abismo de loucura e horrores cósmicos, confrontando segredos que deveriam permanecer enterrados.'
+  description: "Cada passo leva mais perto da perdição. Esta aventura de Chamado de Cthulhu guia os investigadores por uma descida gradual rumo ao abismo do horror cósmico."
 - title: 'Chamado de Cthulhu - Cartões de Armas'
-  description: 'Um conjunto de cartões de referência para armas em Chamado de Cthulhu, facilitando o controle de equipamentos e o gerenciamento de combates nas suas investigações de horror.'
+  description: "As ferramentas para enfrentar o terror. Cartões de armas para Chamado de Cthulhu, oferecendo referências rápidas para o arsenal que pode (ou não) salvar os investigadores."
 - title: 'Chamado de Cthulhu - A Semente da Destruição'
-  description: 'Uma aventura apocalíptica para Chamado de Cthulhu, onde os investigadores devem impedir a ascensão de uma entidade cósmica que ameaça aniquilar a humanidade.'
+  description: "Uma semente de caos plantada em solo fértil. Esta crônica explora o início de uma calamidade, onde os investigadores devem impedir que a destruição se espalhe."
 - title: 'Chamado de Cthulhu - A Arte do Chamado de Cthulhu'
-  description: 'Uma coleção visual que celebra a icônica arte de Chamado de Cthulhu, apresentando ilustrações que capturam a essência do horror cósmico e seus monstros indescritíveis.'
+  description: "Um mergulho visual no horror cósmico. Este livro celebra a arte que define o universo de Chamado de Cthulhu, com ilustrações que evocam o medo e o mistério."
 - title: 'Old Dragon Livro Básico'
-  description: 'O livro fundamental de Old Dragon, um RPG de fantasia old-school focado em exploração de masmorras, combates táticos e a liberdade de criar suas próprias lendas em um mundo de aventura.'
+  description: "As fundações da aventura à moda antiga. Este Livro Básico de Old Dragon traz o espírito dos primeiros RPGs, com regras simples e foco na exploração e na imaginação."
 - title: 'Old Dragon Guia de Regras Opcionais de Combate'
-  description: 'Expanda o sistema de combate de Old Dragon com regras opcionais que adicionam profundidade e variedade aos confrontos. Ideal para mestres que buscam simulações mais detalhadas.'
+  description: "Para os mestres que buscam diversificar as batalhas. Este guia oferece regras opcionais de combate para Old Dragon, adicionando profundidade e variedade aos confrontos."
 - title: 'Old Dragon Guia de Raças'
-  description: 'Um guia completo das diversas raças disponíveis em Old Dragon, com detalhes sobre suas características, culturas e habilidades, permitindo criar personagens únicos e envolventes.'
+  description: "Os povos que habitam o reino de Old Dragon. Este guia explora as diversas raças, suas culturas e habilidades, permitindo criar personagens únicos e cativantes."
 - title: 'Old Dragon Fast Play (Divisória do Mestre)'
-  description: 'Uma divisória prática para o Mestre de Old Dragon Fast Play, com tabelas e informações essenciais para agilizar as sessões e manter o foco na aventura.'
+  description: "Uma ferramenta prática para o mestre ágil. Esta divisória de Fast Play de Old Dragon oferece referências rápidas e essenciais para a condução do jogo."
 - title: 'Old Dragon Bestiário'
-  description: 'Um vasto compêndio de monstros e criaturas para Old Dragon, com estatísticas, descrições e inspirações para desafiar seus aventureiros em masmorras e terras selvagens.'
+  description: "Os monstros que espreitam nas masmorras e florestas. Este bestiário de Old Dragon apresenta uma coleção de criaturas, de goblins astutos a dragões aterrorizantes."
 - title: 'Old Dragon Manual de Raças Volume I'
-  description: 'O primeiro volume do manual de raças para Old Dragon, aprofundando-se nas origens, culturas e habilidades das raças clássicas de fantasia, oferecendo novas opções de personalização.'
+  description: "O primeiro volume dedicado às raças de Old Dragon. Um aprofundamento nas características e na história dos povos que constroem este mundo de fantasia."
 - title: 'Old Dragon Manual de Monstros Volume I'
-  description: 'O primeiro volume do manual de monstros para Old Dragon, apresentando uma variedade de criaturas com suas estatísticas e descrições para povoar suas masmorras e florestas.'
+  description: "O primeiro tomo de um compêndio de feras. Este manual de monstros para Old Dragon detalha as criaturas mais comuns e as aberrações que desafiam os aventureiros."
 - title: 'Old Dragon Manual Completo para Drow'
-  description: 'Um guia detalhado sobre os Drow em Old Dragon, explorando sua cultura, sociedade, magias e habilidades, perfeito para campanhas que se aprofundam nas intrigas dos elfos negros.'
+  description: "Os segredos das criaturas da escuridão. Este manual completo para Drow em Old Dragon desvenda a cultura e os poderes desta raça subterrânea e enigmática."
 - title: 'Old Dragon Atualização de regras'
-  description: 'Documento de atualização para as regras de Old Dragon, trazendo erratas, esclarecimentos e pequenas modificações para aprimorar a experiência de jogo.'
+  description: "Aprimoramentos para a jornada. Este documento traz as atualizações de regras para Old Dragon, mantendo o jogo sempre fresco e balanceado."
 - title: 'Old Dragon - Fastplay - Personagens Prontos'
-  description: 'Um conjunto de personagens pré-gerados para Old Dragon Fast Play, ideal para começar a jogar imediatamente ou para ter opções rápidas em mãos durante uma sessão.'
+  description: "Para a aventura começar sem demora. Personagens prontos para o Fast Play de Old Dragon, permitindo que a ação e a exploração comecem instantaneamente."
 - title: 'Old Dragon - Xamãs'
-  description: 'Introduza o poder xamânico em Old Dragon com este suplemento, explorando as tradições, rituais e habilidades dos xamãs que se conectam com o mundo espiritual.'
+  description: "Os elos com o mundo espiritual. Este suplemento introduz os Xamãs em Old Dragon, mestres dos espíritos e da natureza, capazes de invocar forças ancestrais."
 - title: 'Old Dragon - Reinos de Moreania'
-  description: 'Um cenário de campanha detalhado para Old Dragon, os Reinos de Moreania, com geografia, história, facções e oportunidades de aventura para explorar este vasto mundo de fantasia.'
+  description: "Explorai as vastas terras de Moreania. Este guia detalha os reinos, suas intrigas e seus perigos, oferecendo um pano de fundo rico para as aventuras de Old Dragon."
 - title: 'Old Dragon - Raças para Tormenta'
-  description: 'Adapte as raças de Tormenta para o sistema Old Dragon, combinando a riqueza do cenário de Arton com as regras clássicas de exploração e combate de Old Dragon.'
+  description: "A união de dois mundos fantásticos. Este volume adapta as raças de Old Dragon para o cenário de Tormenta, expandindo as possibilidades para vossos heróis."
 - title: 'Old Dragon - Quintessência do Elfo'
-  description: 'Um aprofundamento na raça dos elfos em Old Dragon, revelando seus segredos, tradições e as essências que os tornam seres mágicos e antigos neste mundo de fantasia.'
+  description: "A essência dos elfos, revelada. Este suplemento explora a cultura, a magia e os mistérios dos elfos em Old Dragon, aprofundando o conhecimento sobre esta raça antiga."
 - title: 'Old Dragon - Psiônicos Volume II'
-  description: 'O segundo volume dedicado aos poderes psiônicos em Old Dragon, expandindo as habilidades mentais e psíquicas que seus personagens podem adquirir e dominar.'
+  description: "O segundo tomo dos poderes da mente. Este volume aprofunda os segredos dos psiônicos em Old Dragon, revelando novas disciplinas e mistérios da psique."
 - title: 'Old Dragon - Panteão Cósmico'
-  description: 'Explore as divindades e forças cósmicas que governam o universo de Old Dragon. Este suplemento detalha os deuses, seus dogmas e o impacto que exercem no mundo e nos mortais.'
+  description: "Os deuses e entidades que regem o universo de Old Dragon. Este livro explora o Panteão Cósmico, suas divindades e seus domínios, influenciando o destino dos mortais."
 - title: 'Old Dragon - O Patrulheiro'
-  description: 'Um suplemento que aprofunda a classe Patrulheiro em Old Dragon, com novas habilidades, arquétipos e opções para personagens que dominam a vida selvagem e a caça.'
+  description: "O guardião das florestas e o mestre da sobrevivência. Este suplemento aprofunda a classe do Patrulheiro em Old Dragon, revelando suas habilidades e seu elo com a natureza."
 - title: 'Old Dragon - Livro Básico Aprimorado'
-  description: 'Uma versão expandida e aprimorada do Livro Básico de Old Dragon, com conteúdo adicional, esclarecimentos de regras e talvez novas opções de jogo para aprimorar a experiência.'
+  description: "Uma versão refinada do Livro Básico de Old Dragon. Este volume aprimorado oferece uma experiência de jogo ainda mais polida e completa para os aventureiros."
 - title: 'Old Dragon - Ilha de Metron'
-  description: 'Uma ilha misteriosa e perigosa, a Ilha de Metron é um cenário de aventura para Old Dragon, repleta de ruínas antigas, monstros e segredos a serem descobertos pelos aventureiros.'
+  description: "Uma ilha isolada, cheia de mistérios e perigos. Esta aventura leva os heróis à Ilha de Metron, onde segredos antigos e criaturas selvagens aguardam."
 - title: 'Old Dragon - Guia de Vantagens e Desvantagens'
-  description: 'Um guia para Old Dragon que introduz sistemas de Vantagens e Desvantagens, permitindo uma personalização mais profunda dos personagens com bônus e penalidades que os tornam únicos.'
+  description: "Os pontos fortes e fracos que moldam vossos heróis. Este guia oferece uma vasta gama de vantagens e desvantagens para Old Dragon, permitindo maior personalização."
 - title: 'Old Dragon - Ficha Retrô'
-  description: 'Uma ficha de personagem com design retrô para Old Dragon, que evoca a nostalgia dos primeiros RPGs e oferece uma experiência clássica de jogo.'
+  description: "Uma viagem no tempo para os nostálgicos. Esta ficha retrô de Old Dragon evoca o espírito dos clássicos RPGs, com um design que remete às origens."
 - title: 'Old Dragon - Ficha Editavel'
-  description: 'Uma ficha de personagem editável para Old Dragon, perfeita para preenchimento digital, otimizando o processo de criação e gerenciamento de seus personagens.'
+  description: "Para a praticidade do aventureiro. Esta ficha editável de Old Dragon permite que os jogadores preencham e atualizem suas informações de forma digital e eficiente."
 - title: 'Old Dragon - Ficha de personagem oficial'
-  description: 'A ficha de personagem oficial para Old Dragon, com todos os campos necessários para acompanhar as habilidades, equipamentos e progressão de seus aventureiros.'
+  description: "O registro oficial de vossos heróis. Esta ficha de personagem de Old Dragon é o documento padrão para todas as aventuras, garantindo clareza e organização."
 - title: 'Old Dragon - Ficha de Personagem (Calculável)'
-  description: 'Uma ficha de personagem para Old Dragon com campos calculáveis, ideal para quem prefere uma versão digital que automatiza parte do preenchimento e dos cálculos.'
+  description: "Para os que buscam otimização. Esta ficha de personagem calculável de Old Dragon facilita o acompanhamento dos atributos e habilidades, tornando o jogo mais fluido."
 - title: 'Old Dragon - Ficha com magia'
-  description: 'Uma ficha de personagem para Old Dragon com seções dedicadas para o controle de magias, perfeita para conjuradores que precisam gerenciar seus feitiços durante as aventuras.'
+  description: "O grimório portátil para os conjuradores. Esta ficha de Old Dragon inclui seções dedicadas à magia, permitindo que os usuários de feitiços organizem seus conhecimentos arcanos."
 - title: 'Old Dragon - Fastplay - Tabelas de Referência'
-  description: 'Tabelas de referência rápida para Old Dragon Fast Play, essenciais para mestres e jogadores consultarem regras e informações cruciais durante as sessões de jogo.'
+  description: "As chaves para a agilidade no jogo. Tabelas de referência para o Fast Play de Old Dragon, permitindo consultas rápidas e um ritmo de jogo ininterrupto."
 - title: 'Old Dragon - Fastplay - Prepare sua Bagagem'
-  description: 'Um guia prático para Old Dragon Fast Play, focando na preparação e nos equipamentos essenciais para os aventureiros antes de embarcarem em suas jornadas.'
+  description: "O essencial para iniciar a jornada. Este guia de Fast Play de Old Dragon ajuda a preparar a bagagem dos aventureiros, garantindo que estejam prontos para o que vier."
 - title: 'Old Dragon - Fastplay - O Templo do Homem Cobra'
-  description: 'Uma aventura rápida para Old Dragon Fast Play, levando os personagens a um perigoso templo habitado por homens-cobra e outros perigos, ideal para uma sessão introdutória.'
+  description: "Uma aventura rápida e mortal. O Templo do Homem Cobra, um cenário para Fast Play de Old Dragon, leva os heróis a enfrentar perigos em um templo esquecido."
 - title: 'Old Dragon - Fastplay - O Reino de Bruntoll'
-  description: 'Um pequeno cenário de campanha para Old Dragon Fast Play, o Reino de Bruntoll, ideal para iniciar aventuras e explorar as características deste mundo de fantasia.'
+  description: "Um vislumbre de um novo reino. O Reino de Bruntoll, um cenário para Fast Play de Old Dragon, oferece um ponto de partida para aventuras em terras desconhecidas."
 - title: 'Old Dragon - Fastplay - Livro de Regras Básicas'
-  description: 'As regras básicas de Old Dragon em um formato Fast Play, permitindo que novos jogadores e mestres mergulhem rapidamente no sistema e comecem suas aventuras.'
+  description: "A essência das regras para iniciar a jornada. Este livro de regras básicas de Fast Play de Old Dragon é o guia para os primeiros passos na aventura."
 - title: 'Old Dragon - Acadêmicos'
-  description: 'Um suplemento que explora os acadêmicos e estudiosos em Old Dragon, com novas subclasses, talentos e regras para personagens focados em conhecimento e pesquisa arcana.'
+  description: "O saber dos eruditos e dos sábios. Este suplemento para Old Dragon explora os acadêmicos, aqueles que buscam o conhecimento através do estudo e da pesquisa."
 - title: 'Tormenta RPG Módulo Básico Edição (GUILDA DO MACACO)'
-  description: 'A edição do Módulo Básico de Tormenta RPG pela Guilda do Macaco, apresentando as regras fundamentais e o vasto cenário de Arton, um mundo vibrante de fantasia heroica com influências brasileiras.'
+  description: "O alvorecer de Arton em uma edição especial. Este módulo básico de Tormenta RPG, pela GUILDA DO MACACO, é a porta de entrada para um universo de aventura e perigo."
 - title: 'Tormenta – Conto – Arautos da Guerra'
-  description: 'Um conto imersivo que se passa no universo de Tormenta, explorando os Arautos da Guerra e os conflitos épicos que assolam Arton, oferecendo uma perspectiva literária do cenário.'
+  description: "As vozes que anunciam o conflito. Este conto de Tormenta narra a chegada dos Arautos da Guerra, prenunciando batalhas épicas e o destino de Arton."
 - title: 'Tormenta – Conto – Ressurreição'
-  description: 'Um conto emocionante ambientado em Tormenta, com foco nos temas de morte e renascimento, explorando os desafios e mistérios que cercam a vida após a morte em Arton.'
+  description: "A vida após a morte, um milagre ou uma maldição? Este conto de Tormenta explora a Ressurreição, onde os mistérios da vida e da morte se entrelaçam."
 - title: 'Tormenta – Conto – Vingador de Aço'
-  description: 'Um conto de aventura e heroísmo no mundo de Tormenta, seguindo um Vingador de Aço em sua jornada por justiça e retribuição em meio aos perigos de Arton.'
+  description: "A lâmina que busca justiça. Este conto de Tormenta narra a saga de um Vingador de Aço, um herói forjado pela dor e determinado a trazer a justiça para Arton."
 - title: 'Tormenta 3.5 – Calendário Artoniano'
-  description: 'Um detalhado calendário do mundo de Arton para Tormenta 3.5, com datas importantes, festivais e eventos que ajudam a ambientar suas campanhas no cenário.'
+  description: "O ritmo do tempo em Arton. Este calendário detalha os dias, as estações e os eventos importantes do universo de Tormenta 3.5, guiando vossas crônicas."
 - title: 'Tormenta 3.5 - Guia do Jogador'
-  description: 'Um guia essencial para jogadores de Tormenta 3.5, com informações detalhadas sobre a criação de personagens, classes, raças e as nuances do sistema para explorar Arton.'
+  description: "Para os que ousam explorar Arton. Este guia do jogador para Tormenta 3.5 oferece todas as ferramentas para criar heróis e se aventurar neste vasto e perigoso mundo."
 - title: 'Tormenta 3.5 - Guia do Mestre'
-  description: 'O guia indispensável para Mestres de Tormenta 3.5, oferecendo ferramentas para construir aventuras, gerenciar monstros e mergulhar nas complexidades do cenário de Arton.'
+  description: "O compasso para as lendas de Arton. Este guia do mestre para Tormenta 3.5 é um tesouro de informações e inspirações para conduzir as mais grandiosas aventuras."
 - title: 'Tormenta 3.5 – Guia do Viajante'
-  description: 'Explore os diversos cantos de Arton com o Guia do Viajante para Tormenta 3.5. Descubra cidades, locais icônicos e dicas para aventuras em cada região do cenário.'
+  description: "Para os que cruzam as terras de Arton. Este guia do viajante oferece informações sobre os locais, culturas e perigos do continente, essencial para toda jornada."
 - title: 'Tormenta 3.5 - O Guardião da Morte'
-  description: 'Uma aventura intrigante para Tormenta 3.5, onde os heróis devem enfrentar uma ameaça ligada aos mistérios da morte e a um poderoso Guardião em Arton.'
+  description: "Aquele que vela sobre os domínios da morte. Esta crônica de Tormenta 3.5 explora a figura do Guardião da Morte e os mistérios que o cercam nos reinos além da vida."
 - title: 'Tormenta D20 - Cenário de Campanha'
-  description: 'O livro que define o universo de Tormenta no sistema D20, apresentando o cenário de Arton, suas divindades, culturas e as ameaças que moldam este mundo de fantasia heroica.'
+  description: "O palco para vossas lendas. Este cenário de campanha para Tormenta D20 apresenta o continente de Arton, um mundo de fantasia repleto de perigos, maravilhas e oportunidades."
