@@ -36,7 +36,7 @@ body{transition:margin-left var(--transition-speed) ease;background:linear-gradi
     let subtitleText="Seu acervo digital de livros de RPG.";
 
     if (currentView === 'home') {
-        titleContent = <img src="./image/logo.png" alt="Biblioteca Druídica" className="h-24 mx-auto mb-4" />; // Ajuste o caminho e a altura conforme necessário
+        titleContent = <img src="./image/logo.png" alt="Biblioteca Druídica" className="h-42 mx-auto mb-4" />; // Ajuste o caminho e a altura conforme necessário
     } else if (currentView === 'category') {
         titleContent = <h1 className="text-4xl md:text-5xl font-bold mb-2 text-white">{selectedCategory}</h1>;
         subtitleText = `Livros e suplementos para ${selectedCategory}.`;
