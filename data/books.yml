@@ -1,3237 +1,1175 @@
 - title: 'Fichas D&D 5D'
+  author: 'Wizards RPG Team'
   imageUrl: './image/fd&d.webp'
   driveLink: 'https://drive.google.com/open?id=1IZ4W2gpCto72gS7pGqnkJ3WdVw4nPgYS'
   category: 'D&D 5E'
 - title: 'Guia do Mestre D&D 5D'
+  author: 'Wizards RPG Team'
   imageUrl: './image/dd5e.webp'
   driveLink: 'https://drive.google.com/file/d/1D47GVi2aK8-Zj1GGEqltqekny8YDEHr_/view?usp=sharing'
   category: 'D&D 5E'
 - title: 'Livro Do Jogador D&D 5D'
+  author: 'Wizards RPG Team'
   imageUrl: './image/lg.webp'
   driveLink: 'https://drive.google.com/open?id=1fj5SfDPJcu6TRqa7uPhdFfMiWNbknsB3'
   category: 'D&D 5E'
 - title: 'Manual Dos Monstros D&D 5D'
+  author: 'Wizards RPG Team'
   imageUrl: './image/mm.webp'
   driveLink: 'https://drive.google.com/open?id=1FxBnllUL_xpTiCRm-K8Aa9BpO7Wmuset'
   category: 'D&D 5E'
 - title: 'Regras Básicas dos Jogadores D&D 5D'
+  author: 'Wizards RPG Team'
   imageUrl: './image/rbdj.webp'
   driveLink: 'https://drive.google.com/open?id=1YAWEnx-EdiT7hp1LkPng5mw-pHeEbYvE'
   category: 'D&D 5E'
 - title: 'Guia do Volo para Monstros D&D 5D'
+  author: 'Wizards RPG Team'
   imageUrl: './image/gdvpm.webp'
   driveLink: 'https://drive.google.com/file/d/1L_qgZQFx_F1IuG2Y5gvSfpPgSRIvrqO2/view'
   category: 'D&D 5E'
 - title: 'Guia De Xanathar Para Todas As Coisas D&D 5D'
+  author: 'Wizards RPG Team'
   imageUrl: './image/gdxptac.webp'
   driveLink: 'https://drive.google.com/open?id=1CqTvN7Bg8vTkWRzLCpuXCrJPXsZ-1RaH'
   category: 'D&D 5E'
 - title: 'Guia de Classe - Ninja D&D 5D'
+  author: 'Wizards RPG Team'
   imageUrl: './image/gdcn.webp'
   driveLink: 'https://drive.google.com/open?id=1Lh77bNJeM6gsWGFfSOFPQTPaCzhifryT'
   category: 'D&D 5E'
 - title: 'Costa da Espada - Guia de Aventureiros D&D 5D'
+  author: 'Wizards RPG Team'
   imageUrl: './image/cdegda.webp'
   driveLink: 'https://drive.google.com/file/d/1BYItAVMpoOiI0xV-PBx_Df4DVWgCGDuD/view'
   category: 'D&D 5E'
 - title: 'Compêndio do Jogador - Elemental Evil D&D 5D'
+  author: 'Wizards RPG Team'
   imageUrl: './image/cdjee.webp'
   driveLink: 'https://drive.google.com/open?id=1efMjhTbA9UukW1aRu6o2WQWn3Rv3Ev96'
   category: 'D&D 5E'
 - title: 'Compêndio de Magia D&D 5D'
+  author: 'Wizards RPG Team'
   imageUrl: './image/cdm.webp'
   driveLink: 'https://drive.google.com/open?id=1k5PdiAPycY4HeELu_f0T6suJykLi58VN'
   category: 'D&D 5E'
 - title: 'Moderno D&D 5D'
+  author: 'Wizards RPG Team'
   imageUrl: './image/md.webp'
   driveLink: 'https://drive.google.com/open?id=1Ef_zfgc_1AmlAX1a4nRgCscAkLLxdYHN'
   category: 'D&D 5E'
 - title: 'Fora Do Abismo D&D 5D'
+  author: 'Wizards RPG Team'
   imageUrl: './image/fda.webp'
   driveLink: 'https://drive.google.com/open?id=1i_AwatW3uSxdZBotVtaI4eHRLXDQwtFn'
   category: 'D&D 5E'
 - title: 'Assassinato em Baldur''s Gate D&D 5D'
+  author: 'Wizards RPG Team'
   imageUrl: './image/aebg.webp'
   driveLink: 'https://drive.google.com/open?id=1A5UTBa3N1gZRymO7-k_MiIMwq6vv4cp9'
   category: 'D&D 5E'
 - title: 'Unearthed Arcana - Ranger e Ladino D&D 5D'
+  author: 'Gary Gygax'
   imageUrl: './image/uareg.webp'
   driveLink: 'https://drive.google.com/open?id=1KSYsH9YA8JUlusv3HYLqhh3N0Y_eSW6F'
   category: 'D&D 5E'
 - title: 'Unearthed Arcana - Talentos para Raças D&D 5D'
+  author: 'Gary Gygax'
   imageUrl: './image/uatpr.webp'
   driveLink: 'https://drive.google.com/open?id=1LZ3rOcqVQeBA441O1_NmiCDuYuEb3Sb-'
   category: 'D&D 5E'
 - title: 'Unearthed Arcana - Monge - Tradições Monásticas D&D 5D'
+  author: 'Gary Gygax'
   imageUrl: './image/uamtm.webp'
   driveLink: 'https://drive.google.com/open?id=1-8D3LBX8KbIoHDsowcGCGW4ugKjtGylJ'
   category: 'D&D 5E'
 - title: 'Unearthed Arcana - Talentos D&D 5D'
+  author: 'Gary Gygax'
   imageUrl: './image/uat.webp'
   driveLink: 'https://drive.google.com/open?id=1T2OzvBg5aNxtcXfX9KI5I4i8i61zlKWM'
   category: 'D&D 5E'
 - title: 'Unearthed Arcana O Ranger, Revisado D&D 5D'
+  author: 'Gary Gygax'
   imageUrl: './image/uaorr.webp'
   driveLink: 'https://drive.google.com/open?id=1LkiNDTDT2z_qz0rzyBw8AZpZwVNg8YcL'
   category: 'D&D 5E'
 - title: 'Unearthed Arcana Druida - Círculos Druídicos D&D 5D'
+  author: 'Gary Gygax'
   imageUrl: './image/uadcd.webp'
   driveLink: 'https://drive.google.com/open?id=1ngAYrVEn2nWr4ixQRf4_WDp0FqQ6Kzbq'
   category: 'D&D 5E'
 - title: 'Unearthed Arcana Aventuras Aquáticas D&D 5D'
+  author: 'Gary Gygax'
   imageUrl: './image/uaaa.webp'
   driveLink: 'https://drive.google.com/open?id=18rmg1kyKnoCmDInn_iRJ3JOM6awY6RC1'
   category: 'D&D 5E'
 - title: 'Unearthed Arcana - Construindo Encontros D&D 5D'
+  author: 'Gary Gygax'
   imageUrl: './image/uace.webp'
   driveLink: 'https://drive.google.com/open?id=1knVmeJgw13-UeWjign_MhEKh6zQHSWQj'
   category: 'D&D 5E'
 - title: 'Unearthed Arcana Luz, Escuridão, Subterrâneo D&D 5D'
+  author: 'Gary Gygax'
   imageUrl: './image/uales.webp'
   driveLink: 'https://drive.google.com/open?id=1B2kfcKfkC7TTTQ4Q1Z5_6REjEv0hw5zX'
   category: 'D&D 5E'
 - title: 'Unearthed Arcana - Bárbaro - Caminhos Primitivos D&D 5D'
+  author: 'Gary Gygax'
   imageUrl: './image/uaabcp.webp'
   driveLink: 'https://drive.google.com/open?id=1bM_CkJ5-HiKDsFPYXHMsISZtwXpxlFpd'
   category: 'D&D 5E'
 - title: 'Unearthed Arcana - Bruxo e Mago - Patrono Transcendental e Tradição Arcana D&D 5D'
+  author: 'Gary Gygax'
   imageUrl: './image/uabempteta.webp'
   driveLink: 'https://drive.google.com/open?id=18_QGSkQPPKU72iCgTCP7rP_mWvqnjekd'
   category: 'D&D 5E'
 - title: 'Unearthed Arcana - Classes de Prestígio e Magias das Runas D&D 5D'
+  author: 'Gary Gygax'
   imageUrl: './image/uacdpemdr.webp'
   driveLink: 'https://drive.google.com/open?id=1wCxWszR3TvnQoFkGIJcvDWAH32NJjgFd'
   category: 'D&D 5E'
 - title: 'Unearthed Arcana - Clérigo - Domínios Divinos D&D 5D'
+  author: 'Gary Gygax'
   imageUrl: './image/uacdd.webp'
   driveLink: 'https://drive.google.com/open?id=1qizJ_O_gi7nRYOzuD7qBuLvxLuH0OacF'
   category: 'D&D 5E'
 - title: 'Unearthed Arcana - Combate em Massa D&D 5D'
+  author: 'Gary Gygax'
   imageUrl: './image/uacem.webp'
   driveLink: 'https://drive.google.com/open?id=1cj0-thz2YVqtlQXQWNeFmS792VTISn50'
   category: 'D&D 5E'
 - title: 'Unearthed Arcana - Eberron D&D 5D'
+  author: 'Gary Gygax'
   imageUrl: './image/uae.webp'
   driveLink: 'https://drive.google.com/open?id=1W_GyoTLMCykszkI58uIfIUXwxxS-Jwqa'
   category: 'D&D 5E'
 - title: 'Unearthed Arcana - Feiticeiro D&D 5D'
+  author: 'Gary Gygax'
   imageUrl: './image/uaf.webp'
   driveLink: 'https://drive.google.com/open?id=1DYnGjqD97Nl1Yub5wv--j9_kQOm91B7x'
   category: 'D&D 5E'
 - title: 'Unearthed Arcana - Guerreiro - Arquétipos Marciais D&D 5D'
+  author: 'Gary Gygax'
   imageUrl: './image/uagam.webp'
   driveLink: 'https://drive.google.com/open?id=14Lgmx2Jl-4fkSs_h_Q_kIMU23h2K8ZL4'
   category: 'D&D 5E'
 - title: 'Unearthed Arcana - Mago Revisitado D&D 5D'
+  author: 'Gary Gygax'
   imageUrl: './image/uamr.webp'
   driveLink: 'https://drive.google.com/open?id=1xxv1lAPloZDQ-keXIQ9IxTiAUddKmXZb'
   category: 'D&D 5E'
 - title: 'Unearthed Arcana - Modificando Classes D&D 5D'
+  author: 'Gary Gygax'
   imageUrl: './image/uamc.webp'
   driveLink: 'https://drive.google.com/open?id=1NSotphhXosLQmUxqvSuf837q5EHsmyHb'
   category: 'D&D 5E'
 - title: 'Unearthed Arcana - Paladino - Juramentos Sagrados D&D 5D'
+  author: 'Gary Gygax'
   imageUrl: './image/uapjs.webp'
   driveLink: 'https://drive.google.com/open?id=1yz1ukEbQ19ZMaZCAGtDl8dgU2OY4tthH'
   category: 'D&D 5E'
 - title: 'Unearthed Arcana - Ranger - Novos Conceitos D&D 5D'
+  author: 'Gary Gygax'
   imageUrl: './image/uarnc.webp'
   driveLink: 'https://drive.google.com/open?id=126cD8aqNbSxgFgW09kGolT97jzoIh6dE'
   category: 'D&D 5E'
 - title: 'Unearthed Arcana - Regras Variantes D&D 5D'
+  author: 'Gary Gygax'
   imageUrl: './image/uarv.webp'
   driveLink: 'https://drive.google.com/open?id=1YmDMxZciP_5aSRQ-8xJ-rCvGvpd_NOoB'
   category: 'D&D 5E'
 - title: 'Unearthed Arcana - Subclasses Revisadas D&D 5D'
+  author: 'Gary Gygax'
   imageUrl: './image/uasr.webp'
   driveLink: 'https://drive.google.com/open?id=1QlRbW7ZnXZ3_m2AHeRisgRUwx5RzQend'
   category: 'D&D 5E'
 - title: 'Unearthed Arcana - Artífice - Especializações D&D 5D'
+  author: 'Gary Gygax'
   imageUrl: './image/uaae.webp'
   driveLink: 'https://drive.google.com/open?id=1cWQV8ifwkd2WroUT4NPkfLxcYo5iNqiA'
   category: 'D&D 5E'
 - title: 'Unearthed Arcana - Opções de Classes Revisadas D&D 5D'
+  author: 'Gary Gygax'
   imageUrl: './image/uaodcr.webp'
   driveLink: 'https://drive.google.com/open?id=1vOzygnY8qtJxTADi8zf09XsSeVM3p0vi'
   category: 'D&D 5E'
 - title: 'Unearthed Arcana - Bardo - Colégios de Bardos D&D 5D'
+  author: 'Gary Gygax'
   imageUrl: './image/uabcdb.webp'
   driveLink: 'https://drive.google.com/open?id=1dsKMjuGqZ5mLCmL_psLklDjkvk0kCSP4'
   category: 'D&D 5E'
 - title: 'Unearthed Arcana - O Místico D&D 5D'
+  author: 'Gary Gygax'
   imageUrl: './image/uaom.webp'
   driveLink: 'https://drive.google.com/open?id=1bkR2xP3vEC9Otqcm948FVlbkjhvmqf0u'
   category: 'D&D 5E'
 - title: 'Unearthed Arcana - Psionismo e O Místico - Tomo I D&D 5D'
+  author: 'Gary Gygax'
   imageUrl: './image/uapeomti.webp'
   driveLink: 'https://drive.google.com/open?id=17hQwCKkNBRt2QiCwyc3yIkaJreEtc6GD'
   category: 'D&D 5E'
 - title: 'Unearthed Arcana - Psionismo e O Místico - Tomo II D&D 5D'
+  author: 'Gary Gygax'
   imageUrl: './image/uapeomtii.webp'
   driveLink: 'https://drive.google.com/open?id=1lJykrtB513_3w6HK-Ov-ZJjy2MI-PKVB'
   category: 'D&D 5E'
 - title: 'Unearthed Arcana - Os Fiéis D&D 5D'
+  author: 'Gary Gygax'
   imageUrl: './image/uaof.webp'
   driveLink: 'https://drive.google.com/open?id=15mMQsqZ_oW5B3x72oWerDZeeCjlo4rdM'
   category: 'D&D 5E'
 - title: 'Unearthed Arcana - Magia Moderna D&D 5D'
+  author: 'Gary Gygax'
   imageUrl: './image/uamm.webp'
   driveLink: 'https://drive.google.com/open?id=1Jzibt3g5EOylZe51iEdVaEe2KNsvRA24'
   category: 'D&D 5E'
 - title: 'Unearthed Arcana - Magia Negra Ancestral D&D 5D'
+  author: 'Gary Gygax'
   imageUrl: './image/uamna.webp'
   driveLink: 'https://drive.google.com/open?id=1jqQK2-upr5k51h5pHSuwaCluH6EFwh1b'
   category: 'D&D 5E'
 - title: 'Unearthed Arcana - Heróis Góticos D&D 5D'
+  author: 'Gary Gygax'
   imageUrl: './image/uahg.webp'
   driveLink: 'https://drive.google.com/open?id=1zSNj_bLfiaxcO8lS4SDHS8lwinJxZuCL'
   category: 'D&D 5E'
 - title: 'Unearthed Arcana - Kits de Antigamente D&D 5D'
+  author: 'Gary Gygax'
   imageUrl: './image/uakda.webp'
   driveLink: 'https://drive.google.com/open?id=1vZBBFcJkHh_eRqnupkyO-JZQceuIaqf9'
   category: 'D&D 5E'
 - title: 'Unearthed Arcana - Talentos para Perícias D&D 5D'
+  author: 'Gary Gygax'
   imageUrl: './image/uatprs.webp'
   driveLink: 'https://drive.google.com/open?id=1BEGKL137GPPDNvHhJDsnp8-70-fTj7DW'
   category: 'D&D 5E'
 - title: 'Unearthed Arcana - Tempo de Inatividade D&D 5D'
+  author: 'Gary Gygax'
   imageUrl: './image/uatdi.webp'
   driveLink: 'https://drive.google.com/open?id=178bQ6jq1ky9gtfvDgyfA2Usn6gb5BX4z'
   category: 'D&D 5E'
 - title: 'Unearthed Arcana - Um Trio de Subclasses D&D 5D'
+  author: 'Gary Gygax'
   imageUrl: './image/uautds.webp'
   driveLink: 'https://drive.google.com/open?id=1nfFvCJt_MoVr0pvNTTVC__FRd0zGHj-b'
   category: 'D&D 5E'
 - title: 'Unearthed Arcana - Armadilhas Revisitadas D&D 5D'
+  author: 'Gary Gygax'
   imageUrl: './image/uaar.webp'
   driveLink: 'https://drive.google.com/open?id=14wy1p94qnYczC2qZw9LcEcXLuWwwzCvC'
   category: 'D&D 5E'
 - title: 'Unearthed Arcana - Magias de Iniciação D&D 5D'
+  author: 'Gary Gygax'
   imageUrl: './image/uamdi.webp'
   driveLink: 'https://drive.google.com/open?id=1SVmB_PXxWos0F6DPyNgIK1s3FxRIDfOa'
   category: 'D&D 5E'
 - title: 'Unearthed Arcana - Quando os Exércitos Colidem D&D 5D'
+  author: 'Gary Gygax'
   imageUrl: './image/uaqoec.webp'
   driveLink: 'https://drive.google.com/open?id=1fcT65RFBQiAHzo6UADePBrmBHhdmM2zb'
   category: 'D&D 5E'
 - title: 'Unearthed Arcana - Personagens Rápidos D&D 5D'
+  author: 'Gary Gygax'
   imageUrl: './image/uapr.webp'
   driveLink: 'https://drive.google.com/open?id=1xY-znwrJYZH6dy5bDLZh2M0UZHSXUxqK'
   category: 'D&D 5E'
 - title: 'Warcraft RPG - Livro de Regras D&D 3.5'
+  author: 'Sword & Sorcery Studios'
   imageUrl: './image/wrldr.webp'
   driveLink: 'https://drive.google.com/open?id=1SXUdwGV7gBh71tZTcQe1rUrqSeCpzOhY'
   category: 'D&D 3.5'
 - title: 'Warcraft RPG - Livro dos Monstros 3.5'
+  author: 'Sword & Sorcery Studios'
   imageUrl: './image/wrlvdm.webp'
   driveLink: 'https://drive.google.com/open?id=1Quq7bqLGg6zK9GbYWPoJSRnEYGy9cWYh'
   category: 'D&D 3.5'
 - title: 'Warcraft - As Raças de Warcraft D&D 5D'
+  author: 'Sword & Sorcery Studios'
   imageUrl: './image/wded5eardw.webp'
   driveLink: 'https://drive.google.com/open?id=1SdlzJEMt_WsBj4RR8tr2Ght-yH33HjUt'
   category: 'D&D 5E'
 - title: 'Warcraft - Cavernas Ígneas D&D 5D'
+  author: 'Sword & Sorcery Studios'
   imageUrl: './image/wdedci.webp'
   driveLink: 'https://drive.google.com/open?id=158BT3D_UWlP_rLsMErRw6FiNuup10SVc'
   category: 'D&D 5E'
 - title: 'World of Warcraft - Cenário de Campanha D&D 5D'
+  author: 'Sword & Sorcery Studios'
   imageUrl: './image/wowdedecdc.webp'
   driveLink: 'https://drive.google.com/open?id=1rO4O7mRA8JogEY9nK2NqBBV8uDnz2XlK'
   category: 'D&D 5E'
 - title: 'Mago a Ascensão - A Cruzada dos Feiticeiros'
+  author: 'Steve Jackson'
   imageUrl: './image/maaacdf.webp'
   driveLink: 'https://drive.google.com/open?id=1n2cu1TgeyfqTq2jDBLa05hMxI4UlhIk3'
   category: 'Mago a Ascensão'
 - title: 'Mago a Ascensão - Antecedentes'
+  author: 'Steve Jackson'
   imageUrl: './image/maaa.webp'
   driveLink: 'https://drive.google.com/open?id=1QEbICmRLjoeYw-4jFdEHxRShIEaSxVpb'
   category: 'Mago a Ascensão'
 - title: 'Mago a Ascensão - Certame o Duelo Arcano'
+  author: 'Steve Jackson'
   imageUrl: './image/maacoda.webp'
   driveLink: 'https://drive.google.com/open?id=1fEJqSCmHfxWk34EZdKK1zjm4p-u7mzad'
   category: 'Mago a Ascensão'
 - title: 'Mago - A Ascensão - Companheiro do Narrador'
+  author: 'Steve Jackson'
   imageUrl: './image/maacdn.webp'
   driveLink: 'https://drive.google.com/open?id=13XHbLpk2HK-AZLX2eSuUFPvJDNWNgBzI'
   category: 'Mago a Ascensão'
 - title: 'Mago a Ascensão - Escudo do Narrador'
+  author: 'Steve Jackson'
   imageUrl: './image/maaedn.webp'
   driveLink: 'https://drive.google.com/open?id=1OWoRdfGtl2cgcqZRV4zSueheLfnS42Td'
   category: 'Mago a Ascensão'
 - title: 'Mago a Ascensão - A Cruzada dos Feiticeiros - Escudo do Narrador'
+  author: 'Steve Jackson'
   imageUrl: './image/maaacdfedn.webp'
   driveLink: 'https://drive.google.com/open?id=1JJg6Btnq-6tkA8X720c8o3Cbx2FUq2my'
   category: 'Mago a Ascensão'
 - title: 'Mago a Ascensão - Forjado no Fogo do Dragão'
+  author: 'Steve Jackson'
   imageUrl: './image/maafnfdd.webp'
   driveLink: 'https://drive.google.com/open?id=1oSCSyBq4LsAnVJbFSKzz958v_RJYeSpm'
   category: 'Mago a Ascensão'
 - title: 'Mago a Ascensão - Guia da Tecnocracia'
+  author: 'Steve Jackson'
   imageUrl: './image/maagdt.webp'
   driveLink: 'https://drive.google.com/open?id=16KMOBwEganEzMeSXznb_BVs0OIR0ejO-'
   category: 'Mago a Ascensão'
 - title: 'Mago a Ascensão - Liche'
+  author: 'Steve Jackson'
   imageUrl: './image/maaomddm.webp'
   driveLink: 'https://drive.google.com/open?id=1P3xJZjV8jMY5geBZD59IRxaybHu75DXn'
   category: 'Mago a Ascensão'
 - title: 'Mago a Ascensão - Livro de Convenção - Iteração X'
+  author: 'Steve Jackson'
   imageUrl: './image/maaldcix.webp'
   driveLink: 'https://drive.google.com/open?id=1ER3lYQe9Cnu4xEtsm9Y-IKpxcxfeOAzd'
   category: 'Mago a Ascensão'
 - title: 'Mago - A Ascensão - Livro de Tradição - Adeptos da Virtualidade'
+  author: 'Steve Jackson'
   imageUrl: './image/maaldtadv.webp'
   driveLink: 'https://drive.google.com/open?id=1ZmurbcFrkxvNK-_hEbQsbYzEHkAdR26G'
   category: 'Mago a Ascensão'
 - title: 'Mago a Ascensão - Livro de Tradição - Coro Celestial'
+  author: 'Steve Jackson'
   imageUrl: './image/maaldtcc.webp'
   driveLink: 'https://drive.google.com/open?id=1knvrJ1Y36lKTILUaEDu1pNTmWi5p7Jbe'
   category: 'Mago a Ascensão'
 - title: 'Mago a Ascensão - Livro de Tradição - Eutanatos'
+  author: 'Steve Jackson'
   imageUrl: './image/maaldte.webp'
   driveLink: 'https://drive.google.com/open?id=1-GCUjpo85_EUXtRjaRF_vGrz-TQmhNGT'
   category: 'Mago a Ascensão'
 - title: 'Mago a Ascensão - Livro de Tradição - Irmandade de Akasha'
+  author: 'Steve Jackson'
   imageUrl: './image/maaldtida.webp'
   driveLink: 'https://drive.google.com/open?id=107piJWg1nSpWvPleVgbRA-r9-Tk6aiPH'
   category: 'Mago a Ascensão'
 - title: 'Mago a Ascensão - Livro de Tradição - Oradores dos Sonhos'
+  author: 'Steve Jackson'
   imageUrl: './image/maaldtods.webp'
   driveLink: 'https://drive.google.com/open?id=14PRvenDSypURS3MACzKDmaMe3uh4V1MP'
   category: 'Mago a Ascensão'
 - title: 'Mago a Ascensão - Livro de Tradição - Ordem de Hermes'
+  author: 'Steve Jackson'
   imageUrl: './image/maaldt.webp'
   driveLink: 'https://drive.google.com/open?id=1DebnmxfkB95BnUCOL3tuy43bwzUaqEM4'
   category: 'Mago a Ascensão'
 - title: 'Mago a Ascensão - Livro de Tradição - Verbena'
+  author: 'Steve Jackson'
   imageUrl: './image/maaldv.webp'
   driveLink: 'https://drive.google.com/open?id=1iH_Q5rm_e0twfUl0lWwCfhzrRwUCX2kd'
   category: 'Mago a Ascensão'
 - title: 'Mago a Ascensão - Manifesto Transmissões do Conselho Rebelde'
+  author: 'Steve Jackson'
   imageUrl: './image/maamtdcr.webp'
   driveLink: 'https://drive.google.com/open?id=1B2TF3G6CF1HLZmMLv8jnkD9zK4RopR_w'
   category: 'Mago a Ascensão'
 - title: 'Mago a Ascensão - Manual do Narrador'
+  author: 'Steve Jackson'
   imageUrl: './image/maamdn.webp'
   driveLink: 'https://drive.google.com/open?id=1vgTjafxmoMFlaYB2wx9ZJrfPIG-P_1de'
   category: 'Mago a Ascensão'
 - title: 'Mago a Ascensão - Mestres da Arte'
+  author: 'Steve Jackson'
   imageUrl: './image/maamda.webp'
   driveLink: 'https://drive.google.com/open?id=1iJyAMXnuCvrnVwSDTeQkkIfZnoXCN0_e'
   category: 'Mago a Ascensão'
 - title: 'Mago a Ascensão - Básico - 2ª Edição'
+  author: 'Steve Jackson'
   imageUrl: './image/maambe.webp'
   driveLink: 'https://drive.google.com/open?id=1NSqNkeVRLVq1ozQIMQbcs4v9LuwA_tK0'
   category: 'Mago a Ascensão'
 - title: 'Mago a Ascensão - Módulo Básico - 3ª Edição'
+  author: 'Steve Jackson'
   imageUrl: './image/maae.webp'
   driveLink: 'https://drive.google.com/open?id=14jJeDgy5-ZDiTAxtEaWlvV7NZLdBxlWi'
   category: 'Mago a Ascensão'
 - title: 'Mago a Ascensão - O Livro da Loucura'
+  author: 'Steve Jackson'
   imageUrl: './image/maaoldl.webp'
   driveLink: 'https://drive.google.com/open?id=1iAW36LaeElYvdYcNo1MvHgjrEUzcmX93'
   category: 'Mago a Ascensão'
 - title: 'Mago a Ascensão - Paradoxo e Choque de Retorno'
+  author: 'Steve Jackson'
   imageUrl: './image/maapecdr.webp'
   driveLink: 'https://drive.google.com/open?id=1uCVkIAlavzo_X0I1685zqK548aKTGlsb'
   category: 'Mago a Ascensão'
 - title: 'Mago a Ascensão - Traição de Sangue'
+  author: 'Steve Jackson'
   imageUrl: './image/maatds.webp'
   driveLink: 'https://drive.google.com/open?id=1zYgBitUP5s5825-xWPbe3WzxzOKlwGDp'
   category: 'Mago a Ascensão'
 - title: 'Vampiro a Idade das Trevas - Choque de Vontades'
+  author: 'Devir'
   imageUrl: './image/vaidtcdv.webp'
   driveLink: 'https://drive.google.com/open?id=14WWD99QY5SaP43f_JQ5SdN1s3uQrFN2H'
   category: 'Vampiro a Idade das Trevas'
 - title: 'Vampiro a Idade das Trevas - Companheiro do Narrador'
+  author: 'Devir'
   imageUrl: './image/vaidtcdn.webp'
   driveLink: 'https://drive.google.com/open?id=1UWLZTXTPOq4WsxLe7lK7Il9JMzMT5rdN'
   category: 'Vampiro a Idade das Trevas'
 - title: 'Vampiro a Idade das Trevas - Escudo do Narrador'
+  author: 'Devir'
   imageUrl: './image/vaidtedn.webp'
   driveLink: 'https://drive.google.com/open?id=1ixlnWGbnzm4dRf_wqrKMjUxnqnVJPnbA'
   category: 'Vampiro a Idade das Trevas'
 - title: 'Vampiro a Idade das Trevas - Ficha de Personagem'
+  author: 'Devir'
   imageUrl: './image/vaidtfdp.webp'
   driveLink: 'https://drive.google.com/open?id=1kXQR-QuX5gM8bvlcsBhde4oU7oOubpJp'
   category: 'Vampiro a Idade das Trevas'
 - title: 'Vampiro a Idade das Trevas - Fontes de Carmesim Brilhante'
+  author: 'Devir'
   imageUrl: './image/vaidtfdcb.webp'
   driveLink: 'https://drive.google.com/open?id=1Eo_OPttrQPRkfM4z7IV8e4QeznYtcfDF'
   category: 'Vampiro a Idade das Trevas'
 - title: 'Vampiro a Idade das Trevas - Livro de Clã - Baali'
+  author: 'Devir'
   imageUrl: './image/vaidtldc.webp'
   driveLink: 'https://drive.google.com/open?id=1lZkj3ZOn4x8JG_kOfLwFS85quvM32vbj'
   category: 'Vampiro a Idade das Trevas'
 - title: 'Vampiro a Idade das Trevas - Livro de Clã - Capadócio'
+  author: 'Devir'
   imageUrl: './image/vaidtldcc.webp'
   driveLink: 'https://drive.google.com/open?id=1Rtld2xOP1210uEKYZUrKL2Gjlz2q3CUG'
   category: 'Vampiro a Idade das Trevas'
 - title: 'Vampiro a Idade das Trevas - Livro de Clã - Salubri'
+  author: 'Devir'
   imageUrl: './image/vaidtldcs.webp'
   driveLink: 'https://drive.google.com/open?id=1MrLFOb2BSYsZAAjAXpSVhyqn1eo7CLmI'
   category: 'Vampiro a Idade das Trevas'
 - title: 'Vampiro a Idade das Trevas - Livro de Segredos do Narrador'
+  author: 'Devir'
   imageUrl: './image/vaidtldsdn.webp'
   driveLink: 'https://drive.google.com/open?id=1il1PebgUVvh597Bt40wsq3-myUPK2lom'
   category: 'Vampiro a Idade das Trevas'
 - title: 'Vampiro a Idade das Trevas - Módulo Básico'
+  author: 'Devir'
   imageUrl: './image/vaidtmb.webp'
   driveLink: 'https://drive.google.com/open?id=1ANPeqhZXbwHqWqTSbCx5pCpvg7im7NmM'
   category: 'Vampiro a Idade das Trevas'
 - title: 'Vampiro a Idade das Trevas - Os Fragmentos de Erciyes'
+  author: 'Devir'
   imageUrl: './image/vaidtofde.webp'
   driveLink: 'https://drive.google.com/open?id=11vLOnzMMS8kzTzX5Fko7ua751l_Pz5rp'
   category: 'Vampiro a Idade das Trevas'
 - title: 'Vampiro a Máscara - A Arte de Vampiro a Máscara'
+  author: 'White Wolf'
   imageUrl: './image/vamaadv.webp'
   driveLink: 'https://drive.google.com/open?id=1tYFw21Ndql-aHcDvIidEZ-faHqoM3Jk6'
   category: 'Vampiro a Máscara'
 - title: 'Vampiro - A Máscara - Carniçais - Vício Fatal'
+  author: 'White Wolf'
   imageUrl: './image/vamcvf.webp'
   driveLink: 'https://drive.google.com/open?id=1Fuw8TsMKnNBclWaRnxL9ptrLM1xAlPrV'
   category: 'Vampiro a Máscara'
 - title: 'Vampiro a Máscara - Companheiro do Narrador'
+  author: 'White Wolf'
   imageUrl: './image/vamcdn.webp'
   driveLink: 'https://drive.google.com/open?id=1DlDILdajS-_03U4nJaD7PJb7CkE13UWx'
   category: 'Vampiro a Máscara'
 - title: 'Vampiro a Máscara - Corações Sangrentos - Diablerie Inglaterra'
+  author: 'White Wolf'
   imageUrl: './image/vamcsdi.webp'
   driveLink: 'https://drive.google.com/open?id=1z0TqFCcC9vadTmKR4kfw4MMl3xAF5XZw'
   category: 'Vampiro a Máscara'
 - title: 'Vampiro a Máscara - Crianças da Inquisição'
+  author: 'White Wolf'
   imageUrl: './image/vamcdi.webp'
   driveLink: 'https://drive.google.com/open?id=1N-xlspGTn1Oqx62OA8FcEps5-s5wcBwU'
   category: 'Vampiro a Máscara'
 - title: 'Vampiro a Máscara - Edição de 20º Aniversário'
+  author: 'White Wolf'
   imageUrl: './image/vamed20a.webp'
   driveLink: 'https://drive.google.com/open?id=11E5VitOD48H9WT8vWF-sCjmFELh5Ow33'
   category: 'Vampiro a Máscara'
 - title: 'Vampiro a Máscara - Edição de 20º Aniversário - Fichas'
+  author: 'White Wolf'
   imageUrl: './image/vamed20afs.webp'
   driveLink: 'https://drive.google.com/open?id=1fq_sjdLLoUZrodj76xDrbk3mHRLbkmYm'
   category: 'Vampiro a Máscara'
 - title: 'Vampiro a Máscara - Enciclopædia Vampirica'
+  author: 'White Wolf'
   imageUrl: './image/vamev.webp'
   driveLink: 'https://drive.google.com/open?id=1I98VbmmNGh7NUa_8FR6fe89GsB4ITJcK'
   category: 'Vampiro a Máscara'
 - title: 'Vampiro a Máscara - Escolhidos de Caim - A Mão Negra'
+  author: 'White Wolf'
   imageUrl: './image/vamedcamn.webp'
   driveLink: 'https://drive.google.com/open?id=1d8c3ExEdF2FzPxbCAbs3PxbBR8XwsAmF'
   category: 'Vampiro a Máscara'
 - title: 'Vampiro a Máscara - Escudo do Narrador'
+  author: 'White Wolf'
   imageUrl: './image/vamedn.webp'
   driveLink: 'https://drive.google.com/open?id=1V55LKwzkh2t6tM8LCbwD0mfs1xDGzXEd'
   category: 'Vampiro a Máscara'
 - title: 'Vampiro a Máscara - Estranha Fome'
+  author: 'White Wolf'
   imageUrl: './image/vamef.webp'
   driveLink: 'https://drive.google.com/open?id=10k8oiIDqnN_9mQs3pm2t_pq3smf5zGFm'
   category: 'Vampiro a Máscara'
 - title: 'Vampiro a Máscara - Feitiçaria Setita'
+  author: 'White Wolf'
   imageUrl: './image/vamfs.webp'
   driveLink: 'https://drive.google.com/open?id=1fPaByQwDzrS-HwFtkydrU93Io75EZSoX'
   category: 'Vampiro a Máscara'
 - title: 'Vampiro a Máscara - Gehenna a Noite Final'
+  author: 'White Wolf'
   imageUrl: './image/vamganf.webp'
   driveLink: 'https://drive.google.com/open?id=1ujG1fXAkg8oX26Af8cnjvnnGMsUKY0pG'
   category: 'Vampiro a Máscara'
 - title: 'Vampiro a Máscara - Guia da Camarilla'
+  author: 'White Wolf'
   imageUrl: './image/vamgdc.webp'
   driveLink: 'https://drive.google.com/open?id=1pbFbyI9gQ-1q4DDI1qwLEWYyhiQz5xvj'
   category: 'Vampiro a Máscara'
 - title: 'Vampiro a Máscara - Guia do Sabá'
+  author: 'White Wolf'
   imageUrl: './image/vamgds.webp'
   driveLink: 'https://drive.google.com/open?id=1LgcgP7XS51m1rUt3W98ehVdLU7NCeBgN'
   category: 'Vampiro a Máscara'
 - title: 'Vampiro a Máscara - Guia dos Jogadores'
+  author: 'White Wolf'
   imageUrl: './image/vamgdj.webp'
   driveLink: 'https://drive.google.com/open?id=1aS1wZtLPZIpBV25oaG2HLACRGuWY0Y2U'
   category: 'Vampiro a Máscara'
 - title: 'Vampiro a Máscara - Livro de Clã - Assamita'
+  author: 'White Wolf'
   imageUrl: './image/vamldca.webp'
   driveLink: 'https://drive.google.com/open?id=1gzgn_lmPYbhTogmnkIjFjSAwQpLmbSFx'
   category: 'Vampiro a Máscara'
 - title: 'Vampiro a Máscara - Livro de Clã - Bricta'
+  author: 'White Wolf'
   imageUrl: './image/vamldcb.webp'
   driveLink: 'https://drive.google.com/open?id=1JtH0jmTSZZFCtsN-db-G5F5UlgVum0ZB'
   category: 'Vampiro a Máscara'
 - title: 'Vampiro a Máscara - Livro de Clã - Brujah'
+  author: 'White Wolf'
   imageUrl: './image/vamldcbj.webp'
   driveLink: 'https://drive.google.com/open?id=1jKlQ_e9chigK-ewFiHvJj6p4RxE0Ul1f'
   category: 'Vampiro a Máscara'
 - title: 'Vampiro a Máscara - Livro de Clã - Gangrel'
+  author: 'White Wolf'
   imageUrl: './image/vamldcg.webp'
   driveLink: 'https://drive.google.com/open?id=1-Mp4q22labu3nYK6s4Y6NLlsPHJWzR02'
   category: 'Vampiro a Máscara'
 - title: 'Vampiro a Máscara - Livro de Clã - Gangrel - Devir'
+  author: 'White Wolf'
   imageUrl: './image/vamldcgd.webp'
   driveLink: 'https://drive.google.com/open?id=1RWkIR29nf6msl-LiWTYNvRtOQ7HSE9Xp'
   category: 'Vampiro a Máscara'
 - title: 'Vampiro a Máscara - Livro de Clã - Giovanni'
+  author: 'White Wolf'
   imageUrl: './image/vamldcgi.webp'
   driveLink: 'https://drive.google.com/open?id=1EbMI6lqAEpVVWtLz-B4Y6Vr3g8u2mBbQ'
   category: 'Vampiro a Máscara'
 - title: 'Vampiro a Máscara - Livro de Clã - La Sombra'
+  author: 'White Wolf'
   imageUrl: './image/vamldcla.webp'
   driveLink: 'https://drive.google.com/open?id=1vF3Hx8vgnFHt4m3oCpD2JpcclBNSV_6j'
   category: 'Vampiro a Máscara'
 - title: 'Vampiro a Máscara - Livro de Clã - Malkaviano'
+  author: 'White Wolf'
   imageUrl: './image/vamldcm.webp'
   driveLink: 'https://drive.google.com/open?id=18sLy-UcfN-U1aYoEexfyetMGtsyN1520'
   category: 'Vampiro a Máscara'
 - title: 'Vampiro a Máscara - Livro de Clã - Nosferatu'
+  author: 'White Wolf'
   imageUrl: './image/vamldcn.webp'
   driveLink: 'https://drive.google.com/open?id=1zg5bKfgSMI3TC8aS98hrkVH7xeJXB9uz'
   category: 'Vampiro a Máscara'
 - title: 'Vampiro a Máscara - Livro de Clã - Ravnos'
+  author: 'White Wolf'
   imageUrl: './image/vamldcr.webp'
   driveLink: 'https://drive.google.com/open?id=1DD2-fM_02m4zMrTKhOQafIyCylo1_m6q'
   category: 'Vampiro a Máscara'
 - title: 'Vampiro a Máscara - Livro de Clã - Seguidores de Set'
+  author: 'White Wolf'
   imageUrl: './image/vamldcsds.webp'
   driveLink: 'https://drive.google.com/open?id=1n_n-4e5lkMPcVVmSGlk7ajjKOIX5eUC1'
   category: 'Vampiro a Máscara'
 - title: 'Vampiro a Máscara - Livro de Clã - Setita'
+  author: 'White Wolf'
   imageUrl: './image/vamldcs.webp'
   driveLink: 'https://drive.google.com/open?id=1TPudZaxJupV3EoFY8rU2ZtZ2uKY8ztwJ'
   category: 'Vampiro a Máscara'
 - title: 'Vampiro a Máscara - Livro de Clã - Toreador'
+  author: 'White Wolf'
   imageUrl: './image/vamldct.webp'
   driveLink: 'https://drive.google.com/open?id=1c_HQOrrV-2il5tUqaUs7xYsPtKYeaNia'
   category: 'Vampiro a Máscara'
 - title: 'Vampiro a Máscara - Livro de Clã - Toreador - Devir'
+  author: 'White Wolf'
   imageUrl: './image/vamldctd.webp'
   driveLink: 'https://drive.google.com/open?id=1n2JOXF9lIV3qnUnxEuYF25UwuIQljrd2'
   category: 'Vampiro a Máscara'
 - title: 'Vampiro a Máscara - Livro de Clã - Tremere'
+  author: 'White Wolf'
   imageUrl: './image/vamldcte.webp'
   driveLink: 'https://drive.google.com/open?id=1pr-dbSVSbAEYtYW0ZWOs0uePyIB64YwE'
   category: 'Vampiro a Máscara'
 - title: 'Vampiro a Máscara - Livro de Clã - Tzimisce'
+  author: 'White Wolf'
   imageUrl: './image/vamldctz.webp'
   driveLink: 'https://drive.google.com/open?id=1AqiUuBzOr7rGLbFArfhjeFkb7j54Pn2Y'
   category: 'Vampiro a Máscara'
 - title: 'Vampiro a Máscara - Livro de Clã - Ventrue'
+  author: 'White Wolf'
   imageUrl: './image/vamldcv.webp'
   driveLink: 'https://drive.google.com/open?id=1L6GaB8uyBJuhHi-eJo-PrrzxBjJavQrA'
   category: 'Vampiro a Máscara'
 - title: 'Vampiro a Máscara - Livro de Clã - Vladers'
+  author: 'White Wolf'
   imageUrl: './image/vamldcvs.webp'
   driveLink: 'https://drive.google.com/open?id=1iS8NQS5lVtzNGehxhiHiXyEvMN-Og8pY'
   category: 'Vampiro a Máscara'
 - title: 'Vampiro a Máscara - Livro de Nod'
+  author: 'White Wolf'
   imageUrl: './image/vamldn.webp'
   driveLink: 'https://drive.google.com/open?id=1zKlUqa69m4T5q8tH3Id8JRS_YxOidozK'
   category: 'Vampiro a Máscara'
 - title: 'Vampiro a Máscara - Los Angeles à Noite'
+  author: 'White Wolf'
   imageUrl: './image/vamlaan.webp'
   driveLink: 'https://drive.google.com/open?id=1b7hkXjjqKux-hXnr9nkArMwXG8BU6BRj'
   category: 'Vampiro a Máscara'
 - title: 'Vampiro a Máscara - Manual do Narrador'
+  author: 'White Wolf'
   imageUrl: './image/vammdn.webp'
   driveLink: 'https://drive.google.com/open?id=1h-DtDYYt12c0lk0pabKc-Trwr_Itbgms'
   category: 'Vampiro a Máscara'
 - title: 'Vampiro a Máscara - Módulo Básico'
+  author: 'White Wolf'
   imageUrl: './image/vammb.webp'
   driveLink: 'https://drive.google.com/open?id=16Yk6BKjZ9zP4SPTtO2tOvVkYo4mxKri8'
   category: 'Vampiro a Máscara'
 - title: 'Vampiro a Máscara - Módulo Básico - 3ª Edição'
+  author: 'White Wolf'
   imageUrl: './image/vammb3e.webp'
   driveLink: 'https://drive.google.com/open?id=1K0k5p6HmhYU4G6-v7d9SvmNhMw0594my'
   category: 'Vampiro a Máscara'
 - title: 'Vampiro a Máscara - Noites de Profecia'
+  author: 'White Wolf'
   imageUrl: './image/vamndp.webp'
   driveLink: 'https://drive.google.com/open?id=12bvEnm9IFVuHm2Y2h2PIm-G9rENTOSrV'
   category: 'Vampiro a Máscara'
 - title: 'Vampiro a Máscara - O Livro de Receitas Anarquistas'
+  author: 'White Wolf'
   imageUrl: './image/vamoldra.webp'
   driveLink: 'https://drive.google.com/open?id=1g2YF6Js43QIgABxq6hMVG4hdC0_Qpy2Z'
   category: 'Vampiro a Máscara'
 - title: 'Vampiro a Máscara - Os Caçadores Caçados'
+  author: 'White Wolf'
   imageUrl: './image/vamocc.webp'
   driveLink: 'https://drive.google.com/open?id=1Uuuvv4qxUmQLgqlPegD4mRuYUbKckqvC'
   category: 'Vampiro a Máscara'
 - title: 'Vampiro a Máscara - Os Membros Mais Procurados'
+  author: 'White Wolf'
   imageUrl: './image/vamommp.webp'
   driveLink: 'https://drive.google.com/open?id=1ze7Lpi9sVDJkwwcHngG-lh8q9BYI2gxB'
   category: 'Vampiro a Máscara'
 - title: 'Vampiro a Máscara - Refúgios dos Amaldiçoados'
+  author: 'White Wolf'
   imageUrl: './image/vamrda.webp'
   driveLink: 'https://drive.google.com/open?id=1Gukq4PzCROt6EoO5TCerEFdhe-mRriJk'
   category: 'Vampiro a Máscara'
 - title: 'Vampiro a Máscara - Revelações da Mãe Sombria'
+  author: 'White Wolf'
   imageUrl: './image/vamrdms.webp'
   driveLink: 'https://drive.google.com/open?id=1xY7_wh4_gWofLchO_cmepEu3WoSWclk7'
   category: 'Vampiro a Máscara'
 - title: 'Vampiro a Máscara - Succubus Club a Festa dos Mortos'
+  author: 'White Wolf'
   imageUrl: './image/vamscafdm.webp'
   driveLink: 'https://drive.google.com/open?id=1ACMJGiinY91ajZdL8ML4mkLTt4eeHOpi'
   category: 'Vampiro a Máscara'
 - title: 'Vampiro a Máscara - Tempo do Sangue Fraco'
+  author: 'White Wolf'
   imageUrl: './image/vamtdsf.webp'
   driveLink: 'https://drive.google.com/open?id=1NATgT8pMwJ5rpvzEsURsUbVQOgKxKSsi'
   category: 'Vampiro a Máscara'
 - title: 'Vampiro a Máscara - Temporada de Caça'
+  author: 'White Wolf'
   imageUrl: './image/vamtdc.webp'
   driveLink: 'https://drive.google.com/open?id=1m4jGFANQAmHPTFD9c03RsbVYGW-7wZYO'
   category: 'Vampiro a Máscara'
 - title: 'Vampiro a Máscara - Vampiros do Oriente'
+  author: 'White Wolf'
   imageUrl: './image/vamvdo.webp'
   driveLink: 'https://drive.google.com/open?id=1OMPtJfW33a7l2T3d7T652r_zvRQwKKKI'
   category: 'Vampiro a Máscara'
 - title: 'Vampiro o Réquiem - Feitiços da Anciã'
+  author: 'White Wolf'
   imageUrl: './image/vorfda.webp'
   driveLink: 'https://drive.google.com/open?id=1-j5QZrY65b-fViHxiyUv3FFAMsL5sp9L'
   category: 'Vampiro o Réquiem'
 - title: 'Vampiro o Réquiem - Módulo Básico'
+  author: 'White Wolf'
   imageUrl: './image/vormb.webp'
   driveLink: 'https://drive.google.com/open?id=1BPD7wIM0WmBWxfypQSKjXoC0DWoyjd_k'
   category: 'Vampiro o Réquiem'
 - title: 'Vampiro o Réquiem - O Filho de Maria'
+  author: 'White Wolf'
   imageUrl: './image/vorofdm.webp'
   driveLink: 'https://drive.google.com/open?id=1X2R_MUGbhNKlZmWSf8zKHnWiVXenItzA'
   category: 'Vampiro o Réquiem'
 - title: 'Vampiro o Réquiem - O Testamento de Longino'
+  author: 'White Wolf'
   imageUrl: './image/vorotdl.webp'
   driveLink: 'https://drive.google.com/open?id=1SaHAcu6-BouttvjdjdPpMYaDGfPPXq6Z'
   category: 'Vampiro o Réquiem'
 - title: 'Vampiro o Réquiem - Os Poderes do Dragão'
+  author: 'White Wolf'
   imageUrl: './image/voropdd.webp'
   driveLink: 'https://drive.google.com/open?id=1TyPN0-LaMHKy5BVLg8fhqOzhwkCXmSvw'
   category: 'Vampiro o Réquiem'
 - title: 'Vampiro o Réquiem - Ritos e Práticas do Círculo da Anciã'
+  author: 'White Wolf'
   imageUrl: './image/vorrepdcda.webp'
   driveLink: 'https://drive.google.com/open?id=1uQfdd_RwJvthIlBINL4WVbGYXCpm5ioO'
   category: 'Vampiro o Réquiem'
 - title: 'Vampiro o Réquiem - Segredos Tebanos'
+  author: 'White Wolf'
   imageUrl: './image/vorst.webp'
   driveLink: 'https://drive.google.com/open?id=16ngH30u-TjCqM6iYLMCqiwGvg8sAjNAh'
   category: 'Vampiro o Réquiem'
 - title: 'Ação!!! - Escudo do Mestre'
+  author: 'Nacional'
   imageUrl: './image/aedm.webp'
   driveLink: 'https://drive.google.com/open?id=1ZOZPhQw9budAAyiqrNVwRr7rQ0nVWtUD'
   category: 'Ação!!!'
 - title: 'Ação!!! - Ficha de Personagem'
+  author: 'Nacional'
   imageUrl: './image/afdp.webp'
   driveLink: 'https://drive.google.com/open?id=1G0UzBnqxIyj9cuPegOBfuCdnY7F9pJPB'
   category: 'Ação!!!'
 - title: 'Ação!!! - Módulo Básico'
+  author: 'Nacional'
   imageUrl: './image/amb.webp'
   driveLink: 'https://drive.google.com/open?id=1wM8ZqXxUVKUay2oDwGt-GEv42V4ro1Gz'
   category: 'Ação!!!'
 - title: 'Angus RPG - Escudo do Mestre'
+  author: 'Orlando Paes Filho'
   imageUrl: './image/aredm.webp'
   driveLink: 'https://drive.google.com/open?id=1m9e4lAKJT3Znfl9T0uehk6-Xw92bmPFP'
   category: 'Angus RPG'
 - title: 'Angus RPG'
+  author: 'Orlando Paes Filho'
   imageUrl: './image/ar.webp'
   driveLink: 'https://drive.google.com/open?id=1D7rO27YW_ktRoFFlPa8M97HSsMDcuNUu'
   category: 'Angus RPG'
 - title: 'Angus RPG - Mapa'
+  author: 'Orlando Paes Filho'
   imageUrl: './image/arm.webp'
   driveLink: 'https://drive.google.com/open?id=1yq_dHrghLv0Ufk2rAxTV0GEbqHUlvMun'
   category: 'Angus RPG'
 - title: '13ª Era - Dado de Intensidade'
+  author: 'New Order Editora'
   imageUrl: './image/1eddi.webp'
   driveLink: 'https://drive.google.com/open?id=19uaE5mGPeLvbjTfd4cBATifhCudS-L3a'
   category: '13ª Era'
 - title: '13ª Era - Livro Básico'
+  author: 'New Order Editora'
   imageUrl: './image/1elb.webp'
   driveLink: 'https://drive.google.com/open?id=17vKHROAQ06y499rJSayMXfnBhIn5P615'
   category: '13ª Era'
 - title: '2Q RPG - Mesoilha - A Ilha do Meio'
+  author: 'Cristian Menna'
   imageUrl: './image/2rmaidm.webp'
   driveLink: 'https://drive.google.com/open?id=12s7Q-998Ep3bW3Qt4wOlFXMMdXNraSQL'
   category: '2Q RPG'
 - title: '2Q RPG - Módulo Básico 0.9'
+  author: 'Cristian Menna'
   imageUrl: './image/2rmb.webp'
   driveLink: 'https://drive.google.com/open?id=1YsXjCEbeTXt37Jh5GsUejZzVuEjIXfKT'
   category: '2Q RPG'
 - title: '2Q RPG - Módulo Básico 1.0 - Volume 1 - Protagonistas'
+  author: 'Cristian Menna'
   imageUrl: './image/2rmbv1p.webp'
   driveLink: 'https://drive.google.com/open?id=1vxAc7UPmRz_pPb37NQ7CtxoHYf-q0On_'
   category: '2Q RPG'
 - title: '2Q RPG - Módulo Básico 1.0 - Volume 2 - Narradores'
+  author: 'Cristian Menna'
   imageUrl: './image/2rmbv2m.webp'
   driveLink: 'https://drive.google.com/open?id=1T5YmAb_kYz92NNRxQCOTCkv6-VnHbprf'
   category: '2Q RPG'
 - title: '2Q RPG - Módulo Básico 1.0 - Volume 3 - Combates'
+  author: 'Cristian Menna'
   imageUrl: './image/2rmbv3c.webp'
   driveLink: 'https://drive.google.com/open?id=1YmhHgy4O5xoF0Lwd21tngIpDifqg2WRI'
   category: '2Q RPG'
 - title: '7º Mar - Guia do Jogador'
+  author: 'John Wick'
   imageUrl: './image/7mgdj.webp'
   driveLink: 'https://drive.google.com/open?id=1STvXV_Wq4tv58cUqzWl84kbfiSWVjYfn'
   category: '7º Mar'
 - title: '7º Mar - Guia do Mestre'
+  author: 'John Wick'
   imageUrl: './image/7mgdm.webp'
   driveLink: 'https://drive.google.com/open?id=1uw3eUDrWWJo6W878XgMhTscHo4LB_kuu'
   category: '7º Mar'
 - title: '7º Mar - Mais Forte que a Espada'
+  author: 'John Wick'
   imageUrl: './image/7mmfqae.webp'
   driveLink: 'https://drive.google.com/open?id=1RBrnoHnCZ2_Yj6UJ6MtHkpxjdBad7HYo'
   category: '7º Mar'
 - title: '7º Mar - Livro Básico de Regras'
+  author: 'John Wick'
   imageUrl: './image/7mlbdr.webp'
   driveLink: 'https://drive.google.com/open?id=1dEOlWaT6mOiRwer_WLUJMM25Q8Geolbk'
   category: '7º Mar'
 - title: 'Violentina Um Jogo Marginal de Contar'
+  author: 'Eduardo Caetano'
   imageUrl: './image/vujmdc.webp'
   driveLink: 'https://drive.google.com/open?id=1z9hJyyPB18VYjLetIJG0Fj0he3a7cKMY'
   category: 'Violentina'
 - title: 'Violentina - Trash'
+  author: 'Eduardo Caetano'
   imageUrl: './image/vujmdc.webp'
   driveLink: 'https://drive.google.com/open?id=1afdEulWYrzArOoZSjW_Y1phA_GGcWVo-'
   category: 'Violentina'
 - title: 'Violentina - Nostra'
+  author: 'Eduardo Caetano'
   imageUrl: './image/vujmdc.webp'
   driveLink: 'https://drive.google.com/open?id=1uUdIsuQ9AmkVOwjuwcB9NTABj-NqKdVH'
   category: 'Violentina'
 - title: 'Violentina - Gótica'
+  author: 'Eduardo Caetano'
   imageUrl: './image/vujmdc.webp'
   driveLink: 'https://drive.google.com/open?id=1mpe5vVDzFMIs0z6YIcsxIbmJSKjTkDjN'
   category: 'Violentina'
 - title: 'Violentina - Gabarito de Mesa (A3)'
+  author: 'Eduardo Caetano'
   imageUrl: './image/vujmdc.webp'
   driveLink: 'https://drive.google.com/open?id=1UQXLXeLk1q3x8jrs9eaLe26aS-kLgnB-'
   category: 'Violentina'
 - title: 'Violentina - Rádio Violentina'
+  author: 'Eduardo Caetano'
   imageUrl: './image/vujmdc.webp'
   driveLink: 'https://drive.google.com/open?id=1mnYePC_rnF3uNyh2FuJb6QQucqiGhyUz'
   category: 'Violentina'
 - title: 'Rastro de Cthulhu Planilha_de Investigador'
+  author: 'Pelgrane Press'
   imageUrl: './image/rdc.webp'
   driveLink: 'https://drive.google.com/open?id=1_kxVTu2f8sCBgyVYH5s_xYYvPsh94Lv2'
   category: 'Rastro de Cthulhu'
 - title: 'Rastro de Cthulhu O Morro do Silêncio'
+  author: 'Pelgrane Press'
   imageUrl: './image/rdc.webp'
   driveLink: 'https://drive.google.com/open?id=1zg7kTLhVVe1jowBlth0iRiNI9os1jWH7'
   category: 'Rastro de Cthulhu'
 - title: 'Rastro de Cthulhu O Incrível Caso'
+  author: 'Pelgrane Press'
   imageUrl: './image/rdc.webp'
   driveLink: 'https://drive.google.com/open?id=1pxKFzEi7cAoxzHx-19J8pxfXBY9ztNx8'
   category: 'Rastro de Cthulhu'
 - title: 'Rastro de Cthulhu - Livro de Regras'
+  author: 'Pelgrane Press'
   imageUrl: './image/rdc.webp'
   driveLink: 'https://drive.google.com/open?id=1nhAgXhlzlNbQbvWU_C0XbSIF4g4sXAhj'
   category: 'Rastro de Cthulhu'
 - title: 'Rastro de Cthulhu - Horror em Kingsbury'
+  author: 'Pelgrane Press'
   imageUrl: './image/rdc.webp'
   driveLink: 'https://drive.google.com/open?id=1V2kbVl9dUP2u0fwvMswpWLE4pKJq3K-1'
   category: 'Rastro de Cthulhu'
 - title: 'Rastro de Cthulhu - A Agonia de St Margaret'
+  author: 'Pelgrane Press'
   imageUrl: './image/rdc.webp'
   driveLink: 'https://drive.google.com/open?id=1JWS6pR1c6wjdm7xrUeq1wvCHmOTN1Hlg'
   category: 'Rastro de Cthulhu'
 - title: 'Chamado de Cthulhu Ficha de Personagem'
+  author: 'Sandy Petersen'
   imageUrl: './image/cdc.webp'
   driveLink: 'https://drive.google.com/open?id=1trNAqpvp192gKVsQq92k2-rLn82Nr4tF'
   category: 'Chamado de Cthulhu'
 - title: 'Chamado de Cthulhu De Profundis'
+  author: 'Sandy Petersen'
   imageUrl: './image/cdc.webp'
   driveLink: 'https://drive.google.com/open?id=19zkB9dsX5kWtA7kjKaYjurXOyR7mptIK'
   category: 'Chamado de Cthulhu'
 - title: 'Chamado de Cthulhu 7E Escudo'
+  author: 'Sandy Petersen'
   imageUrl: './image/cdc.webp'
   driveLink: 'https://drive.google.com/open?id=19q6VYBjHHskobrKvE2t1dcQHGeT7Jtfa'
   category: 'Chamado de Cthulhu'
 - title: 'Chamado de Cthulhu 7E - Livro do Guardião (Preview)'
+  author: 'Sandy Petersen'
   imageUrl: './image/cdc.webp'
   driveLink: 'https://drive.google.com/open?id=1-NnGqQ7unsu-UEWYbQZmaNRvmn3kAl2y'
   category: 'Chamado de Cthulhu'
 - title: 'Chamado de Cthulhu - Tribal Dance.'
+  author: 'Sandy Petersen'
   imageUrl: './image/cdc.webp'
   driveLink: 'https://drive.google.com/open?id=1rHIxbS8ypan0Pq3ieHUMLSvtPRUCTctX'
   category: 'Chamado de Cthulhu'
 - title: 'Chamado de Cthulhu - Rigor Mortis'
+  author: 'Sandy Petersen'
   imageUrl: './image/cdc.webp'
   driveLink: 'https://drive.google.com/open?id=1GnJevd2eii8TTnkOY5uo5fbym3Ju7HqN'
   category: 'Chamado de Cthulhu'
 - title: 'Chamado de Cthulhu - Livro Básico'
+  author: 'Sandy Petersen'
   imageUrl: './image/cdc.webp'
   driveLink: 'https://drive.google.com/open?id=1mmcq2bcgmE0CS2850pXWhxk-RbpvUM9_'
   category: 'Chamado de Cthulhu'
 - title: 'Chamado de Cthulhu - Fast Play'
+  author: 'Sandy Petersen'
   imageUrl: './image/cdc.webp'
   driveLink: 'https://drive.google.com/open?id=1dBs5ZtLjtVH79w5CkgUfdNqPeFdmLpcQ'
   category: 'Chamado de Cthulhu'
 - title: 'Chamado de Cthulhu - Documentos Sinistros'
+  author: 'Sandy Petersen'
   imageUrl: './image/cdc.webp'
   driveLink: 'https://drive.google.com/open?id=1hOlLFEkiEZwWF5KkyFsXKmAaSpwiYMN_'
   category: 'Chamado de Cthulhu'
 - title: 'Chamado de Cthulhu - Degraus para o Abismo'
+  author: 'Sandy Petersen'
   imageUrl: './image/cdc.webp'
   driveLink: 'https://drive.google.com/open?id=1RvACe3BcLUHtaOBk-KuBH4-wyajACjye'
   category: 'Chamado de Cthulhu'
 - title: 'Chamado de Cthulhu - Cartões de Armas'
+  author: 'Sandy Petersen'
   imageUrl: './image/cdc.webp'
   driveLink: 'https://drive.google.com/open?id=1Kbo44oi9XqqqxjTKuW9uVHu7tZn8tIW3'
   category: 'Chamado de Cthulhu'
 - title: 'Chamado de Cthulhu - A Semente da Destruição'
+  author: 'Sandy Petersen'
   imageUrl: './image/cdc.webp'
   driveLink: 'https://drive.google.com/open?id=1Lxnih8kcEiwmChp93ivnoBaP6b19TCJS'
   category: 'Chamado de Cthulhu'
 - title: 'Chamado de Cthulhu - A Arte do Chamado de Cthulhu'
+  author: 'Sandy Petersen'
   imageUrl: './image/cdc.webp'
   driveLink: 'https://drive.google.com/open?id=1nmDqh6YS9oPoyZg4_96TvIzN2G17W2SJ'
   category: 'Chamado de Cthulhu'
 - title: 'Old Dragon Livro Básico'
+  author: 'Antonio Sá Neto e Fabiano Neme'
   imageUrl: './image/odlb.webp'
   driveLink: 'https://drive.google.com/open?id=1ik9xOAy4Xrh3PvmYywYrdd_bOLn4Ylse'
   category: 'Old Dragon'
 - title: 'Old Dragon Guia de Regras Opcionais de Combate'
+  author: 'Antonio Sá Neto e Fabiano Neme'
   imageUrl: './image/odgdrodc.webp'
   driveLink: 'https://drive.google.com/open?id=1kYkQBmTYEwbW8j7XaoqXU5nTPt2WBvXT'
   category: 'Old Dragon'
 - title: 'Old Dragon Guia de Raças'
+  author: 'Antonio Sá Neto e Fabiano Neme'
   imageUrl: './image/odgdr.webp'
   driveLink: 'https://drive.google.com/open?id=1e77mHAHaZqnQexRJsUIqVfWchUOg8jEz'
   category: 'Old Dragon'
 - title: 'Old Dragon Fast Play (Divisória do Mestre)'
+  author: 'Antonio Sá Neto e Fabiano Neme'
   imageUrl: './image/odfpddm.webp'
   driveLink: 'https://drive.google.com/open?id=1l4qCrWXhVDIUwSTqM7SufcTbO8ZU6MnX'
   category: 'Old Dragon'
 - title: 'Old Dragon Bestiário'
+  author: 'Antonio Sá Neto e Fabiano Neme'
   imageUrl: './image/odb.webp'
   driveLink: 'https://drive.google.com/open?id=1UnkfsBtfgSv1Ff62QkeR1rLHqfxUG85k'
   category: 'Old Dragon'
 - title: 'Old Dragon Manual de Raças Volume I'
+  author: 'Antonio Sá Neto e Fabiano Neme'
   imageUrl: './image/odmdvi.webp'
   driveLink: 'https://drive.google.com/open?id=1Ya8fx2eRIIh5BN8kGIlZByHQy9Rd-jIS'
   category: 'Old Dragon'
 - title: 'Old Dragon Manual de Monstros Volume I'
+  author: 'Antonio Sá Neto e Fabiano Neme'
   imageUrl: './image/odmdmvi.webp'
   driveLink: 'https://drive.google.com/open?id=1XI3lis47zI7Gm1qiroEc8SpnqRQKsuUw'
   category: 'Old Dragon'
 - title: 'Old Dragon Manual Completo para Drow'
+  author: 'Antonio Sá Neto e Fabiano Neme'
   imageUrl: './image/odmcpd.webp'
   driveLink: 'https://drive.google.com/open?id=1Sa18UtQmYsyWoCxOyt-BM87Qm97Vv_c2'
   category: 'Old Dragon'
 - title: 'Old Dragon Atualização de regras'
+  author: 'Antonio Sá Neto e Fabiano Neme'
   imageUrl: './image/odadr.webp'
   driveLink: 'https://drive.google.com/open?id=1FjrsJMGO61ZZAvLToTUEQGr-zSLp3RHB'
   category: 'Old Dragon'
 - title: 'Old Dragon - Fastplay - Personagens Prontos'
+  author: 'Antonio Sá Neto e Fabiano Neme'
   imageUrl: './image/odfppp.webp'
   driveLink: 'https://drive.google.com/open?id=1jtrFQMd4EERY0WfDkl5Lb_6PpXrkw3f9'
   category: 'Old Dragon'
 - title: 'Old Dragon - Xamãs'
+  author: 'Antonio Sá Neto e Fabiano Neme'
   imageUrl: './image/odx.webp'
   driveLink: 'https://drive.google.com/open?id=17pyfgNUIU4DEj6iefx1LKXTr6rmWZgeX'
   category: 'Old Dragon'
 - title: 'Old Dragon - Reinos de Moreania'
+  author: 'Antonio Sá Neto e Fabiano Neme'
   imageUrl: './image/odrdm.webp'
   driveLink: 'https://drive.google.com/open?id=1FbV58CldNtqlPXZE1QmA8EHRxHIY-4SF'
   category: 'Old Dragon'
 - title: 'Old Dragon - Raças para Tormenta'
+  author: 'Antonio Sá Neto e Fabiano Neme'
   imageUrl: './image/odrpt.webp'
   driveLink: 'https://drive.google.com/open?id=1r1wWexf3M9inUDzpA6NuHFe0QnG_6HzN'
   category: 'Old Dragon'
 - title: 'Old Dragon - Quintessência do Elfo'
+  author: 'Antonio Sá Neto e Fabiano Neme'
   imageUrl: './image/odqde.webp'
   driveLink: 'https://drive.google.com/open?id=1Vr2OTO-HBP6SFYJieyTKUT1q7t8xHmHo'
   category: 'Old Dragon'
 - title: 'Old Dragon - Psiônicos Volume II'
+  author: 'Antonio Sá Neto e Fabiano Neme'
   imageUrl: './image/odpvii.webp'
   driveLink: 'https://drive.google.com/open?id=10xdth2lX1asKApO7A1_L6yhamNHAgOFJ'
   category: 'Old Dragon'
 - title: 'Old Dragon - Panteão Cósmico'
+  author: 'Antonio Sá Neto e Fabiano Neme'
   imageUrl: './image/odpc.webp'
   driveLink: 'https://drive.google.com/open?id=11XOpEnyIngUtiXdYXn3nz63nMqILd62u'
   category: 'Old Dragon'
 - title: 'Old Dragon - O Patrulheiro'
+  author: 'Antonio Sá Neto e Fabiano Neme'
   imageUrl: './image/odop.webp'
   driveLink: 'https://drive.google.com/open?id=1j7cLNE5DKyJw9fH87mwG0WBt9VU5iXCE'
   category: 'Old Dragon'
 - title: 'Old Dragon - Livro Básico Aprimorado'
+  author: 'Antonio Sá Neto e Fabiano Neme'
   imageUrl: './image/odlba.webp'
   driveLink: 'https://drive.google.com/open?id=1LWDH89V5YXSgjYFh9Mwbpyq1tZ6xUTxK'
   category: 'Old Dragon'
 - title: 'Old Dragon - Ilha de Metron'
+  author: 'Antonio Sá Neto e Fabiano Neme'
   imageUrl: './image/odidm.webp'
   driveLink: 'https://drive.google.com/open?id=1lHhI45CWmjMQqqGoP7Gdh0GO5iq6IJ2p'
   category: 'Old Dragon'
 - title: 'Old Dragon - Guia de Vantagens e Desvantagens'
+  author: 'Antonio Sá Neto e Fabiano Neme'
   imageUrl: './image/odgdved.webp'
   driveLink: 'https://drive.google.com/open?id=1Nq5Y2wXN0e9GLhVH-KOOPmswSeRiLT9Q'
   category: 'Old Dragon'
 - title: 'Old Dragon - Ficha Retrô'
+  author: 'Antonio Sá Neto e Fabiano Neme'
   imageUrl: './image/odfr.webp'
   driveLink: 'https://drive.google.com/open?id=123_77-YHcy2SIbybVhyZ05PA47la9rCt'
   category: 'Old Dragon'
 - title: 'Old Dragon - Ficha Editavel'
+  author: 'Antonio Sá Neto e Fabiano Neme'
   imageUrl: './image/odfe.webp'
   driveLink: 'https://drive.google.com/open?id=1R50-l7remT0J-Jmxwldykx31ZfTpSrQb'
   category: 'Old Dragon'
 - title: 'Old Dragon - Ficha de personagem oficial'
+  author: 'Antonio Sá Neto e Fabiano Neme'
   imageUrl: './image/odfdpo.webp'
   driveLink: 'https://drive.google.com/open?id=1j_uH33b3y-8phLQ3UmRCX-FdBlxSegsl'
   category: 'Old Dragon'
 - title: 'Old Dragon - Ficha de Personagem (Calculável)'
+  author: 'Antonio Sá Neto e Fabiano Neme'
   imageUrl: './image/odfdpc.webp'
   driveLink: 'https://drive.google.com/open?id=1ikZu594kNZSwjyHComTALJ5g92SknzWX'
   category: 'Old Dragon'
 - title: 'Old Dragon - Ficha com magia'
+  author: 'Antonio Sá Neto e Fabiano Neme'
   imageUrl: './image/odfcm.webp'
   driveLink: 'https://drive.google.com/open?id=1VtAYLSK0PdODlEsdLsnuoWTb_wPDcVbv'
   category: 'Old Dragon'
 - title: 'Old Dragon - Fastplay - Tabelas de Referência'
+  author: 'Antonio Sá Neto e Fabiano Neme'
   imageUrl: './image/odfptdr.webp'
   driveLink: 'https://drive.google.com/open?id=1pqz53iSivZyOiMe8hDVkxIHdfJX5BGVP'
   category: 'Old Dragon'
 - title: 'Old Dragon - Fastplay - Prepare sua Bagagem'
+  author: 'Antonio Sá Neto e Fabiano Neme'
   imageUrl: './image/odfppsb.webp'
   driveLink: 'https://drive.google.com/open?id=1b9haiis-5sNwXZv0pM-k67Hl5CNyt7Wm'
   category: 'Old Dragon'
 - title: 'Old Dragon - Fastplay - O Templo do Homem Cobra'
+  author: 'Antonio Sá Neto e Fabiano Neme'
   imageUrl: './image/odfpotdhc.webp'
   driveLink: 'https://drive.google.com/open?id=1-w_mC-wyvUk1Yq3QJm-U4NmM6BfHjhoM'
   category: 'Old Dragon'
 - title: 'Old Dragon - Fastplay - O Reino de Bruntoll'
+  author: 'Antonio Sá Neto e Fabiano Neme'
   imageUrl: './image/odfpordb.webp'
   driveLink: 'https://drive.google.com/open?id=1QHQab_oVE-jyBnnAG1-eVIeXhnsTquPF'
   category: 'Old Dragon'
 - title: 'Old Dragon - Fastplay - Livro de Regras Básicas'
+  author: 'Antonio Sá Neto e Fabiano Neme'
   imageUrl: './image/odfpldrb.webp'
   driveLink: 'https://drive.google.com/open?id=1VMgQpQNknkUAH8YYpbk9Msq890VcFheH'
   category: 'Old Dragon'
 - title: 'Old Dragon - Acadêmicos'
+  author: 'Antonio Sá Neto e Fabiano Neme'
   imageUrl: './image/oda.webp'
   driveLink: 'https://drive.google.com/open?id=1zz4F1BOp2fSPRNp9Fa-3UsrieYpVdnq_'
   category: 'Old Dragon'
 - title: 'Tormenta RPG Módulo Básico Edição (GUILDA DO MACACO)'
+  author: 'Brauner, Gustavo - Caldela, Leonel - Cassaro, Marcelo - Saladino, Rogério'
   imageUrl: './image/trmbegdm.webp'
   driveLink: 'https://drive.google.com/file/d/1D-G8ARX6poeuAka80HDXiWVB18WbbgE6/view?usp=sharing'
   category: 'Tormenta'
 - title: 'Tormenta – Conto – Arautos da Guerra'
+  author: 'Brauner, Gustavo - Caldela, Leonel - Cassaro, Marcelo - Saladino, Rogério'
   imageUrl: './image/tcadg.webp'
   driveLink: 'https://drive.google.com/file/d/1LTeJfaXW-ERUAZR5POS3N-xcOaKQ5bD5/view?usp=sharing'
   category: 'Tormenta'
 - title: 'Tormenta – Conto – Ressurreição'
+  author: 'Brauner, Gustavo - Caldela, Leonel - Cassaro, Marcelo - Saladino, Rogério'
   imageUrl: './image/tcr.webp'
   driveLink: 'https://drive.google.com/file/d/1Ac2agZOt-69rzN6s6TKf22I_Qmid3hI3/view?usp=sharing'
   category: 'Tormenta'
 - title: 'Tormenta – Conto – Vingador de Aço'
+  author: 'Brauner, Gustavo - Caldela, Leonel - Cassaro, Marcelo - Saladino, Rogério'
   imageUrl: './image/tcvda.webp'
   driveLink: 'https://drive.google.com/file/d/1P4v38MpaAUD03RSPCnlhYiTg3KDuKkF0/view?usp=sharing'
   category: 'Tormenta'
 - title: 'Tormenta 3.5 – Calendário Artoniano'
+  author: 'Brauner, Gustavo - Caldela, Leonel - Cassaro, Marcelo - Saladino, Rogério'
   imageUrl: './image/tca.webp'
   driveLink: 'https://drive.google.com/file/d/1iuZHJ6UddvK65SeHPAk9IptgW-sJmW1c/view?usp=sharing'
   category: 'Tormenta'
 - title: 'Tormenta 3.5 - Guia do Jogador'
+  author: 'Brauner, Gustavo - Caldela, Leonel - Cassaro, Marcelo - Saladino, Rogério'
   imageUrl: './image/tgdj.webp'
   driveLink: 'https://drive.google.com/file/d/1nj1tF0exXeet14KeriFyb0qEyPCHpG4c/view?usp=sharing'
   category: 'Tormenta'
 - title: 'Tormenta 3.5 - Guia do Mestre'
+  author: 'Brauner, Gustavo - Caldela, Leonel - Cassaro, Marcelo - Saladino, Rogério'
   imageUrl: './image/tgdm.webp'
   driveLink: 'https://drive.google.com/file/d/16fRZXw0KmzbZmgG1nvkvNLLNs6SmDcCM/view?usp=sharing'
   category: 'Tormenta'
 - title: 'Tormenta 3.5 – Guia do Viajante'
+  author: 'Brauner, Gustavo - Caldela, Leonel - Cassaro, Marcelo - Saladino, Rogério'
   imageUrl: './image/tgdjj.webp'
   driveLink: 'https://drive.google.com/file/d/1yoy0nVdiOcD_-d3xdtZMzEjO311tOkn9/view?usp=sharing'
   category: 'Tormenta'
 - title: 'Tormenta 3.5 - O Guardião da Morte'
+  author: 'Brauner, Gustavo - Caldela, Leonel - Cassaro, Marcelo - Saladino, Rogério'
   imageUrl: './image/togdm.webp'
   driveLink: 'https://drive.google.com/file/d/1h8FG8olSjPi3CJG4Wkb_SS4_m6MXW79l/view?usp=sharing'
   category: 'Tormenta'
 - title: 'Tormenta D20 - Cenário de Campanha'
+  author: 'Brauner, Gustavo - Caldela, Leonel - Cassaro, Marcelo - Saladino, Rogério'
   imageUrl: './image/tdcdc.webp'
   driveLink: 'https://drive.google.com/file/d/1q3_LiZx7kwdaKIXl1VjlVD0gFqofNlY_/view?usp=sharing'
   category: 'Tormenta'
-- title: "20 Deuses 01"
-  imageUrl: "./image/2D0.webp"
-  driveLink: https://drive.google.com/file/d/1mQaYVv2oTSALKtjtz0PM9g2sOsA4j5Lm/view?usp=drivesdk
-  category: "20 Deuses"
-- title: "20 Deuses 02"
-  imageUrl: "./image/2D0.webp"
-  driveLink: https://drive.google.com/file/d/1bjqQntjjTok21Qd-J0Hu7-sRAiWi7WGb/view?usp=drivesdk
-  category: "20 Deuses"
-- title: "20 Deuses 03"
-  imageUrl: "./image/2D0.webp"
-  driveLink: https://drive.google.com/file/d/12IbfGZgglqH2O1iMU17eN-yNYFwK04X2/view?usp=drivesdk
-  category: "20 Deuses"
-- title: "3 16 Carnificina Entre as Estrelas"
-  imageUrl: "./image/31CEAE.webp"
-  driveLink: https://drive.google.com/file/d/1RYKi94FC5p1eI4ro_KPLYH7gsrKD4sgf/view?usp=drivesdk
-  category: "3 16 Carnificina Entre as Estrelas"
-- title: "3 16 Carnificina Entre as Estrelas - Regras Opcionais"
-  imageUrl: "./image/31CEAERO.webp"
-  driveLink: https://drive.google.com/file/d/11A3HCClF8fS6t5OH2xc5lGUA834JZUJF/view?usp=drivesdk
-  category: "3 16 Carnificina Entre as Estrelas"
-- title: "3 16 Carnificina Entre as Estrelas (2)"
-  imageUrl: "./image/31CEAE(.webp"
-  driveLink: https://drive.google.com/file/d/1Qx20tF36hl8tnzTEtRSfxtZWhL7DOWo-/view?usp=drivesdk
-  category: "3 16 Carnificina Entre as Estrelas"
-- title: "3 16 Carnificina Entre as Estrelas (3)"
-  imageUrl: "./image/31CEAE(.webp"
-  driveLink: https://drive.google.com/file/d/1Q6H-KBe_bqia5e_uonFGY3phuwTumhsD/view?usp=drivesdk
-  category: "3 16 Carnificina Entre as Estrelas"
-- title: "3 16 Carnificina Entre as Estrelas (5)"
-  imageUrl: "./image/31CEAE(.webp"
-  driveLink: https://drive.google.com/file/d/1MCPPTFzqsfvZS1KImU2Xr-rSoekB7lPJ/view?usp=drivesdk
-  category: "3 16 Carnificina Entre as Estrelas"
-- title: "3 16 Carnificina Nas Masmorras Por"
-  imageUrl: "./image/31CNMP.webp"
-  driveLink: https://drive.google.com/file/d/1fdElR93m_2oL-m8dJTX7zX5Ci9QZWgKZ/view?usp=drivesdk
-  category: "3 16 Carnificina Entre as Estrelas"
-- title: "3d&t - a Libertação de Valkaria -"
-  imageUrl: "./image/3ALDV.webp"
-  driveLink: https://drive.google.com/file/d/1K_qiD2UNNxSRp9VRdn4A1wDM0cs-c4oh/view?usp=drivesdk
-  category: "3d&t"
-- title: "3d&t - Armadura Sombria -"
-  imageUrl: "./image/3AS.webp"
-  driveLink: https://drive.google.com/file/d/1GDgCgbUku6KrdCpnVPN_toYGjUTRMn3D/view?usp=drivesdk
-  category: "3d&t"
-- title: "3d&t - Armas e Equipamentos -"
-  imageUrl: "./image/3AEE.webp"
-  driveLink: https://drive.google.com/file/d/1xusQwBtmmLSloZOLqWowLPOMxgmBrbLw/view?usp=drivesdk
-  category: "3d&t"
-- title: "3d&t - Baú de Tesouros de Arton -"
-  imageUrl: "./image/3BDTDA.webp"
-  driveLink: https://drive.google.com/file/d/1Xh1iAYnDzxBUC3adwFJze7O6bhDxodP1/view?usp=drivesdk
-  category: "3d&t"
-- title: "3d&t - Bestiário Holy Avenger -"
-  imageUrl: "./image/3BHA.webp"
-  driveLink: https://drive.google.com/file/d/1M5szd8dIRUPgqQht6y9F3fuvbZqRviaA/view?usp=drivesdk
-  category: "3d&t"
-- title: "3d&t - Darkstalkers - Dragão Brasil Especial 12 -"
-  imageUrl: "./image/3DDBE1.webp"
-  driveLink: https://drive.google.com/file/d/1hQ5Zy5dJyX90p6rXSUPYvwdjCl1r_XCv/view?usp=drivesdk
-  category: "3d&t"
-- title: "3d&t - Escudo do Mestre -"
-  imageUrl: "./image/3EDM.webp"
-  driveLink: https://drive.google.com/file/d/1Em0wvXRZ8MmkN6KUTzgyFPslMb3Vq6yA/view?usp=drivesdk
-  category: "3d&t"
-- title: "3d&t - Ficha de Magia -"
-  imageUrl: "./image/3FDM.webp"
-  driveLink: https://drive.google.com/file/d/1-ROwQfflHXhNMc6_9WTlM-6J1D8Rtejm/view?usp=drivesdk
-  category: "3d&t"
-- title: "3d&t - Ficha de Personagem -"
-  imageUrl: "./image/3FDP.webp"
-  driveLink: https://drive.google.com/file/d/1KZwJqddBtDgTje9KLCs72Hlc_9NnM4PD/view?usp=drivesdk
-  category: "3d&t"
-- title: "3d&t - Ficha de Personagem Turbinado -"
-  imageUrl: "./image/3FDPT.webp"
-  driveLink: https://drive.google.com/file/d/1dAIn96Sq6hY7aEepzDxcUjCQyawuIN6p/view?usp=drivesdk
-  category: "3d&t"
-- title: "3d&t - Final Fight - Dragão Brasil Especial 10 -"
-  imageUrl: "./image/3FFDBE1.webp"
-  driveLink: https://drive.google.com/file/d/19hJCe3xk6Ro2pH68rBWjuoiuHN-azV8W/view?usp=drivesdk
-  category: "3d&t"
-- title: "3d&t - Gaia 400x -"
-  imageUrl: "./image/3G4.webp"
-  driveLink: https://drive.google.com/file/d/1JYpcqWSn9O1RSO6ZsnY5ZBXZzAJLsMCA/view?usp=drivesdk
-  category: "3d&t"
-- title: "3d&t - Guia dos Dragões de Arton -"
-  imageUrl: "./image/3GDDDA.webp"
-  driveLink: https://drive.google.com/file/d/1P0JLWjPYqtXBpVvbfQuzhwPqnvgBPxb8/view?usp=drivesdk
-  category: "3d&t"
-- title: "3d&t - Holy Avenger -"
-  imageUrl: "./image/3HA.webp"
-  driveLink: https://drive.google.com/file/d/1XUJ6j_MQ2AApCA1gZ_LfIcuI-XuHB5VF/view?usp=drivesdk
-  category: "3d&t"
-- title: "3d&t - Interstella -"
-  imageUrl: "./image/3I.webp"
-  driveLink: https://drive.google.com/file/d/1nQ2fbhly2xG11K6t3RiFcKmvMmxeZ7nw/view?usp=drivesdk
-  category: "3d&t"
-- title: "3d&t - Jaspion -"
-  imageUrl: "./image/3J.webp"
-  driveLink: https://drive.google.com/file/d/1Ox1zMusfM96H6DLKHj5Cxb6TuJud1C5x/view?usp=drivesdk
-  category: "3d&t"
-
-- title: "3d&t - Keras -"
-  imageUrl: "./image/3K.webp"
-  driveLink: https://drive.google.com/file/d/1o2pwG8tX1u7510DF5JhUDJLn-Ey4xFWu/view?usp=drivesdk
-  category: "3d&t"
-- title: "3d&t - Livro dos Ninjas -"
-  imageUrl: "./image/3LDN.webp"
-  driveLink: https://drive.google.com/file/d/1m7KtFcse1crhGkW1FgwF0t24obC-y__R/view?usp=drivesdk
-  category: "3d&t"
-- title: "3d&t - Magibol -"
-  imageUrl: "./image/3M.webp"
-  driveLink: https://drive.google.com/file/d/1D59UtT7GzjszUaseMu4o3afCYWhRWccU/view?usp=drivesdk
-  category: "3d&t"
-- title: "3d&t - Manual -"
-  imageUrl: "./image/3M.webp"
-  driveLink: https://drive.google.com/file/d/1D11bSAnP2wx6sMsj_vBKW2acjZEsfIiY/view?usp=drivesdk
-  category: "3d&t"
-- title: "3d&t - Manual - Fastplay -"
-  imageUrl: "./image/3MF.webp"
-  driveLink: https://drive.google.com/file/d/1VzxVvWOs3xR38DvsAbOyTArhr-JfzLKs/view?usp=drivesdk
-  category: "3d&t"
-- title: "3d&t - Manual - Fastplay Turbinado (Com Magias) -"
-  imageUrl: "./image/3MFT(M.webp"
-  driveLink: https://drive.google.com/file/d/14J-vsToXSLlnMsDNpxlN_atlmOBK56EJ/view?usp=drivesdk
-  category: "3d&t"
-- title: "3d&t - Manual - Fastplay Turbinado (Sem Magias) -"
-  imageUrl: "./image/3MFT(M.webp"
-  driveLink: https://drive.google.com/file/d/1MfvyPGisHk6hOudgrtUdvTLNMNDN3XWL/view?usp=drivesdk
-  category: "3d&t"
-- title: "3d&t - Manual - Revisado e Ampliado -"
-  imageUrl: "./image/3MREA.webp"
-  driveLink: https://drive.google.com/file/d/1Z0kyeddwX4SWCXT9nU-2ir_B8_yn3G2D/view?usp=drivesdk
-  category: "3d&t"
-- title: "3d&t - Manual - Revisado, Ampliado e Turbinado -"
-  imageUrl: "./image/3MRAET.webp"
-  driveLink: https://drive.google.com/file/d/1ha00djyrGHj1fiTDVh1lCFHB30MozFNw/view?usp=drivesdk
-  category: "3d&t"
-- title: "3d&t - Manual da Fé -"
-  imageUrl: "./image/3MDF.webp"
-  driveLink: https://drive.google.com/file/d/1yni7uqtwVVteirYUxSa4RXs-B5zCsde7/view?usp=drivesdk
-  category: "3d&t"
-- title: "3d&t - Manual da Magia -"
-  imageUrl: "./image/3MDM.webp"
-  driveLink: https://drive.google.com/file/d/1DYdOPgAcll8uFv15_VR64lKxnwPbtqfb/view?usp=drivesdk
-  category: "3d&t"
-- title: "3d&t - Manual do Aventureiro Turbinado -"
-  imageUrl: "./image/3MDAT.webp"
-  driveLink: https://drive.google.com/file/d/1dz3FDJLO03PT7YtBA7vhimdhWECio31l/view?usp=drivesdk
-  category: "3d&t"
-- title: "3d&t - Manual dos Monstros -"
-  imageUrl: "./image/3MDM.webp"
-  driveLink: https://drive.google.com/file/d/1RzC5I-s9eb3noi4JLj3Ju4h7lbdimh8I/view?usp=drivesdk
-  category: "3d&t"
-- title: "3d&t - Megaman - Dragão Brasil Especial 14 -"
-  imageUrl: "./image/3MDBE1.webp"
-  driveLink: https://drive.google.com/file/d/1XfbNvQ-Umd2Yb8WWcm_iUhb19Z1xrIvN/view?usp=drivesdk
-  category: "3d&t"
-- title: "3d&t - Megaman Vs Stardroids -"
-  imageUrl: "./image/3MVS.webp"
-  driveLink: https://drive.google.com/file/d/1pZtvVvcFh44mL0rkOXOXhrO4Wk4trZmU/view?usp=drivesdk
-  category: "3d&t"
-- title: "3d&t - Mortal Kombat 4 - Dragão Brasil Especial 08 -"
-  imageUrl: "./image/3MK4DBE0.webp"
-  driveLink: https://drive.google.com/file/d/11KSUsbZhECYCgNBtR_TklxlBxmfF5wwM/view?usp=drivesdk
-  category: "3d&t"
-- title: "3d&t - o Livro de Vérus -"
-  imageUrl: "./image/3OLDV.webp"
-  driveLink: https://drive.google.com/file/d/1gTCg73YoJUVxO42mgfL0JPWLzrT6Bnp9/view?usp=drivesdk
-  category: "3d&t"
-- title: "3d&t - o Palácio do Saber -"
-  imageUrl: "./image/3OPDS.webp"
-  driveLink: https://drive.google.com/file/d/1R0UiR0Dz5S9eFLsXZdBBRnhUl5VFFlPO/view?usp=drivesdk
-  category: "3d&t"
-- title: "3d&t - o Reinado - Parte 1 -"
-  imageUrl: "./image/3ORP1.webp"
-  driveLink: https://drive.google.com/file/d/1qqPtCvupO9GymCrRIuxwua66sfa4uvcE/view?usp=drivesdk
-  category: "3d&t"
-- title: "3d&t - o Reinado - Parte 2 -"
-  imageUrl: "./image/3ORP2.webp"
-  driveLink: https://drive.google.com/file/d/1i6FpipDW0vHf5yJ86MNDxpnnLtj-YXjJ/view?usp=drivesdk
-  category: "3d&t"
-- title: "3d&t - o Reinado - Parte 3 -"
-  imageUrl: "./image/3ORP3.webp"
-  driveLink: https://drive.google.com/file/d/17d51EQrLZQ0X3_n0d2atccjQgMskZgEG/view?usp=drivesdk
-  category: "3d&t"
-- title: "3d&t - Panteão -"
-  imageUrl: "./image/3P.webp"
-  driveLink: https://drive.google.com/file/d/1BMVxfYcWnZ-FpdrbBAhVU7phu17U3SWz/view?usp=drivesdk
-  category: "3d&t"
-- title: "3d&t - Pokémon -"
-  imageUrl: "./image/3P.webp"
-  driveLink: https://drive.google.com/file/d/1xWpIluSBiQyGDFUgqtn7_dntYzYWCyVq/view?usp=drivesdk
-  category: "3d&t"
-- title: "3d&t - Raças de Arton e U.f.o. Team -"
-  imageUrl: "./image/3RDAEU.webp"
-  driveLink: https://drive.google.com/file/d/1biBoLW7njIPlpax59ykQNpIOCTOyR9tH/view?usp=drivesdk
-  category: "3d&t"
-- title: "3d&t - Resident Evil -"
-  imageUrl: "./image/3RE.webp"
-  driveLink: https://drive.google.com/file/d/19O8klslCpn_PKiGucRKAFYd-bdGDaWKg/view?usp=drivesdk
-  category: "3d&t"
-- title: "3d&t - Só Aventuras 1 -"
-  imageUrl: "./image/3SA1.webp"
-  driveLink: https://drive.google.com/file/d/18i_sRIhaXQwOu-gKuGrLv43JV69pHw3G/view?usp=drivesdk
-  category: "3d&t"
-- title: "3d&t - Só Aventuras 2 -"
-  imageUrl: "./image/3SA2.webp"
-  driveLink: https://drive.google.com/file/d/1gPHrzh8OLCI4aDTmLV-12wj78tgeTT_Q/view?usp=drivesdk
-  category: "3d&t"
-- title: "3d&t - Street Fighter Zero 3 - Dragão Brasil Especial 07 -"
-  imageUrl: "./image/3SFZ3DBE0.webp"
-  driveLink: https://drive.google.com/file/d/1wVizpkCYXD07vW5sHHQJ-hWp4Wf4F3Bj/view?usp=drivesdk
-  category: "3d&t"
-- title: "3d&t - Street Fighter Zero 3 - Shadaloo - Dragão Brasil Especial 15 -"
-  imageUrl: "./image/3SFZ3SDBE1.webp"
-  driveLink: https://drive.google.com/file/d/1hNCtuKwmgjItEK_nNEwzAnt3behCYqsE/view?usp=drivesdk
-  category: "3d&t"
-- title: "3d&t - Supers -"
-  imageUrl: "./image/3S.webp"
-  driveLink: https://drive.google.com/file/d/1uQk0y2-nQNX0Kmx9zSWMkKBHGsC8gV0u/view?usp=drivesdk
-  category: "3d&t"
-- title: "3d&t - Tormenta 1ª Edição -"
-  imageUrl: "./image/3T1E.webp"
-  driveLink: https://drive.google.com/file/d/1i2yj5fR4KLNKoAPoK-FJFFIOflMsjQa1/view?usp=drivesdk
-  category: "3d&t"
-- title: "3d&t - Tormenta 2ª Edição -"
-  imageUrl: "./image/3T2E.webp"
-  driveLink: https://drive.google.com/file/d/1x4SV9CiWUkmBjwb37GFqS31fx0xaIVGe/view?usp=drivesdk
-  category: "3d&t"
-- title: "3d&t - U.f.o. Team -"
-  imageUrl: "./image/3U.webp"
-  driveLink: https://drive.google.com/file/d/1yyYGGjtxRTPKhmHdybh7o-EcVqIQRO3F/view?usp=drivesdk
-  category: "3d&t"
-- title: "3d&t - Vantagens Alternativas -"
-  imageUrl: "./image/3VA.webp"
-  driveLink: https://drive.google.com/file/d/1PfSW0fVb1lckgVesdMJBfzb9BLAWWG5Z/view?usp=drivesdk
-  category: "3d&t"
-- title: "3d&t - Yu Yu Hakusho -"
-  imageUrl: "./image/3YYH.webp"
-  driveLink: https://drive.google.com/file/d/1zNgkx1PnsXi9iMjN3gd3Y_Ro6B_iVvs-/view?usp=drivesdk
-  category: "3d&t"
-- title: "3d&t Alpha - 3d&tants & Masterminds -"
-  imageUrl: "./image/3A3&M.webp"
-  driveLink: https://drive.google.com/file/d/1m9oLamDzMVDmB4J0PCDrbvqMKiW_Jwmv/view?usp=drivesdk
-  category: "3d&t Alpha"
-- title: "3d&t Alpha - 4d&t Alpha (Hallukardhy Edition) -"
-  imageUrl: "./image/3A4A(E.webp"
-  driveLink: https://drive.google.com/file/d/1UNvYpbLnXeARASz0DyidSwNT2wvJpeqx/view?usp=drivesdk
-  category: "3d&t Alpha"
-- title: "3d&t Alpha - a Costa dos Naúfragos -"
-  imageUrl: "./image/3AACDN.webp"
-  driveLink: https://drive.google.com/file/d/1nWZJ5haCUaV3p8bXfHzpxRUbp2Rtr0_l/view?usp=drivesdk
-  category: "3d&t Alpha"
-- title: "3d&t Alpha - a Imagem de Tenebra -"
-  imageUrl: "./image/3AAIDT.webp"
-  driveLink: https://drive.google.com/file/d/1rfVMFafaSyJUdjXcMGCRrboStQVWFnDm/view?usp=drivesdk
-  category: "3d&t Alpha"
-- title: "3d&t Alpha - a Libertação de Triunphus -"
-  imageUrl: "./image/3AALDT.webp"
-  driveLink: https://drive.google.com/file/d/1rsjsP-jMWPbPsCHpyBYMa6ofVzmPPahi/view?usp=drivesdk
-  category: "3d&t Alpha"
-- title: "3d&t Alpha - a Queda do Feiticeiro Vermelho -"
-  imageUrl: "./image/3AAQDFV.webp"
-  driveLink: https://drive.google.com/file/d/1K0Hu8ZB25SvS187N2TOZD8mv9J8-ZF_t/view?usp=drivesdk
-  category: "3d&t Alpha"
-- title: "3d&t Alpha - Alfheim Online - Sword Art Online -"
-  imageUrl: "./image/3AAOSAO.webp"
-  driveLink: https://drive.google.com/file/d/1Fl8rEbvYbw3oMEJ_UyCyZcnirGfm7joW/view?usp=drivesdk
-  category: "3d&t Alpha"
-- title: "3d&t Alpha - Alfheim Online - Sword Art Online - Compacto -"
-  imageUrl: "./image/3AAOSAOC.webp"
-  driveLink: https://drive.google.com/file/d/1NaNL27Bxb_z9UXRSvmww072RP5I4GIwK/view?usp=drivesdk
-  category: "3d&t Alpha"
-- title: "3d&t Alpha - Bestiário Alpha -"
-  imageUrl: "./image/3ABA.webp"
-  driveLink: https://drive.google.com/file/d/1MxGVmKkwzWZu846iYf8xnW_wehQ5xrDs/view?usp=drivesdk
-  category: "3d&t Alpha"
-- title: "3d&t Alpha - Brigada Ligeira Estelar"
-  imageUrl: "./image/3ABLE.webp"
-  driveLink: https://drive.google.com/file/d/1KJ_daaVQYDxAvUl09Gti3SGXd9bH8ZHb/view?usp=drivesdk
-  category: "3d&t Alpha"
-- title: "3d&t Alpha - Brigada Ligeira Estelar - a Constelação do Sabre 01"
-  imageUrl: "./image/3ABLEACDS0.webp"
-  driveLink: https://drive.google.com/file/d/1KGSa8Bs0z1cSpA7MiUnwJjJs2Uf-E4ml/view?usp=drivesdk
-  category: "3d&t Alpha"
-- title: "3d&t Alpha - Brigada Ligeira Estelar - a Constelação do Sabre 02"
-  imageUrl: "./image/3ABLEACDS0.webp"
-  driveLink: https://drive.google.com/file/d/119SUbyfA5LsgLeRWDimtmxzBkjywRvOj/view?usp=drivesdk
-  category: "3d&t Alpha"
-- title: "3d&t Alpha - Brigada Ligeira Estelar - Belonave Supernova 01"
-  imageUrl: "./image/3ABLEBS0.webp"
-  driveLink: https://drive.google.com/file/d/18SnMCYALFmGXrJIvgiQkxWWJD8hrmFTL/view?usp=drivesdk
-  category: "3d&t Alpha"
-- title: "3d&t Alpha - Brigada Ligeira Estelar - Criando Backgrounds -"
-  imageUrl: "./image/3ABLECB.webp"
-  driveLink: https://drive.google.com/file/d/1P-CNv-04CQiKeNjkD85tI0e9srsxM8Bs/view?usp=drivesdk
-  category: "3d&t Alpha"
-- title: "3d&t Alpha - Brigada Ligeira Estelar - Ficha de Personagem -"
-  imageUrl: "./image/3ABLEFDP.webp"
-  driveLink: https://drive.google.com/file/d/1WHsAhT_E5dSJx1v0fC0qLdf7ONiBlAbi/view?usp=drivesdk
-  category: "3d&t Alpha"
-- title: "3d&t Alpha - Brigada Ligeira Estelar - Ficha de Personagem (V. Junior Lobo) -"
-  imageUrl: "./image/3ABLEFDP(.webp"
-  driveLink: https://drive.google.com/file/d/1Uf3VwHTN81wmYdKlItx5epCo5KWKoJrh/view?usp=drivesdk
-  category: "3d&t Alpha"
-- title: "3d&t Alpha - Brigada Ligeira Estelar - Históricos -"
-  imageUrl: "./image/3ABLEH.webp"
-  driveLink: https://drive.google.com/file/d/1XQHe9S4cYC1MSNssixi7Z8pVtnr47BZ5/view?usp=drivesdk
-  category: "3d&t Alpha"
-- title: "3d&t Alpha - Brigada Ligeira Estelar - Macross -"
-  imageUrl: "./image/3ABLEM.webp"
-  driveLink: https://drive.google.com/file/d/1kNoplO1GFkqAoQ3U-AK9pq06S-n-KNU8/view?usp=drivesdk
-  category: "3d&t Alpha"
-- title: "3d&t Alpha - Brigada Ligeira Estelar - Naves Espaciais -"
-  imageUrl: "./image/3ABLENE.webp"
-  driveLink: https://drive.google.com/file/d/1SfmExQwheydTnV7y-gT21yJPHW-aWdGQ/view?usp=drivesdk
-  category: "3d&t Alpha"
-- title: "3d&t Alpha - Compêndio de Armadilhas -"
-  imageUrl: "./image/3ACDA.webp"
-  driveLink: https://drive.google.com/file/d/1k2SnFLgItgEa93UglXUE4PYgbW8Ps31u/view?usp=drivesdk
-  category: "3d&t Alpha"
-- title: "3d&t Alpha - Compêndio de Regras Alternativas -"
-  imageUrl: "./image/3ACDRA.webp"
-  driveLink: https://drive.google.com/file/d/1nW3_dNZHIsV0ubQB5dzaquA2Is_jN1wG/view?usp=drivesdk
-  category: "3d&t Alpha"
-- title: "3d&t Alpha - Dragon Ball -"
-  imageUrl: "./image/3ADB.webp"
-  driveLink: https://drive.google.com/file/d/19XQq7PXhav92CLSQ1J9hqxYwSsltqszf/view?usp=drivesdk
-  category: "3d&t Alpha"
-- title: "3d&t Alpha - Dragon Ball - Ficha de Personagem -"
-  imageUrl: "./image/3ADBFDP.webp"
-  driveLink: https://drive.google.com/file/d/1vjrQ_FzIs6HA6J_cdskYzcTmlW9qIKfD/view?usp=drivesdk
-  category: "3d&t Alpha"
-- title: "3d&t Alpha - Escudo do Mestre -"
-  imageUrl: "./image/3AEDM.webp"
-  driveLink: https://drive.google.com/file/d/19e50UmU8MI9NDpP-bQ-cxZU38UH5KPoG/view?usp=drivesdk
-  category: "3d&t Alpha"
-- title: "3d&t Alpha - Ficha de Aventura -"
-  imageUrl: "./image/3AFDA.webp"
-  driveLink: https://drive.google.com/file/d/1N6miTbtx3mjjAOQlyOYRxV0poSBWhWdr/view?usp=drivesdk
-  category: "3d&t Alpha"
-- title: "3d&t Alpha - Ficha de Personagem -"
-  imageUrl: "./image/3AFDP.webp"
-  driveLink: https://drive.google.com/file/d/1tU1iDYOq8mHEgriw9tEWfKhspg6eSIVC/view?usp=drivesdk
-  category: "3d&t Alpha"
-- title: "3d&t Alpha - Ficha de Personagem - Editável (V. Tiago da Paz) -"
-  imageUrl: "./image/3AFDPE(.webp"
-  driveLink: https://drive.google.com/file/d/1IaDaJ6WlbO3_XkqJ3KYrfIz1pskDFTh9/view?usp=drivesdk
-  category: "3d&t Alpha"
-- title: "3d&t Alpha - Ficha de Personagem - Fantasia Medieval -"
-  imageUrl: "./image/3AFDPFM.webp"
-  driveLink: https://drive.google.com/file/d/1TgKKGR05pyxwJl0CzL-Monfn7ldHyOLn/view?usp=drivesdk
-  category: "3d&t Alpha"
-- title: "3d&t Alpha - Ficha de Personagem - Game Of Thrones -"
-  imageUrl: "./image/3AFDPGOT.webp"
-  driveLink: https://drive.google.com/file/d/18D24uCoN12hat4nMZiFw9Dbr2R06W72m/view?usp=drivesdk
-  category: "3d&t Alpha"
-- title: "3d&t Alpha - Ficha de Personagem - Shadowrun -"
-  imageUrl: "./image/3AFDPS.webp"
-  driveLink: https://drive.google.com/file/d/1CiC4T5fR4ph26vAsvKLluwE0PvalUBKr/view?usp=drivesdk
-  category: "3d&t Alpha"
-- title: "3d&t Alpha - Ficha de Personagem - The Walking Dead -"
-  imageUrl: "./image/3AFDPTWD.webp"
-  driveLink: https://drive.google.com/file/d/1YUwnbgJLXFgKbgLT5I0xSEH_QA6lmu1O/view?usp=drivesdk
-  category: "3d&t Alpha"
-- title: "3d&t Alpha - Ficha de Personagem (Editável) -"
-  imageUrl: "./image/3AFDP(.webp"
-  driveLink: https://drive.google.com/file/d/1hP04fzUDto28jxvSfYkt403S5hgHltYr/view?usp=drivesdk
-  category: "3d&t Alpha"
-- title: "3d&t Alpha - Ficha de Personagem (V. 2) -"
-  imageUrl: "./image/3AFDP(.webp"
-  driveLink: https://drive.google.com/file/d/1GslGp34jI8ayxnr4TEN0WdWDCyPnMgGy/view?usp=drivesdk
-  category: "3d&t Alpha"
-- title: "3d&t Alpha - Ficha de Personagem (V. 3) -"
-  imageUrl: "./image/3AFDP(.webp"
-  driveLink: https://drive.google.com/file/d/18aOj90JH9LMoUOkIFdehz_g7bVp7TFrM/view?usp=drivesdk
-  category: "3d&t Alpha"
-- title: "3d&t Alpha - Ficha de Personagem (V. Dl Arts) -"
-  imageUrl: "./image/3AFDP(.webp"
-  driveLink: https://drive.google.com/file/d/1dMHIx1SUMbJ8PzcAeIRIb_9VLfsWXEcd/view?usp=drivesdk
-  category: "3d&t Alpha"
-- title: "3d&t Alpha - Ficha de Personagem (V. Pc Tattoo Studio) -"
-  imageUrl: "./image/3AFDP(.webp"
-  driveLink: https://drive.google.com/file/d/19SycoQ6yxRGB30RSByBzwzwVP3k5-8Od/view?usp=drivesdk
-  category: "3d&t Alpha"
-- title: "3d&t Alpha - Guia das Artes Marciais -"
-  imageUrl: "./image/3AGDAM.webp"
-  driveLink: https://drive.google.com/file/d/1WlQf41USmuQPgdDgRwpWptqCMRKjs89V/view?usp=drivesdk
-  category: "3d&t Alpha"
-- title: "3d&t Alpha - Heróis de Guerra -"
-  imageUrl: "./image/3AHDG.webp"
-  driveLink: https://drive.google.com/file/d/11muOXT8YGyFc6_CmaQIocdHf9IQtz4oE/view?usp=drivesdk
-  category: "3d&t Alpha"
-- title: "3d&t Alpha - Hunter X Hunter -"
-  imageUrl: "./image/3AHXH.webp"
-  driveLink: https://drive.google.com/file/d/1kWWoEcxen01YZwSOUQoOTkbv3M7-jqO7/view?usp=drivesdk
-  category: "3d&t Alpha"
-- title: "3d&t Alpha - Hunter X Hunter - o Poder do Chi -"
-  imageUrl: "./image/3AHXHOPDC.webp"
-  driveLink: https://drive.google.com/file/d/1E3GHpRIuwOeOJ0Sip9qYTJgsdv_n9p6c/view?usp=drivesdk
-  category: "3d&t Alpha"
-- title: "3d&t Alpha - League Of Legends Rpg -"
-  imageUrl: "./image/3ALOLR.webp"
-  driveLink: https://drive.google.com/file/d/14uDkY_OkrEMbVFaCqleZMJVxmPnI8NG7/view?usp=drivesdk
-  category: "3d&t Alpha"
-- title: "3d&t Alpha - Liga da Justiça - Personagens -"
-  imageUrl: "./image/3ALDJP.webp"
-  driveLink: https://drive.google.com/file/d/1NMd0oiwcZyZnCfDn8tyzsYDXJJlygJ_h/view?usp=drivesdk
-  category: "3d&t Alpha"
-- title: "3d&t Alpha - Magibol -"
-  imageUrl: "./image/3AM.webp"
-  driveLink: https://drive.google.com/file/d/1QRHB9m24HB6nB85ftcaWvEpSX_lH6mRe/view?usp=drivesdk
-  category: "3d&t Alpha"
-- title: "3d&t Alpha - Manual -"
-  imageUrl: "./image/3AM.webp"
-  driveLink: https://drive.google.com/file/d/1cqduDf60m8XM781-LOd4eNAnUOb-xi74/view?usp=drivesdk
-  category: "3d&t Alpha"
-- title: "3d&t Alpha - Manual - Fastplay -"
-  imageUrl: "./image/3AMF.webp"
-  driveLink: https://drive.google.com/file/d/1eodgoqHZY_QaSOEli7kONjwHTLiqiLav/view?usp=drivesdk
-  category: "3d&t Alpha"
-- title: "3d&t Alpha - Manual - Revisado -"
-  imageUrl: "./image/3AMR.webp"
-  driveLink: https://drive.google.com/file/d/1fGkC5Sl6WTGx-sPfgzO_CI3oZNRJ1v0H/view?usp=drivesdk
-  category: "3d&t Alpha"
-- title: "3d&t Alpha - Manual da Magia -"
-  imageUrl: "./image/3AMDM.webp"
-  driveLink: https://drive.google.com/file/d/1cwuuA8cKs50tOZARpLdFvWgFh4ruHkHN/view?usp=drivesdk
-  category: "3d&t Alpha"
-- title: "3d&t Alpha - Manual das Vantagens -"
-  imageUrl: "./image/3AMDV.webp"
-  driveLink: https://drive.google.com/file/d/1U1lPcaNxaHYux8jP6fURkBMzLuYHqmoh/view?usp=drivesdk
-  category: "3d&t Alpha"
-- title: "3d&t Alpha - Manual de Kits - Underground -"
-  imageUrl: "./image/3AMDKU.webp"
-  driveLink: https://drive.google.com/file/d/1HflDREMy6SPKyrd84DEjcqrvIq2q8Ofk/view?usp=drivesdk
-  category: "3d&t Alpha"
-- title: "3d&t Alpha - Manual do Aventureiro Alpha"
-  imageUrl: "./image/3AMDAA.webp"
-  driveLink: https://drive.google.com/file/d/1zBUtk_oSqvz_oUU-SleUIhqSaJzhD5_W/view?usp=drivesdk
-  category: "3d&t Alpha"
-- title: "3d&t Alpha - Manual do Defensor"
-  imageUrl: "./image/3AMDD.webp"
-  driveLink: https://drive.google.com/file/d/1Y5LQiR8S4f3R1EHgVMVkz9P3Uj9e_iEC/view?usp=drivesdk
-  category: "3d&t Alpha"
-- title: "3d&t Alpha - Manual do Super Herói -"
-  imageUrl: "./image/3AMDSH.webp"
-  driveLink: https://drive.google.com/file/d/1B58idLxbO9ok5liMR2lKfGmSGO_DkB2c/view?usp=drivesdk
-  category: "3d&t Alpha"
-- title: "3d&t Alpha - Manual dos Dragões -"
-  imageUrl: "./image/3AMDD.webp"
-  driveLink: https://drive.google.com/file/d/1Y4TGvgw1tFIbVP8rcTx93zEZ0L5xr9Wc/view?usp=drivesdk
-  category: "3d&t Alpha"
-- title: "3d&t Alpha - Manual dos Monstros"
-  imageUrl: "./image/3AMDM.webp"
-  driveLink: https://drive.google.com/file/d/1cov_q5KbPTp7HVm3nH1dAFmddnE5Pm0N/view?usp=drivesdk
-  category: "3d&t Alpha"
-- title: "3d&t Alpha - Mega City"
-  imageUrl: "./image/3AMC.webp"
-  driveLink: https://drive.google.com/file/d/1J3bn0x86nGoOz1zhri2yOeBujRLISeP7/view?usp=drivesdk
-  category: "3d&t Alpha"
-- title: "3d&t Alpha - Mega City - Drakos - os Defensores do Mundo Mágico -"
-  imageUrl: "./image/3AMCDODDMM.webp"
-  driveLink: https://drive.google.com/file/d/1QHznJUlQ4i1AewOFhfXkiYF3gDthA13N/view?usp=drivesdk
-  category: "3d&t Alpha"
-- title: "3d&t Alpha - Mega City - Manual do Aventureiro"
-  imageUrl: "./image/3AMCMDA.webp"
-  driveLink: https://drive.google.com/file/d/1NP3OcGXpgktSmsXHGYiu7HRAwg20kCrt/view?usp=drivesdk
-  category: "3d&t Alpha"
-- title: "3d&t Alpha - Megaman -"
-  imageUrl: "./image/3AM.webp"
-  driveLink: https://drive.google.com/file/d/1BlYjmVUEOCWw1bozXZd2nK6oQHUEGu9y/view?usp=drivesdk
-  category: "3d&t Alpha"
-- title: "3d&t Alpha - Mundano -"
-  imageUrl: "./image/3AM.webp"
-  driveLink: https://drive.google.com/file/d/10CZIKmx_6t2EYuRl9-Yb9nWyArWgsM7W/view?usp=drivesdk
-  category: "3d&t Alpha"
-- title: "3d&t Alpha - Naruto -"
-  imageUrl: "./image/3AN.webp"
-  driveLink: https://drive.google.com/file/d/1zwq7UFidYgZy48-I8GzNTQXvTuI_1TAQ/view?usp=drivesdk
-  category: "3d&t Alpha"
-- title: "3d&t Alpha - Piratas, Navios e Navegações -"
-  imageUrl: "./image/3APNEN.webp"
-  driveLink: https://drive.google.com/file/d/1SqH9L4rNXid-MaCyoUG7qbCdXGFcuWVp/view?usp=drivesdk
-  category: "3d&t Alpha"
-- title: "3d&t Alpha - Projeto Aliança Negra -"
-  imageUrl: "./image/3APAN.webp"
-  driveLink: https://drive.google.com/file/d/14yh17NifI0JEweKw_FUCzj4HfCYCQXd2/view?usp=drivesdk
-  category: "3d&t Alpha"
-- title: "3d&t Alpha - Ragnarok Rpg -"
-  imageUrl: "./image/3ARR.webp"
-  driveLink: https://drive.google.com/file/d/1RL83ShVt5KoDkFxhwlpTgAP2Ny_fzitW/view?usp=drivesdk
-  category: "3d&t Alpha"
-- title: "3d&t Alpha - Rock Band -"
-  imageUrl: "./image/3ARB.webp"
-  driveLink: https://drive.google.com/file/d/1bJ8h1-Aj3r98zCz8UMtbRRMaqifoiDHX/view?usp=drivesdk
-  category: "3d&t Alpha"
-- title: "3d&t Alpha - Rock Band - Ficha de Personagem -"
-  imageUrl: "./image/3ARBFDP.webp"
-  driveLink: https://drive.google.com/file/d/1uZcMyUKFrAedYQ6JoMDZQiDpUAGybs6g/view?usp=drivesdk
-  category: "3d&t Alpha"
-- title: "3d&t Alpha - Saint Seiya Rpg -"
-  imageUrl: "./image/3ASSR.webp"
-  driveLink: https://drive.google.com/file/d/1jEsA4haYKTZF3EcEIjgmmzVBo3TBxZVP/view?usp=drivesdk
-  category: "3d&t Alpha"
-- title: "3d&t Alpha - Shaman King -"
-  imageUrl: "./image/3ASK.webp"
-  driveLink: https://drive.google.com/file/d/1Y0ua0mqDLCadm4GDaZ6c6ySbkSatdcp0/view?usp=drivesdk
-  category: "3d&t Alpha"
-- title: "3d&t Alpha - Star Wars - Clone Wars -"
-  imageUrl: "./image/3ASWCW.webp"
-  driveLink: https://drive.google.com/file/d/1xGHI413jXp_68VTtpbke3KslI4Mdp5Fu/view?usp=drivesdk
-  category: "3d&t Alpha"
-- title: "3d&t Alpha - Stranger Things -"
-  imageUrl: "./image/3AST.webp"
-  driveLink: https://drive.google.com/file/d/1mKBfl7JpeECYqDlto-g7ZqcP7vIyJUYT/view?usp=drivesdk
-  category: "3d&t Alpha"
-- title: "3d&t Alpha - Survival Horror -"
-  imageUrl: "./image/3ASH.webp"
-  driveLink: https://drive.google.com/file/d/1M-c1sanPeXZM4Zkge8rgrExh2sCp8AT3/view?usp=drivesdk
-  category: "3d&t Alpha"
-- title: "3d&t Alpha - Tormenta Alpha"
-  imageUrl: "./image/3ATA.webp"
-  driveLink: https://drive.google.com/file/d/1fuiTe8Ua6EIcb0pooeVKVTwJdsae6ASD/view?usp=drivesdk
-  category: "3d&t Alpha"
-- title: "3d&t Alpha - Tormenta Alpha - Ficha de Personagem -"
-  imageUrl: "./image/3ATAFDP.webp"
-  driveLink: https://drive.google.com/file/d/1rk-B7hKqnlg9NrS2F97xXEOEhmbQ73lk/view?usp=drivesdk
-  category: "3d&t Alpha"
-- title: "3d&t Alpha - World Of Warcraft -"
-  imageUrl: "./image/3AWOW.webp"
-  driveLink: https://drive.google.com/file/d/1az0Evp_Oni-TH4uwr6KQf2PnrxKhas3O/view?usp=drivesdk
-  category: "3d&t Alpha"
-- title: "3d&t High 01 -"
-  imageUrl: "./image/3H0.webp"
-  driveLink: https://drive.google.com/file/d/1NeFJvssUM2X3aJmO0DjNNSfd_PQzv4hb/view?usp=drivesdk
-  category: "3d&t High"
-- title: "3d&t High 02 -"
-  imageUrl: "./image/3H0.webp"
-  driveLink: https://drive.google.com/file/d/1u4VeE2V0kG84GlFda2XXoBGCRVoc1_JM/view?usp=drivesdk
-  category: "3d&t High"
-- title: "3d&t Na Confraria 01 -"
-  imageUrl: "./image/3NC0.webp"
-  driveLink: https://drive.google.com/file/d/14zOkM5gOA9KwvwkSsStKeuqbFuk_cZAu/view?usp=drivesdk
-  category: "3d&t Na Confraria"
-- title: "3d&t Na Confraria 02 -"
-  imageUrl: "./image/3NC0.webp"
-  driveLink: https://drive.google.com/file/d/17JhBHoGUXygXBsjGlrvgzLmTi_IpcZTW/view?usp=drivesdk
-  category: "3d&t Na Confraria"
-- title: "3d&t Na Confraria 03 -"
-  imageUrl: "./image/3NC0.webp"
-  driveLink: https://drive.google.com/file/d/15U-HiGcGRiYDO6Nv36HRsjm_HynYv8Cq/view?usp=drivesdk
-  category: "3d&t Na Confraria"
-- title: "3d&t Na Confraria 04 -"
-  imageUrl: "./image/3NC0.webp"
-  driveLink: https://drive.google.com/file/d/1cUG_uul2keJlzbiHOUCm17sMWqRyJIro/view?usp=drivesdk
-  category: "3d&t Na Confraria"
-- title: "3d&t Na Confraria 05 -"
-  imageUrl: "./image/3NC0.webp"
-  driveLink: https://drive.google.com/file/d/13ZEkc7jm6KPnXYIAXd8xraVfEEdFvP-J/view?usp=drivesdk
-  category: "3d&t Na Confraria"
-- title: "3d&t Na Confraria 06 -"
-  imageUrl: "./image/3NC0.webp"
-  driveLink: https://drive.google.com/file/d/1DS_ah50HaNeMbOOJdXMypUyVlu8JYWE_/view?usp=drivesdk
-  category: "3d&t Na Confraria"
-- title: "3d&t² Alpha 01 -"
-  imageUrl: "./image/3A0.webp"
-  driveLink: https://drive.google.com/file/d/13YdEbNLqYGyutZeH6E2XTSX4DYtZLAHD/view?usp=drivesdk
-  category: "3d&t² Alpha"
-- title: "3d&t² Alpha 02 -"
-  imageUrl: "./image/3A0.webp"
-  driveLink: https://drive.google.com/file/d/19h77GGcUFfZ_UyZHFQqG5dEPDG_kQqBa/view?usp=drivesdk
-  category: "3d&t² Alpha"
-- title: "3d&t² Alpha 03 -"
-  imageUrl: "./image/3A0.webp"
-  driveLink: https://drive.google.com/file/d/1_3PBGyYwLloYyw9qQ5avmUAX5KYGd-aT/view?usp=drivesdk
-  category: "3d&t² Alpha"
-- title: "3d&t² Alpha 04 -"
-  imageUrl: "./image/3A0.webp"
-  driveLink: https://drive.google.com/file/d/1oeFO0iQ_ytiSUoyCb7-fj9nc2dmc-A5q/view?usp=drivesdk
-  category: "3d&t² Alpha"
-- title: "3d&t² Alpha 05 -"
-  imageUrl: "./image/3A0.webp"
-  driveLink: https://drive.google.com/file/d/1MoCvcD43ellWKgf0W4I4I4sMVF33IiV-/view?usp=drivesdk
-  category: "3d&t² Alpha"
-- title: "3d&t² Alpha 06 -"
-  imageUrl: "./image/3A0.webp"
-  driveLink: https://drive.google.com/file/d/1wizV5l2GZ9nCW3wHToiAIcKg0UPligav/view?usp=drivesdk
-  category: "3d&t² Alpha"
-- title: "3d&t² Alpha 07 -"
-  imageUrl: "./image/3A0.webp"
-  driveLink: https://drive.google.com/file/d/1rr97iFSsOl5JjT6j-wHlRaCiVWRP6WBu/view?usp=drivesdk
-  category: "3d&t² Alpha"
-- title: "3d&t² Alpha 08 -"
-  imageUrl: "./image/3A0.webp"
-  driveLink: https://drive.google.com/file/d/1ogcA6etA09-tj56fV2GN-LA4rvLQ0CrM/view?usp=drivesdk
-  category: "3d&t² Alpha"
-- title: "3d&t² Alpha 09 -"
-  imageUrl: "./image/3A0.webp"
-  driveLink: https://drive.google.com/file/d/1ZUqKObQYsJdMAX614_E6SGl-FxaOi03R/view?usp=drivesdk
-  category: "3d&t² Alpha"
-- title: "3d&t² Alpha Especial - Mario Kart -"
-  imageUrl: "./image/3AEMK.webp"
-  driveLink: https://drive.google.com/file/d/1SEfKMvDmtHX-Umoivw25aykioWRargHk/view?usp=drivesdk
-  category: "3d&t² Alpha"
-- title: "3d&t² Alpha Especial - ÚLtima Hora -"
-  imageUrl: "./image/3AEÚH.webp"
-  driveLink: https://drive.google.com/file/d/1GT6EE4BSbIBd4Nv7JnlPJ79Nm5edIS74/view?usp=drivesdk
-  category: "3d&t² Alpha"
-- title: "3d&tz - Manual - Beta -"
-  imageUrl: "./image/3MB.webp"
-  driveLink: https://drive.google.com/file/d/1EAhJq4QGg1rqIXEwUPTYuEKsQOWYUikX/view?usp=drivesdk
-  category: "3d&tz"
-- title: "3d&tz - Manual (Versão Completa) -"
-  imageUrl: "./image/3M(C.webp"
-  driveLink: https://drive.google.com/file/d/10BDen4-qu3NjP0fFZTzBOVE_uWjYKCFP/view?usp=drivesdk
-  category: "3d&tz"
-- title: "3d&tz - Manual Completo (Digital) -"
-  imageUrl: "./image/3MC(.webp"
-  driveLink: https://drive.google.com/file/d/1s0_ncLCZvr6TrzAYU3Ozc5mNk3BAxFFc/view?usp=drivesdk
-  category: "3d&tz"
-- title: "4d&t - Manual (Digital) -"
-  imageUrl: "./image/4M(.webp"
-  driveLink: https://drive.google.com/file/d/1G_omtxpRBc6116tp7qV4PLpLNDAaNObG/view?usp=drivesdk
-  category: "4d&t"
-- title: "4d&t - Zillion -"
-  imageUrl: "./image/4Z.webp"
-  driveLink: https://drive.google.com/file/d/1Z07-fBvD5A2_p3d4ESUs6rU2Jml51MYe/view?usp=drivesdk
-  category: "4d&t"
-- title: "A Bandeira do Elefante e da Arara - Prévia Digital -"
-  imageUrl: "./image/ABDEEDAPD.webp"
-  driveLink: https://drive.google.com/file/d/1Ck8hvOIFj0rPxwm1iIqgMzVOt_RnMsNK/view?usp=drivesdk
-  category: "A Bandeira do Elefante e da Arara"
-- title: "A Batalha do Apocalipse - Ficha de Personagem -"
-  imageUrl: "./image/ABDAFDP.webp"
-  driveLink: https://drive.google.com/file/d/1m3KPBdv1wIYKJxqy0rvGOEuD29VEfWdK/view?usp=drivesdk
-  category: "A Batalha do Apocalipse"
-- title: "A Batalha do Apocalipse - Livro de Regras -"
-  imageUrl: "./image/ABDALDR.webp"
-  driveLink: https://drive.google.com/file/d/1FqXX19RKq6Er5szkXBzKKmmHuZ1TBxDl/view?usp=drivesdk
-  category: "A Batalha do Apocalipse"
-- title: "A Bíblia Em Mangá - Novo Testamento -"
-  imageUrl: "./image/ABEMNT.webp"
-  driveLink: https://drive.google.com/file/d/13QxOvUm1Vr4MIZ21kYf726498S1b6xS2/view?usp=drivesdk
-  category: "A Bíblia Em Mangá"
-- title: "A Bíblia Em Mangá - Velho Testamento -"
-  imageUrl: "./image/ABEMVT.webp"
-  driveLink: https://drive.google.com/file/d/11cP_7uxUmY7cNAC9_HQKQ9FFlr_gxWdA/view?usp=drivesdk
-  category: "A Bíblia Em Mangá"
-- title: "A Fita - Fastplay -"
-  imageUrl: "./image/AFF.webp"
-  driveLink: https://drive.google.com/file/d/1ZU_PP9dT1Hv1P7bf6jQPnBOSDuFn3ozT/view?usp=drivesdk
-  category: "A Fita"
-- title: "A Fortaleza de Berdolock -"
-  imageUrl: "./image/AFDB.webp"
-  driveLink: https://drive.google.com/file/d/1vbB_Cl2UnjG-keScZm6wGY-1FwY3H1AB/view?usp=drivesdk
-  category: "A Fortaleza de Berdolock"
-- title: "A Fortaleza de Berdolock - Oldschool -"
-  imageUrl: "./image/AFDBO.webp"
-  driveLink: https://drive.google.com/file/d/1ixmYwU0ZtXzuZm9eusbO5ctDX_zPi-hu/view?usp=drivesdk
-  category: "A Fortaleza de Berdolock"
-- title: "A Fortaleza de Berdolock - os Pergaminhos Perdidos de Berdolock - Tomo I -"
-  imageUrl: "./image/AFDBOPPDBTI.webp"
-  driveLink: https://drive.google.com/file/d/1FQoqjq079OPHaEaSZKxBC0ipANlxLkNQ/view?usp=drivesdk
-  category: "A Fortaleza de Berdolock"
-- title: "A Guerra dos Tronos 01 -"
-  imageUrl: "./image/AGDT0.webp"
-  driveLink: https://drive.google.com/file/d/1mBX73z6tqLn_0qdbAuVCv0a3EjJKK49N/view?usp=drivesdk
-  category: "A Guerra dos Tronos"
-- title: "A Guerra dos Tronos 02 -"
-  imageUrl: "./image/AGDT0.webp"
-  driveLink: https://drive.google.com/file/d/1whOMpX2PxWJn0-pOqgbEW__pMpWXFa2K/view?usp=drivesdk
-  category: "A Guerra dos Tronos"
-- title: "A Guerra dos Tronos 03 -"
-  imageUrl: "./image/AGDT0.webp"
-  driveLink: https://drive.google.com/file/d/1KPjAO7W9PofdXpMjITUoLgdN815UXVYn/view?usp=drivesdk
-  category: "A Guerra dos Tronos"
-- title: "A Guerra dos Tronos 04 -"
-  imageUrl: "./image/AGDT0.webp"
-  driveLink: https://drive.google.com/file/d/1OwsXL27tJVN1diWpx9riWDYX8hb-sYNK/view?usp=drivesdk
-  category: "A Guerra dos Tronos"
-- title: "A Guerra dos Tronos 05 -"
-  imageUrl: "./image/AGDT0.webp"
-  driveLink: https://drive.google.com/file/d/1X6fQZiF3vJvFexud2q-BGK_8gLof4P8Y/view?usp=drivesdk
-  category: "A Guerra dos Tronos"
-- title: "A Guerra dos Tronos 06 -"
-  imageUrl: "./image/AGDT0.webp"
-  driveLink: https://drive.google.com/file/d/1nkAsOwb_KE_51fBdW6Ha-wHqWzDJ9IAW/view?usp=drivesdk
-  category: "A Guerra dos Tronos"
-- title: "A Guerra dos Tronos 07 -"
-  imageUrl: "./image/AGDT0.webp"
-  driveLink: https://drive.google.com/file/d/1j6UH07agMzdOCnYnXro5wRr8bhQwKuBI/view?usp=drivesdk
-  category: "A Guerra dos Tronos"
-- title: "A Guerra dos Tronos 08 -"
-  imageUrl: "./image/AGDT0.webp"
-  driveLink: https://drive.google.com/file/d/1DfwtmJkc_UXjzYbVU-2hCnwDt76eG4qm/view?usp=drivesdk
-  category: "A Guerra dos Tronos"
-- title: "A Guerra dos Tronos 09 -"
-  imageUrl: "./image/AGDT0.webp"
-  driveLink: https://drive.google.com/file/d/1KzQqkvJxnCv95E3uEL44vtHWhpZYvUxN/view?usp=drivesdk
-  category: "A Guerra dos Tronos"
-- title: "A Guerra dos Tronos 10 -"
-  imageUrl: "./image/AGDT1.webp"
-  driveLink: https://drive.google.com/file/d/1hcM-GAcJKCuSBjdfURK5yvRjENApMku2/view?usp=drivesdk
-  category: "A Guerra dos Tronos"
-- title: "A Guerra dos Tronos 11 -"
-  imageUrl: "./image/AGDT1.webp"
-  driveLink: https://drive.google.com/file/d/1LKUQfe2Lybl6TMJ6fTkkEdz-zr7O0myE/view?usp=drivesdk
-  category: "A Guerra dos Tronos"
-- title: "A Guerra dos Tronos 12 -"
-  imageUrl: "./image/AGDT1.webp"
-  driveLink: https://drive.google.com/file/d/1KAsd-ZaUZzm_z9PkYbvFXa6-2u64b153/view?usp=drivesdk
-  category: "A Guerra dos Tronos"
-- title: "A Guerra dos Tronos 13 -"
-  imageUrl: "./image/AGDT1.webp"
-  driveLink: https://drive.google.com/file/d/1wqn4laKBR_umCDQz7KT7taHn0mwigxLq/view?usp=drivesdk
-  category: "A Guerra dos Tronos"
-- title: "A Lenda dos Cinco Anéis 1e - Guia Acadêmico -"
-  imageUrl: "./image/ALDCA1GA.webp"
-  driveLink: https://drive.google.com/file/d/1yzi1irzQ0vDst7bEh-xZfSW4A_Rljggv/view?usp=drivesdk
-  category: "A Lenda dos Cinco Anéis 1e"
-- title: "A Lenda dos Cinco Anéis 3e - Guia Acadêmico de Rokugan -"
-  imageUrl: "./image/ALDCA3GADR.webp"
-  driveLink: https://drive.google.com/file/d/1g2AAL9QY-Wt8PqrQGczVsolotgHc3fCJ/view?usp=drivesdk
-  category: "A Lenda dos Cinco Anéis 3e"
-- title: "A Lenda dos Cinco Anéis 3e - Livro Básico -"
-  imageUrl: "./image/ALDCA3LB.webp"
-  driveLink: https://drive.google.com/file/d/1JKJIYFwp9wv-3NETJhLyZOs8_k1lS8eR/view?usp=drivesdk
-  category: "A Lenda dos Cinco Anéis 3e"
-- title: "A Lenda dos Cinco Anéis 3e - Noite dos Mil Gritos -"
-  imageUrl: "./image/ALDCA3NDMG.webp"
-  driveLink: https://drive.google.com/file/d/1TBgFFQO0u9OMwc49L47FlM9hlvLCGSmt/view?usp=drivesdk
-  category: "A Lenda dos Cinco Anéis 3e"
-- title: "A Lenda dos Cinco Anéis 3e - o Caminho da Fênix -"
-  imageUrl: "./image/ALDCA3OCDF.webp"
-  driveLink: https://drive.google.com/file/d/1JA_wpHNNMv4oCREUr5Y_BU77XY8yihuX/view?usp=drivesdk
-  category: "A Lenda dos Cinco Anéis 3e"
-- title: "A Lenda dos Cinco Anéis 3e - o Caminho do Escorpião -"
-  imageUrl: "./image/ALDCA3OCDE.webp"
-  driveLink: https://drive.google.com/file/d/1y9z28_vZNbmcSNXtssSqEM9TcNUo6Iqh/view?usp=drivesdk
-  category: "A Lenda dos Cinco Anéis 3e"
-- title: "A Lenda dos Cinco Anéis 4e - Errata -"
-  imageUrl: "./image/ALDCA4E.webp"
-  driveLink: https://drive.google.com/file/d/1Kth9NvLRjyD-AMkzlefcrMpnSXYlfAR9/view?usp=drivesdk
-  category: "A Lenda dos Cinco Anéis 4e"
-- title: "A Lenda dos Cinco Anéis 4e - Ficha de Personagem -"
-  imageUrl: "./image/ALDCA4FDP.webp"
-  driveLink: https://drive.google.com/file/d/1H5Ixfy3Ni-HOdz_TUtwZ7gyy5JMB1DnQ/view?usp=drivesdk
-  category: "A Lenda dos Cinco Anéis 4e"
-- title: "A Lenda dos Cinco Anéis 4e - Livro Básico"
-  imageUrl: "./image/ALDCA4LB.webp"
-  driveLink: https://drive.google.com/file/d/1I7IpZucYu1YufCbSOag6OLxI53H9vCtm/view?usp=drivesdk
-  category: "A Lenda dos Cinco Anéis 4e"
-- title: "A Lenda dos Cinco Anéis 4e - Mapa de Rokugan -"
-  imageUrl: "./image/ALDCA4MDR.webp"
-  driveLink: https://drive.google.com/file/d/1eB6_7PNgaaQ80gCjk7-0L5tfL1dL7w_9/view?usp=drivesdk
-  category: "A Lenda dos Cinco Anéis 4e"
-- title: "A Lenda dos Cinco Anéis 4e - Quickstart - Jogo Rápido -"
-  imageUrl: "./image/ALDCA4QJR.webp"
-  driveLink: https://drive.google.com/file/d/16RWw_Ty0Ti8Hu1Q-nPBEY9DTEuJDCri6/view?usp=drivesdk
-  category: "A Lenda dos Cinco Anéis 4e"
-- title: "A Lenda dos Cinco Anéis 4e - Torneio de Topázio -"
-  imageUrl: "./image/ALDCA4TDT.webp"
-  driveLink: https://drive.google.com/file/d/1nyY7oPEusCPy9jX-E95Q2yR9c1tk7JQz/view?usp=drivesdk
-  category: "A Lenda dos Cinco Anéis 4e"
-- title: "A Ordem dos Cavaleiros Dragões 01"
-  imageUrl: "./image/AODCD0.webp"
-  driveLink: https://drive.google.com/file/d/1Z_9bcs409XRWooyxxdLR9OW0rTZKCxQ5/view?usp=drivesdk
-  category: "A Ordem dos Cavaleiros Dragões"
-- title: "A Ordem dos Cavaleiros Dragões 02"
-  imageUrl: "./image/AODCD0.webp"
-  driveLink: https://drive.google.com/file/d/1uvNncnM901Dj0hraKWvYgCSLLjVadezL/view?usp=drivesdk
-  category: "A Ordem dos Cavaleiros Dragões"
-- title: "A Ordem dos Cavaleiros Dragões 03"
-  imageUrl: "./image/AODCD0.webp"
-  driveLink: https://drive.google.com/file/d/1cDexan2BgJVQhAwiMljg3u8toxkzZOnR/view?usp=drivesdk
-  category: "A Ordem dos Cavaleiros Dragões"
-- title: "A Ordem dos Cavaleiros Dragões 04"
-  imageUrl: "./image/AODCD0.webp"
-  driveLink: https://drive.google.com/file/d/1OzUhaPbRk7nxJRWyFn81yF2hjxgxW6qM/view?usp=drivesdk
-  category: "A Ordem dos Cavaleiros Dragões"
-- title: "A Ordem dos Cavaleiros Dragões 05"
-  imageUrl: "./image/AODCD0.webp"
-  driveLink: https://drive.google.com/file/d/1ku0spk1Djq2Z25sU5-hCvvewKWi4Owbf/view?usp=drivesdk
-  category: "A Ordem dos Cavaleiros Dragões"
-- title: "A Ordem dos Cavaleiros Dragões 06"
-  imageUrl: "./image/AODCD0.webp"
-  driveLink: https://drive.google.com/file/d/1s1jPKnY_6B4k68-Q3hLmq4uNfjSIdJu2/view?usp=drivesdk
-  category: "A Ordem dos Cavaleiros Dragões"
-- title: "A Ordem dos Cavaleiros Dragões 07"
-  imageUrl: "./image/AODCD0.webp"
-  driveLink: https://drive.google.com/file/d/1rWRZWNkBTHbcvOBRPkMR4bF1v2bxHjcJ/view?usp=drivesdk
-  category: "A Ordem dos Cavaleiros Dragões"
-- title: "A Ordem dos Cavaleiros Dragões 08"
-  imageUrl: "./image/AODCD0.webp"
-  driveLink: https://drive.google.com/file/d/1mV1u-NOdevXrJOoNn6z1dGiqERf5YktH/view?usp=drivesdk
-  category: "A Ordem dos Cavaleiros Dragões"
-- title: "A Ordem dos Cavaleiros Dragões 09"
-  imageUrl: "./image/AODCD0.webp"
-  driveLink: https://drive.google.com/file/d/1F8v75mNQJy5NxLFJSbs7uG0aQsNfXmM6/view?usp=drivesdk
-  category: "A Ordem dos Cavaleiros Dragões"
-- title: "A Ordem dos Cavaleiros Dragões 10"
-  imageUrl: "./image/AODCD1.webp"
-  driveLink: https://drive.google.com/file/d/1R7F1Tmya86vgu7n-fT8iDvrM_3z20rQz/view?usp=drivesdk
-  category: "A Ordem dos Cavaleiros Dragões"
-- title: "A Ordem dos Cavaleiros Dragões 11"
-  imageUrl: "./image/AODCD1.webp"
-  driveLink: https://drive.google.com/file/d/1fvTTbZngqODNzDwOvlmApYbYjpQMO2DY/view?usp=drivesdk
-  category: "A Ordem dos Cavaleiros Dragões"
-- title: "A Ordem dos Cavaleiros Dragões 12"
-  imageUrl: "./image/AODCD1.webp"
-  driveLink: https://drive.google.com/file/d/1d8dlgL_QpAcAltFxQRv6sMFhZB32XMj_/view?usp=drivesdk
-  category: "A Ordem dos Cavaleiros Dragões"
-- title: "A Ordem dos Cavaleiros Dragões 13"
-  imageUrl: "./image/AODCD1.webp"
-  driveLink: https://drive.google.com/file/d/1q3fa_clFj66VpQEcELeDXdVIFUZuHUZZ/view?usp=drivesdk
-  category: "A Ordem dos Cavaleiros Dragões"
-- title: "A Ordem dos Cavaleiros Dragões 14"
-  imageUrl: "./image/AODCD1.webp"
-  driveLink: https://drive.google.com/file/d/1AyUpM0FpM9vND09Z-4FMycbCmdvLuek9/view?usp=drivesdk
-  category: "A Ordem dos Cavaleiros Dragões"
-- title: "A Ordem dos Cavaleiros Dragões Especial"
-  imageUrl: "./image/AODCDE.webp"
-  driveLink: https://drive.google.com/file/d/1U1DCgwHp7WUqP18QvtbH6Wuh4YIKDpO1/view?usp=drivesdk
-  category: "A Ordem dos Cavaleiros Dragões"
-- title: "A Trama -"
-  imageUrl: "./image/AT.webp"
-  driveLink: https://drive.google.com/file/d/1gKymZzRHKndBYlQP7KbjMj-er7AC8Who/view?usp=drivesdk
-  category: "A Trama"
-- title: "Abismo Infinito - a Caixa Dourada -"
-  imageUrl: "./image/AIACD.webp"
-  driveLink: https://drive.google.com/file/d/1t7FAqtMLgRv-sjqHAtlLx3KEsF6Q5TCN/view?usp=drivesdk
-  category: "Abismo Infinito"
-- title: "Abismo Infinito - Hq Introdutória -"
-  imageUrl: "./image/AIHI.webp"
-  driveLink: https://drive.google.com/file/d/1QQXEVT0E0YOt5MhYpzKDS02p8S_U3cLT/view?usp=drivesdk
-  category: "Abismo Infinito"
-- title: "Abismo Infinito - Livro de Regras"
-  imageUrl: "./image/AILDR.webp"
-  driveLink: https://drive.google.com/file/d/1zLw3wRRvUJNTHjVdcySUiBKvKD797Sr1/view?usp=drivesdk
-  category: "Abismo Infinito"
-- title: "Abismo Infinito - No Limiar da Realidade -"
-  imageUrl: "./image/AINLDR.webp"
-  driveLink: https://drive.google.com/file/d/15My3utIS3X3lwyXMJjdzsmLh7oZDc0IP/view?usp=drivesdk
-  category: "Abismo Infinito"
-- title: "Abismo Infinito - Quick Start -"
-  imageUrl: "./image/AIQS.webp"
-  driveLink: https://drive.google.com/file/d/1MgkO7fbGAFGwdFOj3SHfrogzFsRjiukw/view?usp=drivesdk
-  category: "Abismo Infinito"
-- title: "Abismo Infinito - Soundtrack"
-  imageUrl: "./image/AIS.webp"
-  driveLink: https://drive.google.com/file/d/1Io1_Nkq8cjOXNefgaddv_nAhKoh1-jZW/view?usp=drivesdk
-  category: "Abismo Infinito"
-- title: "Acerto Crítico 01 -"
-  imageUrl: "./image/AC0.webp"
-  driveLink: https://drive.google.com/file/d/1Lb-uH6k9Eb9qgT1SR8BjGQ8NuuSkqge4/view?usp=drivesdk
-  category: "Acerto Crítico"
-- title: "Acerto Crítico 02 -"
-  imageUrl: "./image/AC0.webp"
-  driveLink: https://drive.google.com/file/d/19SFE0SoPscTx13s0H1LjzYDaQbVs81sT/view?usp=drivesdk
-  category: "Acerto Crítico"
-- title: "Acerto Crítico 03 -"
-  imageUrl: "./image/AC0.webp"
-  driveLink: https://drive.google.com/file/d/1FhL8r4v8QO5AL9-kp6mJkurTuOpA-KVJ/view?usp=drivesdk
-  category: "Acerto Crítico"
-- title: "Acerto Crítico 04 -"
-  imageUrl: "./image/AC0.webp"
-  driveLink: https://drive.google.com/file/d/1oP1-H0arhtkvhnqryS_l0lB4z06pGFV3/view?usp=drivesdk
-  category: "Acerto Crítico"
-- title: "Acerto Crítico 05 -"
-  imageUrl: "./image/AC0.webp"
-  driveLink: https://drive.google.com/file/d/1M2Yo4aOrey1ajoZaxA1oEJGij-vHEvaT/view?usp=drivesdk
-  category: "Acerto Crítico"
-- title: "Acerto Crítico 06 -"
-  imageUrl: "./image/AC0.webp"
-  driveLink: https://drive.google.com/file/d/1VsRaoqak05YIccCzy0YACry-Bhx_wuR1/view?usp=drivesdk
-  category: "Acerto Crítico"
-- title: "Acerto Crítico 07 -"
-  imageUrl: "./image/AC0.webp"
-  driveLink: https://drive.google.com/file/d/1xVeeK7JZ1fpwP9NrdZsMlnYmMFNx4JUc/view?usp=drivesdk
-  category: "Acerto Crítico"
-- title: "Acerto Crítico 08 -"
-  imageUrl: "./image/AC0.webp"
-  driveLink: https://drive.google.com/file/d/1F6x9F-J7hV3_gQtMRibmFqKiYbxNKsZw/view?usp=drivesdk
-  category: "Acerto Crítico"
-- title: "Acerto Crítico 09 -"
-  imageUrl: "./image/AC0.webp"
-  driveLink: https://drive.google.com/file/d/1s3EeFsFMMrdXycuchjVmgIBK6Pj4zMuo/view?usp=drivesdk
-  category: "Acerto Crítico"
-- title: "Acerto Crítico 10 -"
-  imageUrl: "./image/AC1.webp"
-  driveLink: https://drive.google.com/file/d/1s_t5f9JJnjLmNPRfAoj-a2G1q_FF0vqv/view?usp=drivesdk
-  category: "Acerto Crítico"
-- title: "Acerto Crítico 11 -"
-  imageUrl: "./image/AC1.webp"
-  driveLink: https://drive.google.com/file/d/1uSlpJ46t7YVqcALGIWNXzg2Nsk4lvQ2s/view?usp=drivesdk
-  category: "Acerto Crítico"
-- title: "Acerto Crítico 12 -"
-  imageUrl: "./image/AC1.webp"
-  driveLink: https://drive.google.com/file/d/1YgaZe71qT9q6hh2zqxeG8VEexC5bVIFT/view?usp=drivesdk
-  category: "Acerto Crítico"
-- title: "Acerto Crítico 13 -"
-  imageUrl: "./image/AC1.webp"
-  driveLink: https://drive.google.com/file/d/1ZaKGAeUQ5SylvgvdK1cfZFvRk5hmD8iv/view?usp=drivesdk
-  category: "Acerto Crítico"
-- title: "Acerto Crítico 14 -"
-  imageUrl: "./image/AC1.webp"
-  driveLink: https://drive.google.com/file/d/1Ae1sODUMu9Dm5cRx3-JG56CCPq91qPMw/view?usp=drivesdk
-  category: "Acerto Crítico"
-- title: "Acerto Crítico Especial - Naruto -"
-  imageUrl: "./image/ACEN.webp"
-  driveLink: https://drive.google.com/file/d/1vCDZ2qFv_-BiTf9VwxbDaNthJtUCIZkK/view?usp=drivesdk
-  category: "Acerto Crítico"
-- title: "Ad&d - Livro do Guerreiro -"
-  imageUrl: "./image/ALDG.webp"
-  driveLink: https://drive.google.com/file/d/1OIOvqlffSposXIQHVPRBoM89-pGg_F5o/view?usp=drivesdk
-  category: "AD&D"
-- title: "Ad&d - Livro do Jogador (V. Scanner) -"
-  imageUrl: "./image/ALDJ(.webp"
-  driveLink: https://drive.google.com/file/d/19BL7ddBqimDkmX0-N4odnTpU-x0kxKrG/view?usp=drivesdk
-  category: "AD&D"
-- title: "Ad&d 2e - a Princesa e o Dragão (Aventura) -"
-  imageUrl: "./image/A2APEOD(.webp"
-  driveLink: https://drive.google.com/file/d/1V1LG_LpepyW3_WKZVDIxSaJAWY1YNZkv/view?usp=drivesdk
-  category: "AD&D 2e"
-- title: "Ad&d 2e - a Terrível Tragédia de Tragidore (Aventura)"
-  imageUrl: "./image/A2ATTDT(.webp"
-  driveLink: https://drive.google.com/file/d/1iH7N0n7VTpTpo_E-QF40-jN-1b2y6cVC/view?usp=drivesdk
-  category: "AD&D 2e"
-- title: "Ad&d 2e - a Terrível Tragédia de Tragidore (Aventura) -"
-  imageUrl: "./image/A2ATTDT(.webp"
-  driveLink: https://drive.google.com/file/d/16cffWt3LFjuazAYiM3uXv_yFcx2CV_3l/view?usp=drivesdk
-  category: "AD&D 2e"
-- title: "Ad&d 2e - a Terrível Tragédia de Tragidore (Aventura) (2)"
-  imageUrl: "./image/A2ATTDT((.webp"
-  driveLink: https://drive.google.com/file/d/1Wfa1goQtTXaVdsjntFla-6Uvxjk9wbUl/view?usp=drivesdk
-  category: "AD&D 2e"
-- title: "Ad&d 2e - Cartões de Magias Arcanas"
-  imageUrl: "./image/A2CDMA.webp"
-  driveLink: https://drive.google.com/file/d/1LWcJ5xzyiXwJnyzxFBMY-29V0frTDQah/view?usp=drivesdk
-  category: "AD&D 2e"
-- title: "Ad&d 2e - Cartões de Magias Arcanas -"
-  imageUrl: "./image/A2CDMA.webp"
-  driveLink: https://drive.google.com/file/d/1b1T3FxCDvlyebZSL8spIY45DFXabW8UO/view?usp=drivesdk
-  category: "AD&D 2e"
-- title: "Ad&d 2e - Cartões de Magias Divinas"
-  imageUrl: "./image/A2CDMD.webp"
-  driveLink: https://drive.google.com/file/d/11p45EY2h1l0EswcFRHpljV54kg6Iy-Ww/view?usp=drivesdk
-  category: "AD&D 2e"
-- title: "Ad&d 2e - Cartões de Magias Divinas -"
-  imageUrl: "./image/A2CDMD.webp"
-  driveLink: https://drive.google.com/file/d/13VaSrKZyRBuAdQS0mtVdpdVzE_JktCFV/view?usp=drivesdk
-  category: "AD&D 2e"
-- title: "Ad&d 2e - Divisória do Mestre (Digital)"
-  imageUrl: "./image/A2DDM(.webp"
-  driveLink: https://drive.google.com/file/d/1VJHJ2WynZXZYhIf3U8PXGK46t1Ewx9Iq/view?usp=drivesdk
-  category: "AD&D 2e"
-- title: "Ad&d 2e - Divisória do Mestre (Digital) -"
-  imageUrl: "./image/A2DDM(.webp"
-  driveLink: https://drive.google.com/file/d/10HdyCsV23A2KORdZ7nODsTdmV3Q_7d48/view?usp=drivesdk
-  category: "AD&D 2e"
-- title: "Ad&d 2e - Divisória do Mestre (Impressão)"
-  imageUrl: "./image/A2DDM(.webp"
-  driveLink: https://drive.google.com/file/d/1CxeJfhbAeEIpG7nVE6688AqNCrqLIk9V/view?usp=drivesdk
-  category: "AD&D 2e"
-- title: "Ad&d 2e - Divisória do Mestre (Impressão) -"
-  imageUrl: "./image/A2DDM(.webp"
-  driveLink: https://drive.google.com/file/d/1HvY_L2d2EJPWDXg-p4LDjfQjHAdaFFSn/view?usp=drivesdk
-  category: "AD&D 2e"
-- title: "Ad&d 2e - Divisória do Mestre (Scanner)"
-  imageUrl: "./image/A2DDM(.webp"
-  driveLink: https://drive.google.com/file/d/1RhRnSWrz0K5SvBMMY-099RA7XaKqpV4y/view?usp=drivesdk
-  category: "AD&D 2e"
-- title: "Ad&d 2e - Divisória do Mestre (Scanner) -"
-  imageUrl: "./image/A2DDM(.webp"
-  driveLink: https://drive.google.com/file/d/17BCUbWXFiugPZ_kjXNm-6D5ZbNlTLRx/view?usp=drivesdk
-  category: "AD&D 2e"
-- title: "Ad&d 2e - Divisória do Mestre (Scanner) (2)"
-  imageUrl: "./image/A2DDM((.webp"
-  driveLink: https://drive.google.com/file/d/1TR24qvUfjn-lgLaA1u6Oo_IKN7MZJd0F/view?usp=drivesdk
-  category: "AD&D 2e"
-- title: "Ad&d 2e - Encarte - Abril Jovem"
-  imageUrl: "./image/A2EAJ.webp"
-  driveLink: https://drive.google.com/file/d/1SPm5cDujizmGnhLbXgT4ONfTJE0a7DBz/view?usp=drivesdk
-  category: "AD&D 2e"
-- title: "Ad&d 2e - Encarte - Abril Jovem -"
-  imageUrl: "./image/A2EAJ.webp"
-  driveLink: https://drive.google.com/file/d/1dNWWDQ208xslZzp6mMNRxDb9kDKRymNi/view?usp=drivesdk
-  category: "AD&D 2e"
-- title: "Ad&d 2e - Encarte - Abril Jovem (2)"
-  imageUrl: "./image/A2EAJ(.webp"
-  driveLink: https://drive.google.com/file/d/1F2RvHk0USfk9BywPxYtDplanYMoaae_g/view?usp=drivesdk
-  category: "AD&D 2e"
-- title: "Ad&d 2e - Fadas do Gelo (Aventura)"
-  imageUrl: "./image/A2FDG(.webp"
-  driveLink: https://drive.google.com/file/d/1qbupkZAOLPMNaaCxgPUnLE-K0q713ahk/view?usp=drivesdk
-  category: "AD&D 2e"
-- title: "Ad&d 2e - Fadas do Gelo (Aventura) -"
-  imageUrl: "./image/A2FDG(.webp"
-  driveLink: https://drive.google.com/file/d/14K2Yo8DYBKf-3D0ECkq8ItdtwWcMWc_x/view?usp=drivesdk
-  category: "AD&D 2e"
-- title: "Ad&d 2e - Fadas do Gelo (Aventura) (2)"
-  imageUrl: "./image/A2FDG((.webp"
-  driveLink: https://drive.google.com/file/d/1QY3zXdaEtjHzGyefZP4iGS1O2sGKIhyk/view?usp=drivesdk
-  category: "AD&D 2e"
-- title: "Ad&d 2e - Guia Para o Jogador Iniciante"
-  imageUrl: "./image/A2GPOJI.webp"
-  driveLink: https://drive.google.com/file/d/1KBSkTDyERYLpcHakPkN9EmhdNGPP2vkY/view?usp=drivesdk
-  category: "AD&D 2e"
-- title: "Ad&d 2e - Guia Para o Jogador Iniciante -"
-  imageUrl: "./image/A2GPOJI.webp"
-  driveLink: https://drive.google.com/file/d/1R_xV7Npg774xFNSPANuv5F4P8UXMd_4A/view?usp=drivesdk
-  category: "AD&D 2e"
-- title: "Ad&d 2e - Guia Para o Jogador Iniciante (2)"
-  imageUrl: "./image/A2GPOJI(.webp"
-  driveLink: https://drive.google.com/file/d/1afujz5n6WAKpW_zlAUtDRRRdKbtpGYAT/view?usp=drivesdk
-  category: "AD&D 2e"
-- title: "Ad&d 2e - Livro do Jogador - Premium Edition (V. Alta Resolução) -"
-  imageUrl: "./image/A2LDJPE(.webp"
-  driveLink: https://drive.google.com/file/d/1njbJvwzvtiVmflYysynYvZwTeeLcXbeI/view?usp=drivesdk
-  category: "AD&D 2e"
-- title: "Ad&d 2e - Livro do Jogador - Premium Edition (V. Digital) -"
-  imageUrl: "./image/A2LDJPE(.webp"
-  driveLink: https://drive.google.com/file/d/1JKFu-GTV63NB0M56V3W0sG9WkRUGEpzQ/view?usp=drivesdk
-  category: "AD&D 2e"
-- title: "Ad&d 2e - Livro do Jogador (V. Digital)"
-  imageUrl: "./image/A2LDJ(.webp"
-  driveLink: https://drive.google.com/file/d/1gNXIvrdJvmtWrfXfUhXX9QdZJ07BW3kg/view?usp=drivesdk
-  category: "AD&D 2e"
-- title: "Ad&d 2e - Livro do Jogador (V. Digital) -"
-  imageUrl: "./image/A2LDJ(.webp"
-  driveLink: https://drive.google.com/file/d/1iYrDVTVO8m5SfdVjkUQZZ77dls14EhVm/view?usp=drivesdk
-  category: "AD&D 2e"
-- title: "Ad&d 2e - Livro do Jogador (V. Scanner)"
-  imageUrl: "./image/A2LDJ(.webp"
-  driveLink: https://drive.google.com/file/d/1uCYzjg9BEFbWXzsqR6CEZIEN1IQKOwNR/view?usp=drivesdk
-  category: "AD&D 2e"
-- title: "Ad&d 2e - Livro do Jogador (V. Scanner) -"
-  imageUrl: "./image/A2LDJ(.webp"
-  driveLink: https://drive.google.com/file/d/1OwYsN28Kgzb2lArXfaa_KsFjT9_0IG_M/view?usp=drivesdk
-  category: "AD&D 2e"
-- title: "Ad&d 2e - Livro do Mestre (Digital) -"
-  imageUrl: "./image/A2LDM(.webp"
-  driveLink: https://drive.google.com/file/d/1KWJYggwAFo_UcPX30nG8dW3POgWndm04/view?usp=drivesdk
-  category: "AD&D 2e"
-- title: "Ad&d 2e - Livro do Mestre (Impressão) -"
-  imageUrl: "./image/A2LDM(.webp"
-  driveLink: https://drive.google.com/file/d/1FhkfQigkVCATDoWPwdg5-eBSIfCtC4B-/view?usp=drivesdk
-  category: "AD&D 2e"
-- title: "Ad&d 2e - Livro do Mestre (Scanner)"
-  imageUrl: "./image/A2LDM(.webp"
-  driveLink: https://drive.google.com/file/d/1nQoUX5-gWJ6vKj3qjai7acQv9NBG-wLA/view?usp=drivesdk
-  category: "AD&D 2e"
-- title: "Ad&d 2e - Livro do Mestre (Scanner) -"
-  imageUrl: "./image/A2LDM(.webp"
-  driveLink: https://drive.google.com/file/d/1RIrsZxJ9_KiEGwBx7g5TJ9a-G5_n5IWJ/view?usp=drivesdk
-  category: "AD&D 2e"
-- title: "Ad&d 2e - Livro dos Monstros (Digital)"
-  imageUrl: "./image/A2LDM(.webp"
-  driveLink: https://drive.google.com/file/d/1FT7mOpqHF19VzjW_xY4fLv3boz2iDluP/view?usp=drivesdk
-  category: "AD&D 2e"
-- title: "Ad&d 2e - Livro dos Monstros (Digital) -"
-  imageUrl: "./image/A2LDM(.webp"
-  driveLink: https://drive.google.com/file/d/1LjniU6JjN0ENOwaU2Z_EgsJVRhnCcDjH/view?usp=drivesdk
-  category: "AD&D 2e"
-- title: "Ad&d 2e - Livro dos Monstros (Impressão) -"
-  imageUrl: "./image/A2LDM(.webp"
-  driveLink: https://drive.google.com/file/d/1mgRh8JXTPyMjl8_5hmotrHYDbKwlgdje/view?usp=drivesdk
-  category: "AD&D 2e"
-- title: "Ad&d 2e - Livro dos Monstros (Scanner)"
-  imageUrl: "./image/A2LDM(.webp"
-  driveLink: https://drive.google.com/file/d/1jJyJckqskDPyPyIngPk7DHlSHQkLaeJT/view?usp=drivesdk
-  category: "AD&D 2e"
-- title: "Ad&d 2e - Livro dos Monstros (Scanner) -"
-  imageUrl: "./image/A2LDM(.webp"
-  driveLink: https://drive.google.com/file/d/1m8Ah7PPlJwgQc53IiGuR2VMJPR0iTvv_/view?usp=drivesdk
-  category: "AD&D 2e"
-- title: "Ad&d 2e - Manual Completo do Arcano (Digital) -"
-  imageUrl: "./image/A2MCDA(.webp"
-  driveLink: https://drive.google.com/file/d/1wO_aCcEtrCOxzv6pFFH0XnRiCbla11x5/view?usp=drivesdk
-  category: "AD&D 2e"
-- title: "Ad&d 2e - Manual Completo do Arcano (Impressão) -"
-  imageUrl: "./image/A2MCDA(.webp"
-  driveLink: https://drive.google.com/file/d/1TFPOFjziO9ThHpsdr1OlVPfyQlFpkanG/view?usp=drivesdk
-  category: "AD&D 2e"
-- title: "Ad&d 2e - Opções Para Jogadores - Habilidades e Poderes (Digital) -"
-  imageUrl: "./image/A2OPJHEP(.webp"
-  driveLink: https://drive.google.com/file/d/1jTXrAtmPTZKKcGq16kZBCO60Uo7lCuq9/view?usp=drivesdk
-  category: "AD&D 2e"
-- title: "Ad&d 2e - Opções Para Jogadores - Habilidades e Poderes (Impressão) -"
-  imageUrl: "./image/A2OPJHEP(.webp"
-  driveLink: https://drive.google.com/file/d/1jagxtIx8yjxp1axVgy4jZYFQZ-ysz9wg/view?usp=drivesdk
-  category: "AD&D 2e"
-- title: "Ad&d 2e - os Mundos da Magia - Especial Aventura"
-  imageUrl: "./image/A2OMDMEA.webp"
-  driveLink: https://drive.google.com/file/d/1ZZiuHjYeOUcfDFZqEHfTH8ooTPItXBsO/view?usp=drivesdk
-  category: "AD&D 2e"
-- title: "Ad&d 2e - os Mundos da Magia - Especial Aventura -"
-  imageUrl: "./image/A2OMDMEA.webp"
-  driveLink: https://drive.google.com/file/d/1oduluQNd78AljR6mMO2c0ZFVlL7oMqn8/view?usp=drivesdk
-  category: "AD&D 2e"
-- title: "Ad&d 2e - os Mundos da Magia 1"
-  imageUrl: "./image/A2OMDM1.webp"
-  driveLink: https://drive.google.com/file/d/15-WxC45tHGoI_Wm-rlHHrE_VV7ta2F9t/view?usp=drivesdk
-  category: "AD&D 2e"
-- title: "Ad&d 2e - os Mundos da Magia 1 -"
-  imageUrl: "./image/A2OMDM1.webp"
-  driveLink: https://drive.google.com/file/d/1ISf14gyLaWVtaPZ75O73K0SVtVLE5uq0/view?usp=drivesdk
-  category: "AD&D 2e"
-- title: "Ad&d 2e - os Mundos da Magia 2"
-  imageUrl: "./image/A2OMDM2.webp"
-  driveLink: https://drive.google.com/file/d/1JV9Kk3xpnfF3OrjM33l5m5SmbeCmsNk1/view?usp=drivesdk
-  category: "AD&D 2e"
-- title: "Ad&d 2e - os Mundos da Magia 2 -"
-  imageUrl: "./image/A2OMDM2.webp"
-  driveLink: https://drive.google.com/file/d/1nNT49W6yqEdIk2iHAdXqFkg119pYC9fs/view?usp=drivesdk
-  category: "AD&D 2e"
-- title: "Ad&d 2e - os Mundos da Magia 3"
-  imageUrl: "./image/A2OMDM3.webp"
-  driveLink: https://drive.google.com/file/d/1TjaUI64mB01ipx68Iis6wn6JZW7Xoo44/view?usp=drivesdk
-  category: "AD&D 2e"
-- title: "Ad&d 2e - os Mundos da Magia 3 -"
-  imageUrl: "./image/A2OMDM3.webp"
-  driveLink: https://drive.google.com/file/d/1r1pjnMzCr9DNXUHWXoI4Tu0wJn-2zrcw/view?usp=drivesdk
-  category: "AD&D 2e"
-- title: "Ad&d 2e - os Mundos da Magia 4"
-  imageUrl: "./image/A2OMDM4.webp"
-  driveLink: https://drive.google.com/file/d/1qfSXgDROhfx_F8nN9LsSRR4AN-ds81b8/view?usp=drivesdk
-  category: "AD&D 2e"
-- title: "Ad&d 2e - os Mundos da Magia 4 -"
-  imageUrl: "./image/A2OMDM4.webp"
-  driveLink: https://drive.google.com/file/d/1k__TcAxjw2IsI4rSyDep15At_nte_l4-/view?usp=drivesdk
-  category: "AD&D 2e"
-- title: "Ad&d 2e - Planilha do Jogador - Tomo de Magias"
-  imageUrl: "./image/A2PDJTDM.webp"
-  driveLink: https://drive.google.com/file/d/1TtvmSJfM396X0nqWGpYx-Rd45BUPo0DY/view?usp=drivesdk
-  category: "AD&D 2e"
-- title: "Ad&d 2e - Planilha do Jogador - Tomo de Magias -"
-  imageUrl: "./image/A2PDJTDM.webp"
-  driveLink: https://drive.google.com/file/d/1sH3sRsOZ6ofziIRMxzqKGKV1DbhUoidE/view?usp=drivesdk
-  category: "AD&D 2e"
-- title: "Ad&d 2e - Planilha do Jogador (V. Hsx)"
-  imageUrl: "./image/A2PDJ(.webp"
-  driveLink: https://drive.google.com/file/d/1NmU3jUaC9glNwPFBjrflNHKDGMA62P6I/view?usp=drivesdk
-  category: "AD&D 2e"
-- title: "Ad&d 2e - Planilha do Jogador (V. Hsx) -"
-  imageUrl: "./image/A2PDJ(.webp"
-  driveLink: https://drive.google.com/file/d/1jikBHhRf-I_AHDXoXjk1n-BQF20gy2PU/view?usp=drivesdk
-  category: "AD&D 2e"
-- title: "Ad&d 2e - Planilha do Jogador (V. Marinheiro)"
-  imageUrl: "./image/A2PDJ(.webp"
-  driveLink: https://drive.google.com/file/d/1Z2ZDaPcVq6VxIoshBbHgj35N_NSSZl0E/view?usp=drivesdk
-  category: "AD&D 2e"
-- title: "Ad&d 2e - Planilha do Jogador (V. Marinheiro) -"
-  imageUrl: "./image/A2PDJ(.webp"
-  driveLink: https://drive.google.com/file/d/1GnfN2aFgfSvBOC-KSyktFr4Fql1YOm1Z/view?usp=drivesdk
-  category: "AD&D 2e"
-- title: "Ad&d 2e - Planilha do Jogador (V. os ÚLtimos Dias de Glória) -"
-  imageUrl: "./image/A2PDJ(.webp"
-  driveLink: https://drive.google.com/file/d/1-cjqzHPu_BeaJHl265wAIvGnn8qHJa84/view?usp=drivesdk
-  category: "AD&D 2e"
-- title: "Ad&d 2e - Planilha do Jogador (V. Pc Tattoo Studio)"
-  imageUrl: "./image/A2PDJ(.webp"
-  driveLink: https://drive.google.com/file/d/10iasSaeb83_NW_EZoZlW9IPs0m58k6Y6/view?usp=drivesdk
-  category: "AD&D 2e"
-- title: "Ad&d 2e - Planilha do Jogador (V. Pc Tattoo Studio) -"
-  imageUrl: "./image/A2PDJ(.webp"
-  driveLink: https://drive.google.com/file/d/17Nza_NitKx02_cYrLZ9naLROxQI4wIdy/view?usp=drivesdk
-  category: "AD&D 2e"
-- title: "Ad&d 2e - Planilha do Mestre -"
-  imageUrl: "./image/A2PDM.webp"
-  driveLink: https://drive.google.com/file/d/1JiJFdyIYpJ9uymyls8m7WXlbPovqCnbu/view?usp=drivesdk
-  category: "AD&D 2e"
-- title: "Ad&d 2e - Sombras do Terror"
-  imageUrl: "./image/A2SDT.webp"
-  driveLink: https://drive.google.com/file/d/1b21NRQ3rFKmBTC3f4ce8fNBM8HUlk0Td/view?usp=drivesdk
-  category: "AD&D 2e"
-- title: "Ad&d 2e - Sombras do Terror -"
-  imageUrl: "./image/A2SDT.webp"
-  driveLink: https://drive.google.com/file/d/1Xmue3eRM7mQtQF3JiKJxzj0-g4RSmMST/view?usp=drivesdk
-  category: "AD&D 2e"
-- title: "Ad&d 2e - Tome Of Magic - Magias Arcanas"
-  imageUrl: "./image/A2TOMMA.webp"
-  driveLink: https://drive.google.com/file/d/15-B2nVaiI9OizieL7UrBVV0hivRJFeXu/view?usp=drivesdk
-  category: "AD&D 2e"
-- title: "Ad&d 2e - Tomo de Magia - Magias Arcanas -"
-  imageUrl: "./image/A2TDMMA.webp"
-  driveLink: https://drive.google.com/file/d/1j2UohVwugIvnHKT6IDUSAmIyk-X6OS-N/view?usp=drivesdk
-  category: "AD&D 2e"
-- title: "Ad&d 2e Livro do Jogador Premium"
-  imageUrl: "./image/A2LDJP.webp"
-  driveLink: https://drive.google.com/file/d/1YoTK5YR_WR5WahGdKUeJ2lL03bhkvLhA/view?usp=drivesdk
-  category: "AD&D 2e"
-- title: "Ad&d 2e Planilha do Jogador V os"
-  imageUrl: "./image/A2PDJVO.webp"
-  driveLink: https://drive.google.com/file/d/1025JQrCi905isR2vvA51snRuYRRWxefH/view?usp=drivesdk
-  category: "AD&D 2e"
-- title: "Ad&t - Advanced Defensores de Tóquio - Dragão Brasil Especial 03 -"
-  imageUrl: "./image/AADDTDBE0.webp"
-  driveLink: https://drive.google.com/file/d/1XOEJxAlM4vyXpc_aiGyn6f2r4pC-1-vv/view?usp=drivesdk
-  category: "AD&T"
-- title: "Aerial - Guia de Aventura - Regras do Céu -"
-  imageUrl: "./image/AGDARDC.webp"
-  driveLink: https://drive.google.com/file/d/1LU8Ao9HHGKGyNYFLMriQGLZmoTojSiE9/view?usp=drivesdk
-  category: "Aerial"
-- title: "Aerial - Guia de Aventura - Sellaine Jóia das Nuvens -"
-  imageUrl: "./image/AGDASJDN.webp"
-  driveLink: https://drive.google.com/file/d/12hUA920zB_tOpCayM9a1GfDO6lOwQZ5T/view?usp=drivesdk
-  category: "Aerial"
-- title: "Alchemia Rpg - Guia Completo de Raças -"
-  imageUrl: "./image/ARGCDR.webp"
-  driveLink: https://drive.google.com/file/d/1wh5dvO8a4Z1o03bYbesEn9FmtCRJLSNH/view?usp=drivesdk
-  category: "Alchemia Rpg"
-- title: "Alchemia Rpg - Guia do Cenário e Ambientação -"
-  imageUrl: "./image/ARGDCEA.webp"
-  driveLink: https://drive.google.com/file/d/1o7_DnR-F7WG7gScyo9GiF8xl8lyNfoiE/view?usp=drivesdk
-  category: "Alchemia Rpg"
-- title: "Alchemia Rpg - Guia do Mestre -"
-  imageUrl: "./image/ARGDM.webp"
-  driveLink: https://drive.google.com/file/d/1G2VShgECXCoCQ2TLE_VdnQE0zfLEnpTu/view?usp=drivesdk
-  category: "Alchemia Rpg"
-- title: "Alchemia Rpg - Livro Básico -"
-  imageUrl: "./image/ARLB.webp"
-  driveLink: https://drive.google.com/file/d/1jf0_GnVMPlZWTg9y9YO9fRwuXihXVyK5/view?usp=drivesdk
-  category: "Alchemia Rpg"
-- title: "Alchemia Rpg - Livro dos Monstros -"
-  imageUrl: "./image/ARLDM.webp"
-  driveLink: https://drive.google.com/file/d/1tbVkzAEr5omZtSX3GheuDj0O3eO6e1Oz/view?usp=drivesdk
-  category: "Alchemia Rpg"
-- title: "Alchemia Rpg - Manual de Classes -"
-  imageUrl: "./image/ARMDC.webp"
-  driveLink: https://drive.google.com/file/d/1dPQ5MYtkP-ruDqEUzl779_nJEuKcN1jA/view?usp=drivesdk
-  category: "Alchemia Rpg"
-- title: "Alchemia Rpg - os Cavaleiros do Zodíaco -"
-  imageUrl: "./image/AROCDZ.webp"
-  driveLink: https://drive.google.com/file/d/1lxo46vUQ1ilmTY-8pwJJm5zwesKEkRIc/view?usp=drivesdk
-  category: "Alchemia Rpg"
-- title: "Aliança Daemon 01 -"
-  imageUrl: "./image/AD0.webp"
-  driveLink: https://drive.google.com/file/d/1t64pmlWVHYGmQ2qRUPk6NvAdiaC2H7O5/view?usp=drivesdk
-  category: "Aliança Daemon"
-- title: "Arkhan Rpg 02 -"
-  imageUrl: "./image/AR0.webp"
-  driveLink: https://drive.google.com/file/d/1TI6-cc_b8MKl3gnhVpOTF9gCUMZShc_i/view?usp=drivesdk
-  category: "Arkhan Rpg"
-- title: "Arkhan Rpg 03 -"
-  imageUrl: "./image/AR0.webp"
-  driveLink: https://drive.google.com/file/d/1TdCh-VeLc-a1RLb8V_IyMjEHP4AeQrta/view?usp=drivesdk
-  category: "Arkhan Rpg"
-- title: "Ars Magica - Quarta Edição -"
-  imageUrl: "./image/AMQE.webp"
-  driveLink: https://drive.google.com/file/d/1ki542q2pCkiZG9FELvOBL5dK9epWwbnF/view?usp=drivesdk
-  category: "Ars Magica"
-- title: "As Aventuras de Robin Hood 2 - a Espada do Templário -"
-  imageUrl: "./image/AADRH2AEDT.webp"
-  driveLink: https://drive.google.com/file/d/1EBChIxYOwKP4v8H6YA7uR0m1-I750c2u/view?usp=drivesdk
-  category: "As Aventuras de Robin Hood"
-- title: "As Crônicas de Gelo e Fogo - Livro 1 - a Guerra dos Tronos -"
-  imageUrl: "./image/ACDGEFL1AGDT.webp"
-  driveLink: https://drive.google.com/file/d/1WuzzQpxSDK1-1phpNYgr0DFT3nB42UDm/view?usp=drivesdk
-  category: "As Crônicas de Gelo e Fogo"
-- title: "As Crônicas de Gelo e Fogo - Livro 2 - a Fúria dos Reis -"
-  imageUrl: "./image/ACDGEFL2AFDR.webp"
-  driveLink: https://drive.google.com/file/d/1gwWkj-Dn7gihJ-6_7ywkBXiBqnOFMFo3/view?usp=drivesdk
-  category: "As Crônicas de Gelo e Fogo"
-- title: "As Crônicas de Gelo e Fogo - Livro 3 - a Tormenta de Espadas -"
-  imageUrl: "./image/ACDGEFL3ATDE.webp"
-  driveLink: https://drive.google.com/file/d/1vdJZGemYEQiYONis0P7AHhDPapb1-fN2/view?usp=drivesdk
-  category: "As Crônicas de Gelo e Fogo"
-- title: "As Crônicas de Gelo e Fogo - Livro 4 - o Festim dos Corvos -"
-  imageUrl: "./image/ACDGEFL4OFDC.webp"
-  driveLink: https://drive.google.com/file/d/1Xohj8Lqw7gdGyO7mEPMm_AkVfMH84roR/view?usp=drivesdk
-  category: "As Crônicas de Gelo e Fogo"
-- title: "As Crônicas de Gelo e Fogo - Livro 5 - a Dança dos Dragões -"
-  imageUrl: "./image/ACDGEFL5ADDD.webp"
-  driveLink: https://drive.google.com/file/d/1VeFrLK-7TO2PnYdXkESyMvTglw5KD5wT/view?usp=drivesdk
-  category: "As Crônicas de Gelo e Fogo"
-- title: "As Crônicas de Nárnia 01 - o Sobrinho do Mago -"
-  imageUrl: "./image/ACDN0OSDMCS.webp"
-  driveLink: https://drive.google.com/file/d/1qCQxbLkG7BCmtaeJgOgXiDQQ9UpTomcv/view?usp=drivesdk
-  category: "As Crônicas de Nárnia"
-- title: "As Crônicas de Nárnia 02 - o Leão, a Feiticeira e o Guarda-roupa -"
-  imageUrl: "./image/ACDN0OLAFEOGRCS.webp"
-  driveLink: https://drive.google.com/file/d/1RXrr0sxINxz_GTJxtmatOB6ZKA-JvW79/view?usp=drivesdk
-  category: "As Crônicas de Nárnia"
-- title: "As Crônicas de Nárnia 03 - o Cavalo e Seu Menino -"
-  imageUrl: "./image/ACDN0OCESMCS.webp"
-  driveLink: https://drive.google.com/file/d/1ElFGEKhelMwmVe0whB5VCsjbF9p2v_nw/view?usp=drivesdk
-  category: "As Crônicas de Nárnia"
-- title: "As Crônicas de Nárnia 04 - Príncipe Caspian -"
-  imageUrl: "./image/ACDN0PCCS.webp"
-  driveLink: https://drive.google.com/file/d/1AWNibrQalFdLrzkMJtZl6rEJpAf_ERUl/view?usp=drivesdk
-  category: "As Crônicas de Nárnia"
-- title: "As Crônicas de Nárnia 05 - a Viagem do Peregrino da Alvorada -"
-  imageUrl: "./image/ACDN0AVDPDACS.webp"
-  driveLink: https://drive.google.com/file/d/1IFLEazZANPQ_f_A5nj1O92QH3suujObU/view?usp=drivesdk
-  category: "As Crônicas de Nárnia"
-- title: "As Crônicas de Nárnia 06 - a Cadeira de Prata -"
-  imageUrl: "./image/ACDN0ACDPCS.webp"
-  driveLink: https://drive.google.com/file/d/1BNlO9KqpS-k541TlW1-GcNZOzspNtjIR/view?usp=drivesdk
-  category: "As Crônicas de Nárnia"
-- title: "As Crônicas de Nárnia 07 - a ÚLtima Batalha"
-  imageUrl: "./image/ACDN0AÚBCS.webp"
-  driveLink: https://drive.google.com/file/d/1kGgRk2HkrXtgID5JI49qsyhTLKzebbyB/view?usp=drivesdk
-  category: "As Crônicas de Nárnia"
-- title: "As Crônicas de Nárnia D20 - o Chifre do Unicórnio -"
-  imageUrl: "./image/ACDNDOCDU.webp"
-  driveLink: https://drive.google.com/file/d/1G4FhnUZz8QSRTk0nMLozOJpT_rqod8GF/view?usp=drivesdk
-  category: "As Crônicas de Nárnia D20"
-- title: "As Crônicas de Nárnia D20 - o Herdeiro dos Cascos de Prata -"
-  imageUrl: "./image/ACDNDOHDCDP.webp"
-  driveLink: https://drive.google.com/file/d/1ZPPVYEJWw9hcnozxj8agUjagyY8EpmbZ/view?usp=drivesdk
-  category: "As Crônicas de Nárnia D20"
-- title: "As Crônicas de Nárnia D20 - Uma Aventura Em Nárnia -"
-  imageUrl: "./image/ACDNDUAEN.webp"
-  driveLink: https://drive.google.com/file/d/1mfEGJM7FzznJ9aJX1vnKBzYoZLdBMcTA/view?usp=drivesdk
-  category: "As Crônicas de Nárnia D20"
-- title: "As Extraordinárias Aventuras do Barão de Munchausen -"
-  imageUrl: "./image/AEADBDM.webp"
-  driveLink: https://drive.google.com/file/d/1xnn0AE6pFV16xAR-5YhQhcNsYaRkkzr9/view?usp=drivesdk
-  category: "As Extraordinárias Aventuras do Barão de Munchausen"
-- title: "Aventura e Magia -"
-  imageUrl: "./image/AEM.webp"
-  driveLink: https://drive.google.com/file/d/1dfPN9Miph72Dw7_XV3jnlVUoO-NlUKRN/view?usp=drivesdk
-  category: "Aventura e Magia"
-- title: "Aventuras Infinitas #1 -"
-  imageUrl: "./image/AI#.webp"
-  driveLink: https://drive.google.com/file/d/1ZwXe-K5LAJbLKaQAua0-SU1zBZVf3JbJ/view?usp=drivesdk
-  category: "Aventuras Infinitas"
-- title: "Aventuras Infinitas #2 -"
-  imageUrl: "./image/AI#.webp"
-  driveLink: https://drive.google.com/file/d/1fEXxs4xlFXY3AuIB0WoThPYRY8g2rv2f/view?usp=drivesdk
-  category: "Aventuras Infinitas"
-- title: "Aventuras Infinitas #3 -"
-  imageUrl: "./image/AI#.webp"
-  driveLink: https://drive.google.com/file/d/17ZRpBjDiKyaKc0tCPcd1Q6fR0UWlcKvR/view?usp=drivesdk
-  category: "Aventuras Infinitas"
-- title: "Bang! 00 -"
-  imageUrl: "./image/B0.webp"
-  driveLink: https://drive.google.com/file/d/1kATiQhe4DH87iWRbuhUCosB6BbkhTnW9/view?usp=drivesdk
-  category: "Bang!"
-- title: "Bang! 01 -"
-  imageUrl: "./image/B0.webp"
-  driveLink: https://drive.google.com/file/d/1MQUorNV7BA7bIKFfCB8pZ3u_ojh5CLz1/view?usp=drivesdk
-  category: "Bang!"
-- title: "Bang! 02 -"
-  imageUrl: "./image/B0.webp"
-  driveLink: https://drive.google.com/file/d/1uEKcQasSqtlAIELAgjthKmqTGbI_zGTm/view?usp=drivesdk
-  category: "Bang!"
-- title: "Bang! 03 -"
-  imageUrl: "./image/B0.webp"
-  driveLink: https://drive.google.com/file/d/1RgCy1FdrB2YApb2AxD-5NpYLuElAYhUC/view?usp=drivesdk
-  category: "Bang!"
-- title: "Bang! 04 -"
-  imageUrl: "./image/B0.webp"
-  driveLink: https://drive.google.com/file/d/16DDRR0AuIifk2a1C-fLwIa4WMW4P9gVi/view?usp=drivesdk
-  category: "Bang!"
-- title: "Bang! 05 -"
-  imageUrl: "./image/B0.webp"
-  driveLink: https://drive.google.com/file/d/1gZVrQovVOjSbaiNdMU6EU1f3JJ5ooaOQ/view?usp=drivesdk
-  category: "Bang!"
-- title: "Bang! 06 -"
-  imageUrl: "./image/B0.webp"
-  driveLink: https://drive.google.com/file/d/1vHUaZuYZTBCM-09gLh5-nMXIQhZn2V7g/view?usp=drivesdk
-  category: "Bang!"
-- title: "Bang! 07 -"
-  imageUrl: "./image/B0.webp"
-  driveLink: https://drive.google.com/file/d/175_uc5o6tVNpcN1zqZFYlqxGFNDuAvR9/view?usp=drivesdk
-  category: "Bang!"
-- title: "Bang! 08 -"
-  imageUrl: "./image/B0.webp"
-  driveLink: https://drive.google.com/file/d/1WyQcXQYpiIZX7JKhIVflTadsc__XKcWv/view?usp=drivesdk
-  category: "Bang!"
-- title: "Bang! 09 -"
-  imageUrl: "./image/B0.webp"
-  driveLink: https://drive.google.com/file/d/1GB0M2YLDHF4pk84jWGAOU_gdPE3wUmi1/view?usp=drivesdk
-  category: "Bang!"
-- title: "Bang! 10 -"
-  imageUrl: "./image/B1.webp"
-  driveLink: https://drive.google.com/file/d/1u-zghKwR4oXWsQl9y4tY9Cs3jdPVOJJU/view?usp=drivesdk
-  category: "Bang!"
-- title: "Bang! 11 -"
-  imageUrl: "./image/B1.webp"
-  driveLink: https://drive.google.com/file/d/1w0ZE6CtCsFHhpyLaqy-D7gtv6Dk-tU_J/view?usp=drivesdk
-  category: "Bang!"
-- title: "Bang! 12 -"
-  imageUrl: "./image/B1.webp"
-  driveLink: https://drive.google.com/file/d/1d9rTSYNEQK4of1VDeTttp269K3K7rRU5/view?usp=drivesdk
-  category: "Bang!"
-- title: "Bang! 13 -"
-  imageUrl: "./image/B1.webp"
-  driveLink: https://drive.google.com/file/d/1meWjDZZQ4bDlEZy8C56jyckVeURSjXCr/view?usp=drivesdk
-  category: "Bang!"
-- title: "Bang! 14 -"
-  imageUrl: "./image/B1.webp"
-  driveLink: https://drive.google.com/file/d/1PB2xHm57DcWL27z8M29fa2vCpP0jYGe4/view?usp=drivesdk
-  category: "Bang!"
-- title: "Bang! 15 -"
-  imageUrl: "./image/B1.webp"
-  driveLink: https://drive.google.com/file/d/1U20RySOzshW_-l-i5ekVFvS9p9o4AL0e/view?usp=drivesdk
-  category: "Bang!"
-- title: "Bang! 16 -"
-  imageUrl: "./image/B1.webp"
-  driveLink: https://drive.google.com/file/d/1qzj_z8etpC55nOXU8lNzows2_cLAMzue/view?usp=drivesdk
-  category: "Bang!"
-- title: "Bash! Ultimate Edition - a Era do Fast-play (V. 0.4) -"
-  imageUrl: "./image/BUEAEDFP(0.webp"
-  driveLink: https://drive.google.com/file/d/1Z2G39jpP_cVHvU1gr96Drxrk1XqJKa2M/view?usp=drivesdk
-  category: "Bash! Ultimate Edition"
-- title: "Beat'em Up! -"
-  imageUrl: "./image/BU.webp"
-  driveLink: https://drive.google.com/file/d/1U4o0xCJ88J6Ol4WplQ8Thdr43BpOCpjy/view?usp=drivesdk
-  category: "Beat'em Up!"
-- title: "Beholder - Edição Especial de Lançamento -"
-  imageUrl: "./image/BEEDL.webp"
-  driveLink: https://drive.google.com/file/d/1Y4pnJM5s0NQS2_iwGU8H0Op1_G0GI_Rp/view?usp=drivesdk
-  category: "Beholder"
-- title: "Beholder Cego 00 -"
-  imageUrl: "./image/BC0.webp"
-  driveLink: https://drive.google.com/file/d/1Dhtx1_m04QmptKCaULNg-SyuLOGIs_56/view?usp=drivesdk
-  category: "Beholder Cego"
-- title: "Beholder Cego 01 -"
-  imageUrl: "./image/BC0.webp"
-  driveLink: https://drive.google.com/file/d/1og8LtvT_IPz1Rv039ZSjdItE3kh3x9zM/view?usp=drivesdk
-  category: "Beholder Cego"
-- title: "Beholder Cego 02 -"
-  imageUrl: "./image/BC0.webp"
-  driveLink: https://drive.google.com/file/d/1LXC-hDP0_mUtvKZQmpCne1Z2LFoj3K9f/view?usp=drivesdk
-  category: "Beholder Cego"
-- title: "Beholder Cego 03 -"
-  imageUrl: "./image/BC0.webp"
-  driveLink: https://drive.google.com/file/d/1e2Lk6Gd2SsFqcPDL6CnpeZhho7MvYeg3/view?usp=drivesdk
-  category: "Beholder Cego"
-- title: "Beholder Cego 04 -"
-  imageUrl: "./image/BC0.webp"
-  driveLink: https://drive.google.com/file/d/12r5sAMzlPDC9P7OkSoutpNk3OEoTxdWY/view?usp=drivesdk
-  category: "Beholder Cego"
-- title: "Beholder Cego 05 -"
-  imageUrl: "./image/BC0.webp"
-  driveLink: https://drive.google.com/file/d/1cStviUd-Z4AVbS7gExZqXXM1HuuuZDHq/view?usp=drivesdk
-  category: "Beholder Cego"
-- title: "Beholder Cego 06 -"
-  imageUrl: "./image/BC0.webp"
-  driveLink: https://drive.google.com/file/d/1IVUnrGSY2Tz3eXAKQm8t8IBn6PP5eP9t/view?usp=drivesdk
-  category: "Beholder Cego"
-- title: "Beholder Cego 07 -"
-  imageUrl: "./image/BC0.webp"
-  driveLink: https://drive.google.com/file/d/1Z2ueZ-jPxBX9Yl6gbVscpxrl9tfslCRA/view?usp=drivesdk
-  category: "Beholder Cego"
-- title: "Beholder Cego 08 -"
-  imageUrl: "./image/BC0.webp"
-  driveLink: https://drive.google.com/file/d/1PgZQAHty5i7R-RlDy7L7z_-paT94gngq/view?usp=drivesdk
-  category: "Beholder Cego"
-- title: "Beholder Cego 09 -"
-  imageUrl: "./image/BC0.webp"
-  driveLink: https://drive.google.com/file/d/17g9-Yj3SJQVLzvwOicjf_H3RmwnXaAK9/view?usp=drivesdk
-  category: "Beholder Cego"
-- title: "Beholder Cego 10 -"
-  imageUrl: "./image/BC1.webp"
-  driveLink: https://drive.google.com/file/d/10ByEi0A6fuxspctEJ3TAsfCbCS8DRy0O/view?usp=drivesdk
-  category: "Beholder Cego"
-- title: "Beholder Cego 11 -"
-  imageUrl: "./image/BC1.webp"
-  driveLink: https://drive.google.com/file/d/1MGJAVRrlj495hGhEn9UQqt0l5Ajl8HgE/view?usp=drivesdk
-  category: "Beholder Cego"
-- title: "Beholder Cego 12 -"
-  imageUrl: "./image/BC1.webp"
-  driveLink: https://drive.google.com/file/d/1B97Jo5p3unuCSWpy79tOGWO4X-n-QhLV/view?usp=drivesdk
-  category: "Beholder Cego"
-- title: "Beholder Cego 13 -"
-  imageUrl: "./image/BC1.webp"
-  driveLink: https://drive.google.com/file/d/1KzLDJ9dIgEtWZVhDcWh2KB6TLcSsn0Um/view?usp=drivesdk
-  category: "Beholder Cego"
-- title: "Beholder Cego Especial -"
-  imageUrl: "./image/BCE.webp"
-  driveLink: https://drive.google.com/file/d/17vAsuIUNRO7AUYjVmJmVXQi4aFBNQZN1/view?usp=drivesdk
-  category: "Beholder Cego"
-- title: "Belregard - Cenário de Campanha -"
-  imageUrl: "./image/BCDC.webp"
-  driveLink: https://drive.google.com/file/d/1I6kGk3npnTexbaTr3-tx1QIqoJ75j7c_/view?usp=drivesdk
-  category: "Belregard"
-- title: "Belregard - Cinzas de Um Mundo Derrotado -"
-  imageUrl: "./image/BCDUMD.webp"
-  driveLink: https://drive.google.com/file/d/1g2BFLWmEuDPMdzeAHQ0Ogk3macwgYEXp/view?usp=drivesdk
-  category: "Belregard"
-- title: "Beowulf 01 -"
-  imageUrl: "./image/B0.webp"
-  driveLink: https://drive.google.com/file/d/1th3RaD53rE6IYjyXDgArgOu6As-igFaw/view?usp=drivesdk
-  category: "Beowulf"
-- title: "Beowulf 02 -"
-  imageUrl: "./image/B0.webp"
-  driveLink: https://drive.google.com/file/d/1LhLjYhVmwyQnIXa6VINhoYCN2PkGnoAG/view?usp=drivesdk
-  category: "Beowulf"
-- title: "Beowulf 03 -"
-  imageUrl: "./image/B0.webp"
-  driveLink: https://drive.google.com/file/d/11UCeHWqR8ZsP_i5YHUlOZ5GwJRVH7O8U/view?usp=drivesdk
-  category: "Beowulf"
-- title: "Beowulf 04 -"
-  imageUrl: "./image/B0.webp"
-  driveLink: https://drive.google.com/file/d/1nqu2AedDhQu_z2jESYmIYeH-Cn2_X2nX/view?usp=drivesdk
-  category: "Beowulf"
-- title: "Besm D20 - Livro do Jogador de Anime -"
-  imageUrl: "./image/BDLDJDA.webp"
-  driveLink: https://drive.google.com/file/d/1pRY3oO-OihnYCsWGt4bJRz0B7EvMvsbU/view?usp=drivesdk
-  category: "Besm D20"
-- title: "Besm D20 - Planilha de Personagem -"
-  imageUrl: "./image/BDPDP.webp"
-  driveLink: https://drive.google.com/file/d/1o3G6go3nTkJeHK4-dSQH8VVKBBv1O0ST/view?usp=drivesdk
-  category: "Besm D20"
-- title: "Birthright - Atlas de Cerilia -"
-  imageUrl: "./image/BADC.webp"
-  driveLink: https://drive.google.com/file/d/10ZDI0PE2znW9_jTHTsBmP-hd1T1pAMS-/view?usp=drivesdk
-  category: "Birthright"
-- title: "Black Lotus 01 -"
-  imageUrl: "./image/BL0.webp"
-  driveLink: https://drive.google.com/file/d/1dlnQoBN6hscWs9M9bYXid-jMuwIPY3uA/view?usp=drivesdk
-  category: "Black Lotus"
-- title: "Black Lotus 02 -"
-  imageUrl: "./image/BL0.webp"
-  driveLink: https://drive.google.com/file/d/1Pplu4R_iWLn8AA-pFLEB6-an3lbF4ycb/view?usp=drivesdk
-  category: "Black Lotus"
-- title: "Blood & Honor - 1850 - Período Tokugawa -"
-  imageUrl: "./image/B&H1PT.webp"
-  driveLink: https://drive.google.com/file/d/1QdwZW2OvJUfmzEGU895x97p_nhGU9gac/view?usp=drivesdk
-  category: "Blood & Honor"
-- title: "Blood & Honor - Clã Takeshin -"
-  imageUrl: "./image/B&HCT.webp"
-  driveLink: https://drive.google.com/file/d/12Rse-JuWUWht55rGr_R8Xslidbxh_-vm/view?usp=drivesdk
-  category: "Blood & Honor"
-- title: "Blood & Honor - Ficha de Ações de Estação -"
-  imageUrl: "./image/B&HFDADE.webp"
-  driveLink: https://drive.google.com/file/d/1fBt0QivLLT4PKlRdIqvV2pzjMlvCbGr0/view?usp=drivesdk
-  category: "Blood & Honor"
-- title: "Blood & Honor - Ficha de Clã -"
-  imageUrl: "./image/B&HFDC.webp"
-  driveLink: https://drive.google.com/file/d/1DP1B5ADZZVVSE9IjAwHYQa7rQpnzp8tC/view?usp=drivesdk
-  category: "Blood & Honor"
-- title: "Blood & Honor - Ficha de Clãs Individuais -"
-  imageUrl: "./image/B&HFDCI.webp"
-  driveLink: https://drive.google.com/file/d/1IjC2B9RnCI-ynGFZiSoIIjAdNlyd1rau/view?usp=drivesdk
-  category: "Blood & Honor"
-- title: "Blood & Honor - Ficha de Personagem -"
-  imageUrl: "./image/B&HFDP.webp"
-  driveLink: https://drive.google.com/file/d/1fzmMcab_WVPYIY-ckX0PM37Y-776r3tQ/view?usp=drivesdk
-  category: "Blood & Honor"
-- title: "Blood & Honor - Um Jogo de Tragédia Samurai -"
-  imageUrl: "./image/B&HUJDTS.webp"
-  driveLink: https://drive.google.com/file/d/1oYEuNe0KofLt9mQBgMbLw8940Rgz9vn6/view?usp=drivesdk
-  category: "Blood & Honor"
-- title: "Brabo Rpg -"
-  imageUrl: "./image/BR.webp"
-  driveLink: https://drive.google.com/file/d/1hqoWv0fZ13Mt5OMAF2GSP_1bUHKQMvoo/view?usp=drivesdk
-  category: "Brabo Rpg"
-- title: "Brabo Rpg - Guerra de Monstros -"
-  imageUrl: "./image/BRGDM.webp"
-  driveLink: https://drive.google.com/file/d/1qgmtzZL9If2L72R3ZnpaULeHVXQ9XWMr/view?usp=drivesdk
-  category: "Brabo Rpg"
-- title: "Brabo Rpg - Regras Alternativas -"
-  imageUrl: "./image/BRRA.webp"
-  driveLink: https://drive.google.com/file/d/1NMd6J660S20MiysnvHzXWkin371m73aa/view?usp=drivesdk
-  category: "Brabo Rpg"
-- title: "Brabo Rpg - Regras Alternativas - Parte 2 -"
-  imageUrl: "./image/BRRAP2.webp"
-  driveLink: https://drive.google.com/file/d/1C7sfGNxun0MvZL6pu38c2C2nZGSWXos0/view?usp=drivesdk
-  category: "Brabo Rpg"
-- title: "Brabo Rpg 2.0 -"
-  imageUrl: "./image/BR2.webp"
-  driveLink: https://drive.google.com/file/d/1OEy4DTYR-q2NWjkVCRdiV2bZ_ZrML2cI/view?usp=drivesdk
-  category: "Brabo Rpg 2.0"
-- title: "Brabo Rpg 2.0 - Ação Braba -"
-  imageUrl: "./image/BR2.webp"
-  driveLink: https://drive.google.com/file/d/1KtDh53c0IFDZHAwTkpLNV0PfkYZf-y7s/view?usp=drivesdk
-  category: "Brabo Rpg 2.0"
-- title: "Brabo Rpg 2.0 - Guerra de Monstros -"
-  imageUrl: "./image/BR2.webp"
-  driveLink: https://drive.google.com/file/d/1z-DJD307FvrXd-YG5gCSkPfRznJLYkd8/view?usp=drivesdk
-  category: "Brabo Rpg 2.0"
-- title: "Brasil.org - a Guerra Não Declarada -"
-  imageUrl: "./image/B.webp"
-  driveLink: https://drive.google.com/file/d/1bvAR96qHlzFIjx2Bctu9C70CYmDazLX2/view?usp=drivesdk
-  category: "Brasil.org"
-- title: "Bravos - a Primeira Jornada dos Bravos - Versão Alpha -"
-  imageUrl: "./image/BAPJDBVA.webp"
-  driveLink: https://drive.google.com/file/d/192bkftQd8dYn0uxW1rt_LKoj4iXO21Rj/view?usp=drivesdk
-  category: "Bravos"
-- title: "Broomstix - o Rpg de Harry Potter -"
-  imageUrl: "./image/BORDHP.webp"
-  driveLink: https://drive.google.com/file/d/19ux9YJiAdVcUAxtgljIDCzRnT5AznnBb/view?usp=drivesdk
-  category: "Broomstix"
-- title: "Broomstix - o Rpg de Harry Potter - Diagramado e Expandido -"
-  imageUrl: "./image/BORDHPDEE.webp"
-  driveLink: https://drive.google.com/file/d/1cz17NhbdawWFMdR4UqfXOyscrjBuhRri/view?usp=drivesdk
-  category: "Broomstix"
-- title: "Bruxos & Bárbaros - o Crânio de Tuhan -"
-  imageUrl: "./image/B&BOCDT.webp"
-  driveLink: https://drive.google.com/file/d/1GXdEbMi2cfkgTqqAt7b0CIWiE64-6Vwd/view?usp=drivesdk
-  category: "Bruxos & Bárbaros"
-- title: "Busca Final - Fronteira Final -"
-  imageUrl: "./image/BFFF.webp"
-  driveLink: https://drive.google.com/file/d/1Lynn7YZEt_Rw6Ifozv7jds9VGMmY2JId/view?usp=drivesdk
-  category: "Busca Final"
-- title: "Busca Final - Livro Básico -"
-  imageUrl: "./image/BFLB.webp"
-  driveLink: https://drive.google.com/file/d/1HjGYf66HAhL8WkLi-8N9EM9qw4RYgPuO/view?usp=drivesdk
-  category: "Busca Final"
-- title: "Caçadores de Sonhos -"
-  imageUrl: "./image/CDS.webp"
-  driveLink: https://drive.google.com/file/d/1OFEXqigZ3tscNqgJ2GQVwilx2RbJQUoA/view?usp=drivesdk
-  category: "Caçadores de Sonhos"
-- title: "Caderno Rpg 01 -"
-  imageUrl: "./image/CR0.webp"
-  driveLink: https://drive.google.com/file/d/1nY1V_SIuVJavwMB5Wndso-C1CnaC8498/view?usp=drivesdk
-  category: "Caderno Rpg"
-- title: "Caderno Rpg 02 -"
-  imageUrl: "./image/CR0.webp"
-  driveLink: https://drive.google.com/file/d/1OX2Bgi7RhZI6FSsKrpazT_8_8BBh5mZ-/view?usp=drivesdk
-  category: "Caderno Rpg"
-- title: "Calabouço da Thexuga - Edição Especial - Mulheres -"
-  imageUrl: "./image/CDTEEM.webp"
-  driveLink: https://drive.google.com/file/d/1BQcZCk2-HXTQEMqchh1yN2FMnlJAd5_K/view?usp=drivesdk
-  category: "Calabouço da Thexuga"
-- title: "Calabouço da Thexuga - Edição Especial - Terror -"
-  imageUrl: "./image/CDTEET.webp"
-  driveLink: https://drive.google.com/file/d/1uIV3cz0vrCD99KpdghurqHecaS_wpx4H/view?usp=drivesdk
-  category: "Calabouço da Thexuga"
-- title: "Calabouço da Thexuga - Edição Especial +18 -"
-  imageUrl: "./image/CDTEE+.webp"
-  driveLink: https://drive.google.com/file/d/11JECcoiR-kFjDJ_J59_U2pp54cu-AgmT/view?usp=drivesdk
-  category: "Calabouço da Thexuga"
-- title: "Calabouço da Thexuga 01 -"
-  imageUrl: "./image/CDT0.webp"
-  driveLink: https://drive.google.com/file/d/1XbWOTZX_Ec5F6_KZn2B72LUdBaBNXxW2/view?usp=drivesdk
-  category: "Calabouço da Thexuga"
-- title: "Calabouço da Thexuga 02 -"
-  imageUrl: "./image/CDT0.webp"
-  driveLink: https://drive.google.com/file/d/19WF47MWWljOxt5FsN5Rp4qhBpS60E6Zq/view?usp=drivesdk
-  category: "Calabouço da Thexuga"
-- title: "Calabouço da Thexuga 03 -"
-  imageUrl: "./image/CDT0.webp"
-  driveLink: https://drive.google.com/file/d/1ty9YHgUldQsMLmTJNvjOrymH8rYizP8_/view?usp=drivesdk
-  category: "Calabouço da Thexuga"
-- title: "Calabouço da Thexuga 04 -"
-  imageUrl: "./image/CDT0.webp"
-  driveLink: https://drive.google.com/file/d/1X5WyKAx2fuOgLwsKTszowBUzJzy5uW7-/view?usp=drivesdk
-  category: "Calabouço da Thexuga"
-- title: "Calabouço da Thexuga 05 -"
-  imageUrl: "./image/CDT0.webp"
-  driveLink: https://drive.google.com/file/d/11TdgKTdPWywc_N8nNgutDR1bN4xa5d6L/view?usp=drivesdk
-  category: "Calabouço da Thexuga"
-- title: "Calisto - Hunter X Hunter -"
-  imageUrl: "./image/CHXH.webp"
-  driveLink: https://drive.google.com/file/d/1EKU0k5HBb1O1dHLQnAk_y7t0xvhDwltl/view?usp=drivesdk
-  category: "Calisto"
-- title: "Calisto - Manual - Sistema Genérico de Rpg (V. 2.0) -"
-  imageUrl: "./image/CMSGDR(2.webp"
-  driveLink: https://drive.google.com/file/d/1DhC4ikN3eCw7TJDzN_scRsbmMDoD3h7A/view?usp=drivesdk
-  category: "Calisto"
-- title: "Carma - Sistema de Rpg Sem Dados -"
-  imageUrl: "./image/CSDRSD.webp"
-  driveLink: https://drive.google.com/file/d/1d0Vpj732xVDID82ziTmFmkc1trYUaGK7/view?usp=drivesdk
-  category: "Carma"
-- title: "Castelo Falkenstein -"
-  imageUrl: "./image/CF.webp"
-  driveLink: https://drive.google.com/file/d/1aUg5yK5WQgJR_h-tBFWFANmuYUKtFE9H/view?usp=drivesdk
-  category: "Castelo Falkenstein"
-- title: "Castelo Falkenstein - Ao Vencedor, as Batatas -"
-  imageUrl: "./image/CFAVAB.webp"
-  driveLink: https://drive.google.com/file/d/1xLgF7E1FWLdSbeb2lenlQwwqPiW2mMbC/view?usp=drivesdk
-  category: "Castelo Falkenstein"
-- title: "Castelo Falkenstein - Ficha de Invenções -"
-  imageUrl: "./image/CFFDI.webp"
-  driveLink: https://drive.google.com/file/d/19cOiX8fiMsSrAiU8_hDI3yOV8XFeb2Kp/view?usp=drivesdk
-  category: "Castelo Falkenstein"
-- title: "Castelo Falkenstein - Ficha de Magia -"
-  imageUrl: "./image/CFFDM.webp"
-  driveLink: https://drive.google.com/file/d/1hEFQjkDW12adOEfX-OgLCfk7U6lvR3rI/view?usp=drivesdk
-  category: "Castelo Falkenstein"
-- title: "Castelo Falkenstein - Ficha de Personagem -"
-  imageUrl: "./image/CFFDP.webp"
-  driveLink: https://drive.google.com/file/d/1Uwn2fvZNUbafjpQe7y3BQ6tmCL-nPU2p/view?usp=drivesdk
-  category: "Castelo Falkenstein"
-- title: "Chainmail - Regras Para Miniaturas Medievais - 3ª Edição -"
-  imageUrl: "./image/CRPMM3E.webp"
-  driveLink: https://drive.google.com/file/d/1H0FfbRFe_dFo1vaST_j9TvmbqJqIlIAh/view?usp=drivesdk
-  category: "Chainmail"
-- title: "Changeling os Perdidos - Conto - Traição -"
-  imageUrl: "./image/COPCT.webp"
-  driveLink: https://drive.google.com/file/d/1_TpX0eUPzTS_ZX-DDkc7_wURp2tdpRtL/view?usp=drivesdk
-  category: "Changeling os Perdidos"
-- title: "Chopstick -"
-  imageUrl: "./image/C.webp"
-  driveLink: https://drive.google.com/file/d/1H4BOvKsqtx7_xLwRrt6C3EpdwoJ1tENI/view?usp=drivesdk
-  category: "Chopstick"
-- title: "Chopstick - Capa -"
-  imageUrl: "./image/CC.webp"
-  driveLink: https://drive.google.com/file/d/1fbVcz47tOGRkKXiWBrssI0VDJkTMDebo/view?usp=drivesdk
-  category: "Chopstick"
-- title: "Chopstick - Dossiê Criminal de Personagem -"
-  imageUrl: "./image/CDCDP.webp"
-  driveLink: https://drive.google.com/file/d/1jHqIzFNrXE0LziArSKG1crrhRXwvp6te/view?usp=drivesdk
-  category: "Chopstick"
-- title: "Chopstick - Dossiê Criminal de Sindicato Criminoso -"
-  imageUrl: "./image/CDCDSC.webp"
-  driveLink: https://drive.google.com/file/d/1zEYKY0dpzBeOPJWDyiIoamrKeW3maluF/view?usp=drivesdk
-  category: "Chopstick"
-- title: "Chopstick - Dossiê Criminal de Sindicato Criminoso - Duplo -"
-  imageUrl: "./image/CDCDSCD.webp"
-  driveLink: https://drive.google.com/file/d/1gUbGLCEnIbtG2JI9hjciBEgPoW17bpbV/view?usp=drivesdk
-  category: "Chopstick"
-- title: "Chopstick - os Tentáculos da Tríade -"
-  imageUrl: "./image/COTDT.webp"
-  driveLink: https://drive.google.com/file/d/188Ob_Lpy-lCSFByQ2pY7hP26xxrNJLE2/view?usp=drivesdk
-  category: "Chopstick"
-- title: "Chopstick - Personagens Prontos -"
-  imageUrl: "./image/CPP.webp"
-  driveLink: https://drive.google.com/file/d/1dcCB7dm9cR5z8kNu1wUpCAHsrApJRAQU/view?usp=drivesdk
-  category: "Chopstick"
-- title: "Chronicles Rpg - 01 -"
-  imageUrl: "./image/CR0.webp"
-  driveLink: https://drive.google.com/file/d/1Etw6s4BNiur_gtMWEWDNU6S_pJdk1aFZ/view?usp=drivesdk
-  category: "Chronicles Rpg"
-- title: "Chronicles Rpg - 02 -"
-  imageUrl: "./image/CR0.webp"
-  driveLink: https://drive.google.com/file/d/1OtOqvicqIt3lcRtP1ywVa2lMa082ySub/view?usp=drivesdk
-  category: "Chronicles Rpg"
-- title: "Chronicles Rpg - 03 -"
-  imageUrl: "./image/CR0.webp"
-  driveLink: https://drive.google.com/file/d/1HLiACqQdq2ATsfo6q5AOnIWyHH-tZXWt/view?usp=drivesdk
-  category: "Chronicles Rpg"
-- title: "Chronicles Rpg - 04 -"
-  imageUrl: "./image/CR0.webp"
-  driveLink: https://drive.google.com/file/d/1ZAE3B7C-vlHKsSXac8rg9Mn3Jrg738fw/view?usp=drivesdk
-  category: "Chronicles Rpg"
-- title: "Chronicles Rpg - 05 -"
-  imageUrl: "./image/CR0.webp"
-  driveLink: https://drive.google.com/file/d/1ipib7fYHypAzBVuvJOJG-be5ss4ubgux/view?usp=drivesdk
-  category: "Chronicles Rpg"
-- title: "Chronicus Rpg - Ficha de Personagem -"
-  imageUrl: "./image/CRFDP.webp"
-  driveLink: https://drive.google.com/file/d/1M1c6SSeOvra6Z7GheNcCaCDOagvR0sth/view?usp=drivesdk
-  category: "Chronicus Rpg"
-- title: "Chronicus Rpg - Livro de Regras -"
-  imageUrl: "./image/CRLDR.webp"
-  driveLink: https://drive.google.com/file/d/1zkszowCHxKCqEbY3KbvON6ultf1scKh6/view?usp=drivesdk
-  category: "Chronicus Rpg"
-- title: "Chronicus Rpg 2.0 - Livro de Regras -"
-  imageUrl: "./image/CR2.webp"
-  driveLink: https://drive.google.com/file/d/1jxWm5PpMzzHEXAHmA9o53287IqiCudvG/view?usp=drivesdk
-  category: "Chronicus Rpg 2.0"
-- title: "Clavius - a Chave de Todas as Aventuras -"
-  imageUrl: "./image/CACDTAA.webp"
-  driveLink: https://drive.google.com/file/d/1rr_w9xAXE5dyN4Chnx5SBM_UqlbPi92Y/view?usp=drivesdk
-  category: "Clavius"
-- title: "Clavius - Crepúsculo - da Era Medieval à Vitoriana -"
-  imageUrl: "./image/CCDEMÀV.webp"
-  driveLink: https://drive.google.com/file/d/18yEomWCKtcSQMgP8t4C2YxKxmF2k04Bb/view?usp=drivesdk
-  category: "Clavius"
-- title: "Coleção Aventuras - Livro 01 - Alvorada de Sangue -"
-  imageUrl: "./image/CAL0ADS.webp"
-  driveLink: https://drive.google.com/file/d/1ku-WSNJQxp5nFQvSqRssJDyh8AxD4SnG/view?usp=drivesdk
-  category: "Coleção Aventuras"
-- title: "Coleção Aventuras - Livro 02 - Guardião de Zentar -"
-  imageUrl: "./image/CAL0GDZ.webp"
-  driveLink: https://drive.google.com/file/d/14prbgO1mTxMxRjEOMb9lfEp_F4m6a4dX/view?usp=drivesdk
-  category: "Coleção Aventuras"
-- title: "Coleção Aventuras - Livro 03 - a Torre de Yonat -"
-  imageUrl: "./image/CAL0ATDY.webp"
-  driveLink: https://drive.google.com/file/d/1YUZ8bIbonoewseDFQ0aDu7CT4y6zodCW/view?usp=drivesdk
-  category: "Coleção Aventuras"
-- title: "Coleção Aventuras - Livro 04 - o Templo do Homem Cobra -"
-  imageUrl: "./image/CAL0OTDHC.webp"
-  driveLink: https://drive.google.com/file/d/11QmbbG-adShzh1YHQwdZ9ccQ01bX5Ozo/view?usp=drivesdk
-  category: "Coleção Aventuras"
-- title: "Coleção Aventuras - Livro 05 - Amaldiçoados -"
-  imageUrl: "./image/CAL0A.webp"
-  driveLink: https://drive.google.com/file/d/1-VHOg1iYAKzekBK2AwiQ7aeL-B0_Nqv2/view?usp=drivesdk
-  category: "Coleção Aventuras"
-- title: "Coleção Aventuras - Livro 06 - Parasitas Assassinos -"
-  imageUrl: "./image/CAL0PA.webp"
-  driveLink: https://drive.google.com/file/d/1BV5WKwqAJTLC-jMrSaY6QgC-l38O3ftg/view?usp=drivesdk
-  category: "Coleção Aventuras"
-- title: "Coleção Aventuras - Livro 07 - Uivos Na Noite -"
-  imageUrl: "./image/CAL0UNN.webp"
-  driveLink: https://drive.google.com/file/d/1rO8-aDbtw3hmt-a514ZngtadZTjDfZqf/view?usp=drivesdk
-  category: "Coleção Aventuras"
-- title: "Confraria M&m 01 - X-men -"
-  imageUrl: "./image/CM0XM.webp"
-  driveLink: https://drive.google.com/file/d/1-KRZgwbsk5lIcSEh75dQ7P-XRHwdLvfu/view?usp=drivesdk
-  category: "Confraria M&m"
-- title: "Cosa Nostra - Playtest -"
-  imageUrl: "./image/CNP.webp"
-  driveLink: https://drive.google.com/file/d/1u1938nCKDVH8nLrV_bTbyP7CLT1enoX2/view?usp=drivesdk
-  category: "Cosa Nostra"
-- title: "Crônicas da Sétima Lua - Cenário de Campanha -"
-  imageUrl: "./image/CDSLCDC.webp"
-  driveLink: https://drive.google.com/file/d/1YjN1g3qWo7GzTXidUZ2tN9_UDcR6g0Kr/view?usp=drivesdk
-  category: "Crônicas da Sétima Lua"
-- title: "Crônicas da Sétima Lua - Guia de Isaldar -"
-  imageUrl: "./image/CDSLGDI.webp"
-  driveLink: https://drive.google.com/file/d/14iDceLrHw7d37ZpRrRsb7dSwYpPJL06G/view?usp=drivesdk
-  category: "Crônicas da Sétima Lua"
-- title: "Crônicas da Sétima Lua - o Mapa Aldariano -"
-  imageUrl: "./image/CDSLOMA.webp"
-  driveLink: https://drive.google.com/file/d/1ejx4VoAmOSojidfYQ05fnTCuL-AWEYum/view?usp=drivesdk
-  category: "Crônicas da Sétima Lua"
-- title: "Crônicas de Avalon - Ficha de Personagem -"
-  imageUrl: "./image/CDAFDP.webp"
-  driveLink: https://drive.google.com/file/d/1oq8XSwS2nV8TO5yn5AvU2mUx-JCKxiSt/view?usp=drivesdk
-  category: "Crônicas de Avalon"
-- title: "Crônicas de Avalon - Lendas e Heróis -"
-  imageUrl: "./image/CDALEH.webp"
-  driveLink: https://drive.google.com/file/d/1MRdWkUaY9KxdZIVOYUF0ZhugYNWt2pn0/view?usp=drivesdk
-  category: "Crônicas de Avalon"
-- title: "Crônicas de Avalon - Magia Britânica -"
-  imageUrl: "./image/CDAMB.webp"
-  driveLink: https://drive.google.com/file/d/1MRfYmy5o93jRsnzJFIAOCvFSHv8EXJBw/view?usp=drivesdk
-  category: "Crônicas de Avalon"
-- title: "Crônicas de Avalon - Mapa -"
-  imageUrl: "./image/CDAM.webp"
-  driveLink: https://drive.google.com/file/d/1SUflQCTmLMhalHYL-5ToLXsZ90rbjxWI/view?usp=drivesdk
-  category: "Crônicas de Avalon"
-- title: "Crônicas de Avalon - o Começo -"
-  imageUrl: "./image/CDAOC.webp"
-  driveLink: https://drive.google.com/file/d/1Cw_9AP68lB_6d-CPpJnCHt9hccFshjUX/view?usp=drivesdk
-  category: "Crônicas de Avalon"
-- title: "Crônicas de Avalon - Primeiros Passos -"
-  imageUrl: "./image/CDAPP.webp"
-  driveLink: https://drive.google.com/file/d/1eQP7ZsSKgD9J97soCL9hdeIFiRY_oFcE/view?usp=drivesdk
-  category: "Crônicas de Avalon"
-- title: "Crônicas de Avalon - Trilhas Heróicas e de Vilania -"
-  imageUrl: "./image/CDATHEDV.webp"
-  driveLink: https://drive.google.com/file/d/1eRl_GVtTob7QTDnIpPjAfC5oJLWP43c6/view?usp=drivesdk
-  category: "Crônicas de Avalon"
-- title: "Crônicas de Avalon - Velha Britânia -"
-  imageUrl: "./image/CDAVB.webp"
-  driveLink: https://drive.google.com/file/d/1ibdtjtFB6prB0kD0M_6ksWLJCSMpXjpH/view?usp=drivesdk
-  category: "Crônicas de Avalon"
-- title: "Crônicas Rpg - Elenco de Apoio -"
-  imageUrl: "./image/CREDA.webp"
-  driveLink: https://drive.google.com/file/d/1cvQt1p01fLCmRiykdy_Vpz_zfyTANlo4/view?usp=drivesdk
-  category: "Crônicas Rpg"
-- title: "Crônicas Rpg - Elenco de Apoio (Compactado) -"
-  imageUrl: "./image/CREDA(.webp"
-  driveLink: https://drive.google.com/file/d/1t_dFc2a26WVjgGNfE-araHloQwFP9wMS/view?usp=drivesdk
-  category: "Crônicas Rpg"
-- title: "Crônicas Rpg - Ficha de Crônica (Completável) -"
-  imageUrl: "./image/CRFDC(.webp"
-  driveLink: https://drive.google.com/file/d/1BTgQlduL4TbOLkWrjFEXNJtM-Vs-bQmU/view?usp=drivesdk
-  category: "Crônicas Rpg"
-- title: "Crônicas Rpg - Ficha de Personagem (Completável) -"
-  imageUrl: "./image/CRFDP(.webp"
-  driveLink: https://drive.google.com/file/d/1touO3q3AHGFoj2R_XxI849hqYmEZf744/view?usp=drivesdk
-  category: "Crônicas Rpg"
-- title: "Crônicas Rpg - Ficha de Regência (Completável) -"
-  imageUrl: "./image/CRFDR(.webp"
-  driveLink: https://drive.google.com/file/d/1sPmEYglNLHstQuwLWaXaHLNv0eh_t9QB/view?usp=drivesdk
-  category: "Crônicas Rpg"
-- title: "Crônicas Rpg - Ficha de Resolução de Combate -"
-  imageUrl: "./image/CRFDRDC.webp"
-  driveLink: https://drive.google.com/file/d/1246xyqZsosDGYM-AsRjvqfDVrSP3Y_QY/view?usp=drivesdk
-  category: "Crônicas Rpg"
-- title: "Crônicas Rpg - Guia Introdutório -"
-  imageUrl: "./image/CRGI.webp"
-  driveLink: https://drive.google.com/file/d/1bzoqU0O-UvnTpcqH_nsqmojjNGyw1XFY/view?usp=drivesdk
-  category: "Crônicas Rpg"
-- title: "Crônicas Rpg - Guias e Fichas -"
-  imageUrl: "./image/CRGEF.webp"
-  driveLink: https://drive.google.com/file/d/1BQ86zBgFMEkuqKBwC-k07SaJY4tczGgZ/view?usp=drivesdk
-  category: "Crônicas Rpg"
-- title: "Crônicas Rpg - Livro de Regras"
-  imageUrl: "./image/CRLDR.webp"
-  driveLink: https://drive.google.com/file/d/1YruDlwwLL0eqN3iQoNhUF0A7OrTdkWZW/view?usp=drivesdk
-  category: "Crônicas Rpg"
-- title: "Crônicas Rpg - o Estandarte do Corvo -"
-  imageUrl: "./image/CROEDC.webp"
-  driveLink: https://drive.google.com/file/d/1rxziCri3d2ROKM1IDp_Sf4R554wkvKtL/view?usp=drivesdk
-  category: "Crônicas Rpg"
-- title: "Cthulhu Fhtagn -"
-  imageUrl: "./image/CF.webp"
-  driveLink: https://drive.google.com/file/d/1D1mjX7jYQ6xJ0UdHER5EglFkoWD-x7Tw/view?usp=drivesdk
-  category: "Cthulhu Fhtagn"
-- title: "Cthulhutrix -"
-  imageUrl: "./image/C.webp"
-  driveLink: https://drive.google.com/file/d/13zbL93T8xzPoygOr2rLugmB6GrDn-Olz/view?usp=drivesdk
-  category: "Cthulhutrix"
-- title: "Cubo Mortal -"
-  imageUrl: "./image/CM.webp"
-  driveLink: https://drive.google.com/file/d/1IRV3sx11LTu5EYRp8KfG49l0EYi_Y8lu/view?usp=drivesdk
-  category: "Cubo Mortal"
-- title: "Cyberarcana - Ficha de Personagem -"
-  imageUrl: "./image/CFDP.webp"
-  driveLink: https://drive.google.com/file/d/17YsgmXI2IXo74AH46HV9UwgKMEaJdDx8/view?usp=drivesdk
-  category: "Cyberarcana"
-- title: "Cyberarcana - Módulo Básico -"
-  imageUrl: "./image/CMB.webp"
-  driveLink: https://drive.google.com/file/d/1hUFn-dpXbK3YYrUDn1UCgNizWChMynFM/view?usp=drivesdk
-  category: "Cyberarcana"
-- title: "Cyberpunk - Um Rpg Num Futuro Sombrio -"
-  imageUrl: "./image/CURNFS.webp"
-  driveLink: https://drive.google.com/file/d/1tXCCE8P0c7VAGcD1-xsUuGAeXCuX1g9-/view?usp=drivesdk
-  category: "Cyberpunk"
-- title: "D&d - Caixa Preta - Ficha de Personagem (V. Black Box) -"
-  imageUrl: "./image/DCPFDP(.webp"
-  driveLink: https://drive.google.com/file/d/1TO4jNRLVvRQuMNjEsNRazPkYoNeMCXpG/view?usp=drivesdk
-  category: "D&D"
-- title: "D&d - Caixa Preta - Livro de Aventuras -"
-  imageUrl: "./image/DCPLDA.webp"
-  driveLink: https://drive.google.com/file/d/10kBxqM7-L-FZ29OzrZYHkmbRNSpM909l/view?usp=drivesdk
-  category: "D&D"
-- title: "D&d - Caixa Preta - Livro de Regras -"
-  imageUrl: "./image/DCPLDR.webp"
-  driveLink: https://drive.google.com/file/d/1hHgWtME5kgCmXS1xZ70pA3gWkXSeCYD4/view?usp=drivesdk
-  category: "D&D"
-- title: "D&d - Caixa Preta - Mapa - Dungeon de Zanzer -"
-  imageUrl: "./image/DCPMDDZ.webp"
-  driveLink: https://drive.google.com/file/d/1bVUXZTHrmlHuZD9Tt_KRZWcd6T3WBUet/view?usp=drivesdk
-  category: "D&D"
-- title: "D&d - Dungeon Tiles -"
-  imageUrl: "./image/DDT.webp"
-  driveLink: https://drive.google.com/file/d/1ruNjjAUZv2wMj3nypm9tC8q-QUn7vcZW/view?usp=drivesdk
-  category: "D&D"
-- title: "D&d - Dungeon Tiles - Arcane Corridors -"
-  imageUrl: "./image/DDTAC.webp"
-  driveLink: https://drive.google.com/file/d/1MTEBfopruLYqV1uBKg6Vn4-bOSc8Cj3q/view?usp=drivesdk
-  category: "D&D"
-- title: "D&d - Dungeon Tiles - Arcane Towers -"
-  imageUrl: "./image/DDTAT.webp"
-  driveLink: https://drive.google.com/file/d/1bej1HzB-CAC-glNbm7DQm86tJEjLBwRa/view?usp=drivesdk
-  category: "D&D"
-- title: "D&d - Dungeon Tiles - Caverns Of Icewind Dale -"
-  imageUrl: "./image/DDTCOID.webp"
-  driveLink: https://drive.google.com/file/d/1cpSX7DMZAirb1TwaepIF4BpDSuKYmFkK/view?usp=drivesdk
-  category: "D&D"
-- title: "D&d - Dungeon Tiles - Caves Of Carnage -"
-  imageUrl: "./image/DDTCOC.webp"
-  driveLink: https://drive.google.com/file/d/1qpNWls9RQSbYCl1cj4wH1M-REiWG1oIn/view?usp=drivesdk
-  category: "D&D"
-- title: "D&d - Dungeon Tiles - Dire Tombs -"
-  imageUrl: "./image/DDTDT.webp"
-  driveLink: https://drive.google.com/file/d/1QSJ1zFrhkSF_8giPzbVUgDwZe2D4UZkU/view?usp=drivesdk
-  category: "D&D"
-- title: "D&d - Dungeon Tiles - Fane Of The Forgotten Gods -"
-  imageUrl: "./image/DDTFOTFG.webp"
-  driveLink: https://drive.google.com/file/d/1q-nmfKSXZIS-enLDJlPyfszOJDI_ssf3/view?usp=drivesdk
-  category: "D&D"
-- title: "D&d - Dungeon Tiles - Halls Of The Giant Kings -"
-  imageUrl: "./image/DDTHOTGK.webp"
-  driveLink: https://drive.google.com/file/d/1eD0-nQTdF0IOomGKWJ3_Afde0x367Jgd/view?usp=drivesdk
-  category: "D&D"
-- title: "D&d - Dungeon Tiles - Harrowing Halls -"
-  imageUrl: "./image/DDTHH.webp"
-  driveLink: https://drive.google.com/file/d/1FSHb9BN9woEq0C0p-fyMTKxwG7TfqX6z/view?usp=drivesdk
-  category: "D&D"
-- title: "D&d - Dungeon Tiles - Hidden Crypts -"
-  imageUrl: "./image/DDTHC.webp"
-  driveLink: https://drive.google.com/file/d/1BMhNxXzfxXIqhctkp4aPRMquroeDt9ZV/view?usp=drivesdk
-  category: "D&D"
-- title: "D&d - Dungeon Tiles - Lost Caverns Of The Underdark -"
-  imageUrl: "./image/DDTLCOTU.webp"
-  driveLink: https://drive.google.com/file/d/1Oe3GY8w4wRHQeN5j_DtsqluVZ4v75Q25/view?usp=drivesdk
-  category: "D&D"
-- title: "D&d - Dungeon Tiles - Ruins Of The Wild -"
-  imageUrl: "./image/DDTROTW.webp"
-  driveLink: https://drive.google.com/file/d/1cpk0MeHX89nPJSS39XN0O_YMCCKE45Fw/view?usp=drivesdk
-  category: "D&D"
-- title: "D&d - Dungeon Tiles - Sinister Woods -"
-  imageUrl: "./image/DDTSW.webp"
-  driveLink: https://drive.google.com/file/d/1Ekr4DV6yvYr-LujRd9RxlqHxtX77QvTV/view?usp=drivesdk
-  category: "D&D"
-- title: "D&d - Dungeon Tiles - Streets Of Shadow -"
-  imageUrl: "./image/DDTSOS.webp"
-  driveLink: https://drive.google.com/file/d/1zGW7Gb4xEvMdKpF7NGjHVg6EvEBNy2Q3/view?usp=drivesdk
-  category: "D&D"
-- title: "D&d - Dungeon Tiles - The City -"
-  imageUrl: "./image/DDTTC.webp"
-  driveLink: https://drive.google.com/file/d/1WyPU5KSsh7GzJBlmqmqzUUbNPxuD0g4X/view?usp=drivesdk
-  category: "D&D"
-- title: "D&d - Dungeon Tiles - The Dungeon -"
-  imageUrl: "./image/DDTTD.webp"
-  driveLink: https://drive.google.com/file/d/1azWtNeIAbSvBlwqAYN-A0z362kLHkTAc/view?usp=drivesdk
-  category: "D&D"
-- title: "D&d - Dungeon Tiles - The Wilderness -"
-  imageUrl: "./image/DDTTW.webp"
-  driveLink: https://drive.google.com/file/d/1P--Z-bVhahullZBmUDQTwDhrEnXN9utQ/view?usp=drivesdk
-  category: "D&D"
-- title: "D&d - Enciclopédia de Regras (Digital) -"
-  imageUrl: "./image/DEDR(.webp"
-  driveLink: https://drive.google.com/file/d/1U9UGdRQvXKIaWjtzHj7H-kXl507ec7bh/view?usp=drivesdk
-  category: "D&D"
-- title: "D&d - Enciclopédia de Regras (Impressão) -"
-  imageUrl: "./image/DEDR(.webp"
-  driveLink: https://drive.google.com/file/d/1EBCqSaXNbtkEWQ4Vyr9T5Yf4-bEvpw1B/view?usp=drivesdk
-  category: "D&D"
-- title: "D&d - Ficha de Personagem (V. Hand Made) -"
-  imageUrl: "./image/DFDP(.webp"
-  driveLink: https://drive.google.com/file/d/16G5gd9CFVGwRtDkz79ObbAYTmxvaex6d/view?usp=drivesdk
-  category: "D&D"
-- title: "D&d - Ficha de Personagem (V. Rodrigo Lehnemann) -"
-  imageUrl: "./image/DFDP(.webp"
-  driveLink: https://drive.google.com/file/d/1-McpXaYospK-9tmiTSsg4pxnCJzE6pec/view?usp=drivesdk
-  category: "D&D"
-- title: "D&d - Kids & Dragons - Edição Heróica -"
-  imageUrl: "./image/DK&DEH.webp"
-  driveLink: https://drive.google.com/file/d/1NgkEhDH0sE2W7S8MTHAZc4mEhFPpOGIz/view?usp=drivesdk
-  category: "D&D"
-- title: "D&d - Livro de Regras Estendido (V.6 Final) -"
-  imageUrl: "./image/DLDRE(.webp"
-  driveLink: https://drive.google.com/file/d/16n4VkPaNr5gf49OYSVIup7-_MAr3bam0/view?usp=drivesdk
-  category: "D&D"
-- title: "D&d - Miniaturas 1"
-  imageUrl: "./image/DM1.webp"
-  driveLink: https://drive.google.com/file/d/1_WU9j3rAWODufRPX4TK4nuleHwZrmEm8/view?usp=drivesdk
-  category: "D&D"
-- title: "D&d - Miniaturas 2"
-  imageUrl: "./image/DM2.webp"
-  driveLink: https://drive.google.com/file/d/12BK8tIRNIqKh4SehZIYx1Q6VUuDv2_jc/view?usp=drivesdk
-  category: "D&D"
-- title: "D&d - Módulo de Masmorra B4 - a Cidade Perdida -"
-  imageUrl: "./image/DMDMBACP.webp"
-  driveLink: https://drive.google.com/file/d/1cocsE5W3osd5ZJXJhppDXS9WFqBX2Dw4/view?usp=drivesdk
-  category: "D&D"
-- title: "D&d - Módulo Vorpal G1 - Guia Para Um D&d Mais Old-school -"
-  imageUrl: "./image/DMVGGPUDMOS.webp"
-  driveLink: https://drive.google.com/file/d/1Nnp6pbKXTUCjv_6U73fWWgHQfSuEArZj/view?usp=drivesdk
-  category: "D&D"
-- title: "D&t - Defensores de Tóquio - Dragão Brasil Especial 01 -"
-  imageUrl: "./image/DDDTDBE0.webp"
-  driveLink: https://drive.google.com/file/d/18ZsFJnYmnNuOKDxv6ky1O7Dvt40swMLt/view?usp=drivesdk
-  category: "D&T"
-- title: "Dragão Brasil 112 -"
-  imageUrl: "./image/DB1.webp"
-  driveLink: https://drive.google.com/file/d/1vqGGcPJMqx7xhjYZCSoj07TgMR-Bmx_p/view?usp=drivesdk
-  category: "Dragão Brasil"
-- title: "Dragão Brasil 113 -"
-  imageUrl: "./image/DB1.webp"
-  driveLink: https://drive.google.com/file/d/1xLolAzSlHqyKxyAO61v6TOr9ExEdfTOx/view?usp=drivesdk
-  category: "Dragão Brasil"
-- title: "Dragão Brasil 114 -"
-  imageUrl: "./image/DB1.webp"
-  driveLink: https://drive.google.com/file/d/1RQK2YHjYlUaJsbPkw-mNpMoM_cS-lZrq/view?usp=drivesdk
-  category: "Dragão Brasil"
-- title: "Dragão Brasil 115 -"
-  imageUrl: "./image/DB1.webp"
-  driveLink: https://drive.google.com/file/d/1kgRy2VJUECfXU-S0CVgJZvs9XQy8Wb5M/view?usp=drivesdk
-  category: "Dragão Brasil"
-- title: "Dragão Brasil 116 -"
-  imageUrl: "./image/DB1.webp"
-  driveLink: https://drive.google.com/file/d/1j9quEelKLe7KckFeaP2KX1qk7FizqLRI/view?usp=drivesdk
-  category: "Dragão Brasil"
-- title: "Dragão Brasil 117 -"
-  imageUrl: "./image/DB1.webp"
-  driveLink: https://drive.google.com/file/d/1nXCA0Bnnx-0vfJBsn1Z63XK3KdeUc8nn/view?usp=drivesdk
-  category: "Dragão Brasil"
-- title: "Dragão Brasil 118 -"
-  imageUrl: "./image/DB1.webp"
-  driveLink: https://drive.google.com/file/d/1zJiI4hzk6oFtNFa_mTdN9z7BSQn8BNiA/view?usp=drivesdk
-  category: "Dragão Brasil"
-- title: "Dragão Brasil 119 -"
-  imageUrl: "./image/DB1.webp"
-  driveLink: https://drive.google.com/file/d/1ts7FLB0rlXLXAsrY5mF6t-PaKfvetgNN/view?usp=drivesdk
-  category: "Dragão Brasil"
-- title: "Dragão Brasil 120 -"
-  imageUrl: "./image/DB1.webp"
-  driveLink: https://drive.google.com/file/d/1xDK8gnoRo-AwmEkPcVdZTSXPh8yczKKc/view?usp=drivesdk
-  category: "Dragão Brasil"
-- title: "Dragão Brasil 121 -"
-  imageUrl: "./image/DB1.webp"
-  driveLink: https://drive.google.com/file/d/1VXQ0iVOUu0CGJioC08obmZDc4-MT9gYb/view?usp=drivesdk
-  category: "Dragão Brasil"
-- title: "Dragão Brasil 122 -"
-  imageUrl: "./image/DB1.webp"
-  driveLink: https://drive.google.com/file/d/1-fyKZIEbPLEwedo6mvW6YieDWNJfacUi/view?usp=drivesdk
-  category: "Dragão Brasil"
-- title: "Dragão Brasil 123 -"
-  imageUrl: "./image/DB1.webp"
-  driveLink: https://drive.google.com/file/d/1Ulqtngk4bIYIxx7XXAqcsZ00XlWSeOVw/view?usp=drivesdk
-  category: "Dragão Brasil"
-- title: "El Nido - Chrono Cross Rpg -"
-  imageUrl: "./image/ENCCR.webp"
-  driveLink: https://drive.google.com/file/d/15PuDGyT4BLC66qnvOX4dF241Yw4jUh3Z/view?usp=drivesdk
-  category: "El Nido"
-- title: "Histórias do Mundo de Gelo e Fogo - o Cavaleiro dos Sete Reinos -"
-  imageUrl: "./image/HDMDGEFOCDSR.webp"
-  driveLink: https://drive.google.com/file/d/1NEPu9bCcvUnjyf8kS2NNYW94A8dEJCJ4/view?usp=drivesdk
-  category: "Histórias do Mundo de Gelo e Fogo"
-- title: "Mouse Guard Rpg - Guia de Conflito"
-  imageUrl: "./image/MGRGDC.webp"
-  driveLink: https://drive.google.com/file/d/1GpqBC77ytoplS4dIe2bPnWT7TI6H9E2V/view?usp=drivesdk
-  category: "Mouse Guard Rpg"
-- title: "Mouse Guard Rpg - Guia de Equipamentos"
-  imageUrl: "./image/MGRGDE.webp"
-  driveLink: https://drive.google.com/file/d/1yc2lsEZGVqn5yxjk0Gt0MJMS64PQXzRQ/view?usp=drivesdk
-  category: "Mouse Guard Rpg"
-- title: "Mouse Guard Rpg - Guia de Skills"
-  imageUrl: "./image/MGRGDS.webp"
-  driveLink: https://drive.google.com/file/d/1kDyIJEx0bYGtC5CnX-J7-Yv0_OgqXxee/view?usp=drivesdk
-  category: "Mouse Guard Rpg"
-- title: "Mouse Guard Rpg - Guia Original"
-  imageUrl: "./image/MGRGO.webp"
-  driveLink: https://drive.google.com/file/d/1SQOp2Mcq5DxV2SjU4HjX-RngvtXxSYRn/view?usp=drivesdk
-  category: "Mouse Guard Rpg"
-- title: "Mouse Guard Rpg - Recrutamento"
-  imageUrl: "./image/MGRR.webp"
-  driveLink: https://drive.google.com/file/d/1FDdK0hmg0JTMV_j9rezB1WQpCAk1qXsH/view?usp=drivesdk
-  category: "Mouse Guard Rpg"
-- title: "Mouse Guard Rpg - Regras Extras Para Mestres"
-  imageUrl: "./image/MGRREPM.webp"
-  driveLink: https://drive.google.com/file/d/1J8nFYQPS2-DmuhRv20qUt-teTGMM9SkW/view?usp=drivesdk
-  category: "Mouse Guard Rpg"
-- title: "Mouse Guard Rpg - Regras Gerais"
-  imageUrl: "./image/MGRRG.webp"
-  driveLink: https://drive.google.com/file/d/1iy0s_qECrcI4aK0VJ4tzg_vPfzxRraCj/view?usp=drivesdk
-  category: "Mouse Guard Rpg"
-- title: "Oldd&d - Enciclopédia de Regras (Digital) -"
-  imageUrl: "./image/OEDR(.webp"
-  driveLink: https://drive.google.com/file/d/1pkyBYyX2YTaC5LnYV-czhbjc4d05DHQ8/view?usp=drivesdk
-  category: "Old D&D"
-- title: "Oldd&d - Enciclopédia de Regras (Impressão) -"
-  imageUrl: "./image/OEDR(.webp"
-  driveLink: https://drive.google.com/file/d/15orACmfPr7osWor6Z9tPkDy4F6tvit3I/view?usp=drivesdk
-  category: "Old D&D"
-- title: "Planescape - Caixa"
-  imageUrl: "./image/PC.webp"
-  driveLink: https://drive.google.com/file/d/1wyuSPzneFKnfJBXJZKrQoN8mxLc747Rx/view?usp=drivesdk
-  category: "Planescape"
-- title: "Planescape - Escudo"
-  imageUrl: "./image/PE.webp"
-  driveLink: https://drive.google.com/file/d/15YdeNhRdLDWLA_nMu7_ZTmPy6wpyWbL7/view?usp=drivesdk
-  category: "Planescape"
-- title: "Planescape - Poster 1"
-  imageUrl: "./image/PP1.webp"
-  driveLink: https://drive.google.com/file/d/1VHUpy5rkYVAQ91YvEX0mEI-o5mA2mqny/view?usp=drivesdk
-  category: "Planescape"
-- title: "Planescape - Poster 2"
-  imageUrl: "./image/PP2.webp"
-  driveLink: https://drive.google.com/file/d/1KXkEU6D1AKRrLSpjaJG3O1-7EWZF5L0v/view?usp=drivesdk
-  category: "Planescape"
-- title: "Planescape - Poster 3"
-  imageUrl: "./image/PP3.webp"
-  driveLink: https://drive.google.com/file/d/1nCZqZcadWyjFelzYUTaatPtcYiIbVhHi/view?usp=drivesdk
-  category: "Planescape"
-- title: "Planescape - Poster 4"
-  imageUrl: "./image/PP4.webp"
-  driveLink: https://drive.google.com/file/d/1XESsRrErttaq7E9Zj8F_CXqnLUJYxE4Q/view?usp=drivesdk
-  category: "Planescape"
-- title: "Planescape - Sigil e Além"
-  imageUrl: "./image/PSEA.webp"
-  driveLink: https://drive.google.com/file/d/16nog2eeuie7ktPK2zWMQu5GSVdqlnlbB/view?usp=drivesdk
-  category: "Planescape"
-- title: "Planescape - Suplemento de Monstros"
-  imageUrl: "./image/PSDM.webp"
-  driveLink: https://drive.google.com/file/d/1yvK-wzNfDT-weeifn4lhWYky7QPGb3Fl/view?usp=drivesdk
-  category: "Planescape"
-- title: "Planescape Guia do Jogador Para"
-  imageUrl: "./image/PGDJP.webp"
-  driveLink: https://drive.google.com/file/d/10xlh6td7wYK_QAm4o0UtLjNsxs3ZoUPY/view?usp=drivesdk
-  category: "Planescape"
-- title: "Planescape Guia do Mestre Para os"
-  imageUrl: "./image/PGDMPO.webp"
-  driveLink: https://drive.google.com/file/d/1sxXChoBldHiOV7QVWnvjGQWSKBbK-9Zx/view?usp=drivesdk
-  category: "Planescape"
-- title: "Sistema +2d6 -"
-  imageUrl: "./image/S+.webp"
-  driveLink: https://drive.google.com/file/d/1Ukm8JLF9e8sv8GbtH-Z0W4cq_2lPmSju/view?usp=drivesdk
-  category: "Sistema +2d6"
-- title: "Super 3d&t - Diablo -"
-  imageUrl: "./image/S3D.webp"
-  driveLink: https://drive.google.com/file/d/1YAK3RpzQdihUI1Q4rMVs9hUTyhT3tmyA/view?usp=drivesdk
-  category: "Super 3d&t"
-- title: "Super 3d&t - Manual -"
-  imageUrl: "./image/S3M.webp"
-  driveLink: https://drive.google.com/file/d/1C6bDMUhFbv8JkKwohkt74kJTJU0qdPkF/view?usp=drivesdk
-  category: "Super 3d&t"
-- title: "Super 3d&t - Manual - Revisado -"
-  imageUrl: "./image/S3MR.webp"
-  driveLink: https://drive.google.com/file/d/1J3nbPqEUoqOC_t-gA1t4V7d702_RiihP/view?usp=drivesdk
-  category: "Super 3d&t"
-- title: "Super 3d&t - Manual - Revisado - Errata"
-  imageUrl: "./image/S3MRE.webp"
-  driveLink: https://drive.google.com/file/d/1CRjSUVh9Q1lTzPvwuDHTq8qpb9g3pU-m/view?usp=drivesdk
-  category: "Super 3d&t"
-- title: "Super 3d&t - Manual de Perícias -"
-  imageUrl: "./image/S3MDP.webp"
-  driveLink: https://drive.google.com/file/d/104Hn-wcbaebGzP2NN2qoR0jRYho6vYfD/view?usp=drivesdk
-  category: "Super 3d&t"
-- title: "Super 3d&t - Manual dos Monstros -"
-  imageUrl: "./image/S3MDM.webp"
-  driveLink: https://drive.google.com/file/d/1Y_vMF1XpGxWSqFcISamRjHDMFZPpuM7J/view?usp=drivesdk
-  category: "Super 3d&t"
-- title: "Super 3d&t - Regras Adicionais -"
-  imageUrl: "./image/S3RA.webp"
-  driveLink: https://drive.google.com/file/d/1NZasPz7EUAat7-BsMYeJlqnCVPach5lD/view?usp=drivesdk
-  category: "Super 3d&t"
-- title: "Super 3d&t - Spawn -"
-  imageUrl: "./image/S3S.webp"
-  driveLink: https://drive.google.com/file/d/1pp2QV4ZwrNyD0fB92O-A1GhZ8jB5hat_/view?usp=drivesdk
-  category: "Super 3d&t"
-- title: "Super 3d&t - Tormenta -"
-  imageUrl: "./image/S3T.webp"
-  driveLink: https://drive.google.com/file/d/1piJbe7pEd3NTr5UmTz51yXtn6KKh8ULT/view?usp=drivesdk
-  category: "Super 3d&t"
-- title: "Super 3d&t Booster Revisado e Ampliado"
-  imageUrl: "./image/S3BREA.webp"
-  driveLink: https://drive.google.com/file/d/1W9W0MY9qCfg5p79riv9usQB_XQ3TluSA/view?usp=drivesdk
-  category: "Super 3d&t"
-- title: "Super 3d&t Manual do Aventureiro"
-  imageUrl: "./image/S3MDA.webp"
-  driveLink: https://drive.google.com/file/d/1zRBbQy1DzaM84oMpv0jz6O-kBrXHK_WS/view?usp=drivesdk
-  category: "Super 3d&t"
-- title: "Super 3d&t Manual do Aventureiro (2)"
-  imageUrl: "./image/S3MDA(.webp"
-  driveLink: https://drive.google.com/file/d/1G9skA6FiYFXvNghSsNoeVBGU1yXOWKhr/view?usp=drivesdk
-  category: "Super 3d&t"
-- title: "Super 3d&t Manual do Aventureiro (3)"
-  imageUrl: "./image/S3MDA(.webp"
-  driveLink: https://drive.google.com/file/d/1Xt0MkdHg_E5f6pRBOliYMdp-vzrW-O7q/view?usp=drivesdk
-  category: "Super 3d&t"
-- title: "Super 3d&t Manual Revisado ÚLtima"
-  imageUrl: "./image/S3MRÚ.webp"
-  driveLink: https://drive.google.com/file/d/1LPZEV4ko0Eo1aKXkCJa157cpoxUhvTZF/view?usp=drivesdk
-  category: "Super 3d&t"
-- title: "Tormenta 01 -"
-  imageUrl: "./image/T0.webp"
-  driveLink: https://drive.google.com/file/d/1ajztH51okJj7unZpOkyUdMrCuvElfayZ/view?usp=drivesdk
-  category: "Tormenta"
-- title: "Tormenta 02 -"
-  imageUrl: "./image/T0.webp"
-  driveLink: https://drive.google.com/file/d/1wBRGvx_T01mNN87FypLHHjaeKRRBckLO/view?usp=drivesdk
-  category: "Tormenta"
-- title: "Tormenta 03 -"
-  imageUrl: "./image/T0.webp"
-  driveLink: https://drive.google.com/file/d/1_mpPAmzgN4tYt7vmhLBQ8exjRSofNhjL/view?usp=drivesdk
-  category: "Tormenta"
-- title: "Tormenta 04 -"
-  imageUrl: "./image/T0.webp"
-  driveLink: https://drive.google.com/file/d/1EoQIyX2qSe2JCv7RPzX_UAAvzFNJa2sT/view?usp=drivesdk
-  category: "Tormenta"
-- title: "Tormenta 05 -"
-  imageUrl: "./image/T0.webp"
-  driveLink: https://drive.google.com/file/d/1HaclXTqt2pyB7eqn_1Bxmp9uBMJFJ_08/view?usp=drivesdk
-  category: "Tormenta"
-- title: "Tormenta 06 -"
-  imageUrl: "./image/T0.webp"
-  driveLink: https://drive.google.com/file/d/1km9kPQQbPILjcxI7M5O7q5XthUHLru28/view?usp=drivesdk
-  category: "Tormenta"
-- title: "Tormenta 07 -"
-  imageUrl: "./image/T0.webp"
-  driveLink: https://drive.google.com/file/d/1h8jE3DRbKgoGKNmXsybK9Sr7I7cXaVI3/view?usp=drivesdk
-  category: "Tormenta"
-- title: "Tormenta 08 -"
-  imageUrl: "./image/T0.webp"
-  driveLink: https://drive.google.com/file/d/1MXct9b1XuX6vhp9r9xmY-5MBPKPqMv56/view?usp=drivesdk
-  category: "Tormenta"
-- title: "Tormenta 09 -"
-  imageUrl: "./image/T0.webp"
-  driveLink: https://drive.google.com/file/d/1aD4ZS6VuduiVIm3m35R9HbFNT8YZgBxV/view?usp=drivesdk
-  category: "Tormenta"
-- title: "Tormenta 10 -"
-  imageUrl: "./image/T1.webp"
-  driveLink: https://drive.google.com/file/d/1FW0_bGUZ2TXeRLYJk7wfkIxIZhwIyL_h/view?usp=drivesdk
-  category: "Tormenta"
-- title: "Tormenta 11 -"
-  imageUrl: "./image/T1.webp"
-  driveLink: https://drive.google.com/file/d/1-k0UyDXEJBWc7Q-AtUsGITEals2ZFQR0/view?usp=drivesdk
-  category: "Tormenta"
-- title: "Tormenta 12 -"
-  imageUrl: "./image/T1.webp"
-  driveLink: https://drive.google.com/file/d/1m2AR194fBsRwbsBhI0lJ7KOXajZHjUsx/view?usp=drivesdk
-  category: "Tormenta"
-- title: "Tormenta 13 -"
-  imageUrl: "./image/T1.webp"
-  driveLink: https://drive.google.com/file/d/1PsqmA2GcnLMEgZaHz8Zd9l5n0-s_qakW/view?usp=drivesdk
-  category: "Tormenta"
-- title: "Tormenta 14 -"
-  imageUrl: "./image/T1.webp"
-  driveLink: https://drive.google.com/file/d/1ky6qtJFGyctqThPuvzGlcsWixDYD7D95/view?usp=drivesdk
-  category: "Tormenta"
-- title: "Tormenta 15 -"
-  imageUrl: "./image/T1.webp"
-  driveLink: https://drive.google.com/file/d/1knj5mJGOsKXJcn0RkIf_jM30_Ty61k-t/view?usp=drivesdk
-  category: "Tormenta"
-- title: "Tormenta 16 -"
-  imageUrl: "./image/T1.webp"
-  driveLink: https://drive.google.com/file/d/1fwS_dsaqO6g-NQpKdQVDQ5PgFsV609hH/view?usp=drivesdk
-  category: "Tormenta"
-- title: "Tormenta 17 -"
-  imageUrl: "./image/T1.webp"
-  driveLink: https://drive.google.com/file/d/1lfP4LhIzksTipzZDckgshCGRXQe3w68W/view?usp=drivesdk
-  category: "Tormenta"
-- title: "Universo Profundo 1"
-  imageUrl: "./image/UP1.webp"
-  driveLink: https://drive.google.com/file/d/1_kUyATOp-ULLuagTIkKMROwcmuEQwDMt/view?usp=drivesdk
-  category: "Universo Profundo"
-- title: "Universo Profundo 2"
-  imageUrl: "./image/UP2.webp"
-  driveLink: https://drive.google.com/file/d/1bf0Qyilh_SFCMg4S4R5JhN7ZgHN81CzH/view?usp=drivesdk
-  category: "Universo Profundo"
