@@ -53,11 +53,12 @@ const Book = ({ title, author, imageUrl, onSelectBook }) => (
       <img
         src={imageUrl}
         alt={title}
-        className="w-36 h-48 sm:w-48 sm:h-64 md:w-48 md:h-64 lg:w-64 lg:h-80 object-cover rounded-md shadow-md max-w-full"
+        className="rounded-md shadow-md"
+        style={{ width: '240px', maxWidth: '80vw', height: '320px', objectFit: 'cover' }}
         loading="lazy"
         onError={(e) => {
           e.currentTarget.onerror = null;
-          e.currentTarget.src = 'https://placehold.co/192x256/2d3748/e2e8f0?text=Capa';
+          e.currentTarget.src = 'https://placehold.co/240x320/2d3748/e2e8f0?text=Capa';
         }}
       />
     </figure>
@@ -83,11 +84,12 @@ const BookDetail = ({ book, onBackToList }) => (
         <img
           src={book.imageUrl}
           alt={book.title}
-          className="w-56 sm:w-80 md:w-96 h-auto object-cover rounded-lg shadow-lg border-4 border-gray-700 hover:border-green-500 transition-colors"
+          className="rounded-lg shadow-lg border-4 border-gray-700 hover:border-green-500 transition-colors"
+          style={{ width: '420px', maxWidth: '90vw', height: '560px', objectFit: 'cover' }}
           loading="lazy"
           onError={(e) => {
             e.currentTarget.onerror = null;
-            e.currentTarget.src = 'https://placehold.co/320x420/2d3748/e2e8f0?text=Capa+Indisponível';
+            e.currentTarget.src = 'https://placehold.co/420x560/2d3748/e2e8f0?text=Capa+Indisponível';
           }}
         />
       </a>
@@ -155,7 +157,7 @@ const Sidebar = ({ isMenuOpen, toggleMenu, handleNavigate }) => {
         {Object.entries(categories).map(([categoryName, items]) => (
           <li key={categoryName} className={`nav-item has-dropdown ${activeDropdown === categoryName ? 'dropdown-active' : ''}`}>
             <button className="nav-link" onClick={() => setActiveDropdown(activeDropdown === categoryName ? null : categoryName)}>
-              <i className={`fa-solid ${categoryName === 'Dungeons & Dragons' ? 'fa-dragon' : categoryName === 'Mundo das Trevas' ? 'fa-hat-wizard' : categoryName === 'Cthulhu Mythos' ? 'fa-book' : 'fa-layer-group'}`}></i>
+              <i className={`fa-solid ${categoryName === 'Dungeons & Dragons' ? 'fa-dragon' : categoryName === 'Mundo das Trevas' ? 'fa-hat-wizard' : categoryName === 'Cthulhu Mythos' ? 'fa-book' : 'fa-folder'}`}></i>
               <span className="text">{categoryName}</span>
               <i className="fa-solid fa-chevron-right dropdown-arrow"></i>
             </button>
@@ -341,7 +343,7 @@ const App = () => {
                 setBooksPerPage(Number(e.target.value));
                 setCurrentPage(1);
               }}
-              className="appearance-none w-full sm:w-auto px-5 py-3 rounded-full transition-shadow pr-10 cursor-pointer bg-gray-700 border border-gray-600 shadow-md focus:outline-none focus:ring-2 focus:ring-green-500"
+              className="appearance-none w-full sm:w-auto px-5 py-3 rounded-full transition-shadow pr-10 cursor-pointer bg-gray-700 border border-gray-600 shadow-md focus:outline-none focus:ring-[...]
             >
               {booksPerPageOptions.map((option) => (
                 <option key={option} value={option}>
@@ -470,10 +472,10 @@ async function loadBooksData() {
     const root = document.getElementById('root-app');
     if (root) {
       root.innerHTML = `
-        <div style="max-width: 720px; margin: 48px auto; padding: 24px; color: #fca5a5; background: rgba(17,24,39,.9); border: 1px solid rgba(248,113,113,.3); border-radius: 12px; font-family: Inter, sans-serif;">
+        <div style="max-width: 720px; margin: 48px auto; padding: 24px; color: #fca5a5; background: rgba(17,24,39,.9); border: 1px solid rgba(248,113,113,.3); border-radius: 12px; font-family: In[...]
           <h1 style="margin: 0 0 12px; color: #fff;">Falha ao iniciar a biblioteca</h1>
           <p style="margin: 0 0 12px;">${String(error.message || error)}</p>
-          <p style="margin: 0; color: #d1d5db;">Confirme se os arquivos <code>data/books.yml</code> e <code>data/descriptions.yml</code> existem e se a CDN do <code>js-yaml</code> foi adicionada no HTML.</p>
+          <p style="margin: 0; color: #d1d5db;">Confirme se os arquivos <code>data/books.yml</code> e <code>data/descriptions.yml</code> existem e se a CDN do <code>js-yaml</code> foi adicionada [...]
         </div>
       `;
     }
