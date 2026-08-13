@@ -16,7 +16,7 @@ async function loadBooksData() {
       acc[item.title] = item.description;
       return acc;
     }, {});
-    console.log('Dados das descrições carregados:', descriptionsData);
+    console.log('Dados das descriÃ§Ãµes carregados:', descriptionsData);
 
     ReactDOM.createRoot(document.getElementById('root-app')).render(<App />);
   } catch (r) {
@@ -78,7 +78,7 @@ const BookDetail = ({ book, onBackToList }) => {
             onError={(e) => {
               e.target.onerror = null;
               e.target.src =
-                'https://placehold.co/320x420/2d3748/e2e8f0?text=Capa+Indisponível';
+                'https://placehold.co/320x420/2d3748/e2e8f0?text=Capa+IndisponÃ­vel';
             }}
           />
         </a>
@@ -92,7 +92,7 @@ const BookDetail = ({ book, onBackToList }) => {
         Acessar no Google Drive
       </a>
       <p className="text-gray-400 text-sm mt-4 text-center">
-        Clique na capa ou no botão para abrir o arquivo no Google Drive.
+        Clique na capa ou no botÃ£o para abrir o arquivo no Google Drive.
       </p>
       {book.description && (
         <p className="text-gray-300 text-base mt-6 text-center leading-relaxed max-w-prose">
@@ -103,7 +103,7 @@ const BookDetail = ({ book, onBackToList }) => {
   );
 };
 
-const Sidebar = ({ isMenuOpen, toggleMenu, handleNavigate }) => {
+const Sidebar = ({ isMenuOpen, toggleMenu, handleNavigate, allCategories = [] }) => {
   const [activeDropdown, setActiveDropdown] = React.useState(null);
   const submenuRefs = React.useRef({});
 
@@ -137,38 +137,49 @@ const Sidebar = ({ isMenuOpen, toggleMenu, handleNavigate }) => {
     if (window.innerWidth <= 768) toggleMenu();
   };
 
-  const categories = {
+  const featuredCategories = {
     'Dungeons & Dragons': ['D&D 5E', 'D&D 3.5'],
     'Mundo das Trevas': [
-      'Mago a Ascensão',
-      'Vampiro a Máscara',
+      'Mago a AscensÃ£o',
+      'Vampiro a MÃ¡scara',
       'Vampiro a Idade das Trevas',
-      'Vampiro o Réquiem',
+      'Vampiro o RÃ©quiem',
     ],
     'Cthulhu Mythos': ['Chamado de Cthulhu', 'Rastro de Cthulhu'],
     'Outros Sistemas': [
       'Tormenta',
       'Old Dragon',
-      '13ª Era',
-      '7º Mar',
+      '13Âª Era',
+      '7Âº Mar',
       'Violentina',
       'Angus RPG',
       '2Q RPG',
-      'Ação!!!',
+      'AÃ§Ã£o!!!',
     ],
+  };
+
+  const featuredSystems = new Set(
+    Object.values(featuredCategories).flat().map((e) => e.normalize('NFC'))
+  );
+  const otherCategories = allCategories.filter(
+    (e) => !featuredSystems.has(e.normalize('NFC'))
+  );
+  const categories = {
+    ...featuredCategories,
+    'Outras Categorias': otherCategories,
   };
 
   return (
     <nav className="sidebar" id="sidebar">
       <div className="sidebar-header">
         <i className="fa-solid fa-dungeon logo-icon"></i>
-        <span className="logo-text">Bib. Druídica</span>
+        <span className="logo-text">Bib. DruÃ­dica</span>
       </div>
       <ul className="sidebar-nav">
         <li className="nav-item">
           <a className="nav-link" onClick={() => handleNavLinkClick('home')}>
             <i className="fa-solid fa-house icon"></i>
-            <span className="text">Início</span>
+            <span className="text">InÃ­cio</span>
           </a>
         </li>
         {Object.entries(categories).map(([e, t]) => (
@@ -213,6 +224,18 @@ const Sidebar = ({ isMenuOpen, toggleMenu, handleNavigate }) => {
 };
 
 const App = () => {
+  const allCategories = React.useMemo(
+    () =>
+      Array.from(
+        new Set(
+          booksData
+            .map((e) => e.category)
+            .filter(Boolean)
+            .map((e) => e.normalize('NFC'))
+        )
+      ).sort((e, t) => e.localeCompare(t, 'pt-BR')),
+    []
+  );
   const [currentView, setCurrentView] = React.useState('home');
   const [selectedCategory, setSelectedCategory] = React.useState('');
   const [selectedBook, setSelectedBook] = React.useState(null);
@@ -233,7 +256,7 @@ const App = () => {
 
   const handleSelectBook = (book) => {
     const description =
-      descriptionsData[book.title] || 'Nenhuma descrição disponível neste tomo.';
+      descriptionsData[book.title] || 'Nenhuma descriÃ§Ã£o disponÃ­vel neste tomo.';
     setSelectedBook({ ...book, description });
     setCurrentView('book');
     window.scrollTo(0, 0);
@@ -311,7 +334,7 @@ const App = () => {
           disabled={currentPage === totalPages}
           className="px-4 py-2 bg-gray-700 text-white rounded-lg hover:bg-gray-600 disabled:opacity-50 disabled:cursor-not-allowed transition-colors shadow-md"
         >
-          Próximo
+          PrÃ³ximo
         </button>
       </div>
     );
@@ -328,7 +351,7 @@ const App = () => {
         />
       );
     }
-    let e = 'Biblioteca Druídica',
+    let e = 'Biblioteca DruÃ­dica',
       t = 'Seu acervo digital de livros de RPG.';
     if (currentView === 'category') {
       e = selectedCategory;
@@ -344,14 +367,14 @@ const App = () => {
               onClick={() => handleNavigate('home')}
               className="mt-4 px-4 py-2 bg-green-600 text-white rounded-lg hover:bg-green-700 transition-colors shadow-md"
             >
-              &larr; Voltar para o Início
+              &larr; Voltar para o InÃ­cio
             </button>
           )}
         </div>
         <div className="mb-10 w-full max-w-lg mx-auto flex flex-col sm:flex-row gap-4">
           <input
             type="text"
-            placeholder="Buscar por título ou autor..."
+            placeholder="Buscar por tÃ­tulo ou autor..."
             className="w-full px-5 py-3 bg-gray-700 text-white rounded-full focus:outline-none focus:ring-2 focus:ring-green-500 transition-shadow"
             onChange={(e) => {
               setSearchTerm(e.target.value);
@@ -444,10 +467,11 @@ const App = () => {
 
   return (
     <div className="min-h-screen text-gray-100 font-inter antialiased">
-      <Sidebar
+            <Sidebar
         isMenuOpen={isMenuOpen}
         toggleMenu={toggleMenu}
         handleNavigate={handleNavigate}
+        allCategories={allCategories}
       />
       <button
         className={`menu-toggle ${isMenuOpen ? 'active' : ''}`}
@@ -459,7 +483,7 @@ const App = () => {
       </button>
       <main className="container mx-auto px-4 py-8">{renderContent()}</main>
       <footer className="bg-black bg-opacity-30 backdrop-blur-sm p-6 text-center text-gray-400 mt-12 rounded-t-lg">
-        <p>&copy; {new Date().getFullYear()} Biblioteca Druídica. Todos os direitos reservados.</p>
+        <p>&copy; {new Date().getFullYear()} Biblioteca DruÃ­dica. Todos os direitos reservados.</p>
         <div className="mt-4">
           <p>
             Visite o canal na Twitch:
@@ -477,3 +501,4 @@ const App = () => {
     </div>
   );
 };
+
