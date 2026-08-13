@@ -23,7 +23,15 @@ body {
   background: linear-gradient(rgba(17, 24, 39, 0.85), rgba(17, 24, 39, 0.85)), url('../image/bg2.webp');
   background-size: cover;
   background-position: center;
-  background-attachment: fixed;
+  /* fixed backgrounds are bad for mobile performance; only enable on large screens */
+  background-attachment: scroll;
+}
+
+/* enable fixed background on large screens for visual effect */
+@media (min-width: 1024px) {
+  body {
+    background-attachment: fixed;
+  }
 }
 
 button,
@@ -58,7 +66,8 @@ input {
   top: 0;
   left: 0;
   height: 100%;
-  width: var(--sidebar-width);
+  /* allow the sidebar to shrink on small viewports */
+  width: min(var(--sidebar-width), 80%);
   background: var(--secondary-color);
   z-index: 999;
   padding: 15px;
@@ -232,7 +241,12 @@ input:focus-visible {
   position: absolute;
 }
 
+/* Responsive tweaks for mobile */
 @media (max-width: 768px) {
+  :root {
+    --sidebar-width: 280px;
+  }
+
   .sidebar.active ~ .main-content {
     margin-left: 0;
   }
@@ -243,5 +257,34 @@ input:focus-visible {
     background: transparent;
     border: none;
     box-shadow: none;
+  }
+
+  /* make the menu toggle slightly larger on touch devices for better hit area */
+  .menu-toggle {
+    width: 52px;
+    height: 52px;
+  }
+
+  /* allow the sidebar to cover most of the screen on small devices */
+  .sidebar {
+    width: 80vw;
+  }
+}
+
+/* Ensure book cover images are responsive */
+.book-cover img {
+  width: 100%;
+  height: auto;
+  display: block;
+  border-radius: 8px;
+}
+
+/* Reduce heavy shadows/transform on small screens for performance */
+@media (max-width: 480px) {
+  .book-cover img,
+  .nav-link,
+  .submenu-link {
+    box-shadow: none;
+    transition: none;
   }
 }

@@ -41,7 +41,7 @@ const sanitizeDescriptions = (items) =>
 
 const Book = ({ title, author, imageUrl, onSelectBook }) => (
   <article
-    className="bg-gray-800 bg-opacity-0 hover:bg-opacity-50 p-4 rounded-lg shadow-lg flex flex-col items-center text-center transform hover:scale-105 transition-all duration-300 ease-in-out cursor-pointer h-full"
+    className="bg-gray-800 bg-opacity-0 hover:bg-opacity-50 p-4 rounded-lg flex flex-col items-center text-center transform hover:scale-105 transition-all duration-300 ease-in-out cursor-pointer"
     onClick={onSelectBook}
     role="button"
     tabIndex={0}
@@ -49,11 +49,11 @@ const Book = ({ title, author, imageUrl, onSelectBook }) => (
       if (e.key === 'Enter' || e.key === ' ') onSelectBook();
     }}
   >
-    <figure className="book-cover mb-4 flex-shrink-0">
+    <figure className="book-cover mb-4 flex-shrink-0 w-full max-w-xs sm:max-w-none">
       <img
         src={imageUrl}
         alt={title}
-        className="w-48 h-64 object-cover rounded-md shadow-md"
+        className="w-36 h-48 sm:w-48 sm:h-64 md:w-48 md:h-64 lg:w-64 lg:h-80 object-cover rounded-md shadow-md max-w-full"
         loading="lazy"
         onError={(e) => {
           e.currentTarget.onerror = null;
@@ -61,29 +61,29 @@ const Book = ({ title, author, imageUrl, onSelectBook }) => (
         }}
       />
     </figure>
-    <div className="book-info flex flex-col justify-start flex-grow">
-      <h2 className="text-white text-lg font-semibold mb-1">{title}</h2>
-      <p className="text-gray-400 text-sm">{author}</p>
+    <div className="book-info flex flex-col justify-start flex-grow w-full">
+      <h2 className="text-white text-lg font-semibold mb-1 truncate">{title}</h2>
+      <p className="text-gray-400 text-sm truncate">{author}</p>
     </div>
   </article>
 );
 
 const BookDetail = ({ book, onBackToList }) => (
-  <div className="flex flex-col items-center bg-gray-800 bg-opacity-50 p-8 rounded-lg shadow-xl max-w-4xl mx-auto my-8">
+  <div className="flex flex-col items-center bg-gray-800 bg-opacity-50 p-6 sm:p-8 rounded-lg shadow-xl max-w-4xl mx-auto my-8">
     <button
       onClick={onBackToList}
       className="self-start mb-6 px-4 py-2 bg-green-600 text-white rounded-lg hover:bg-green-700 transition-colors shadow-md"
     >
       &larr; Voltar
     </button>
-    <h1 className="text-white text-4xl font-bold mb-4 text-center">{book.title}</h1>
+    <h1 className="text-white text-3xl sm:text-4xl font-bold mb-4 text-center">{book.title}</h1>
     <p className="text-gray-300 text-lg mb-6 text-center">Por: {book.author}</p>
-    <div className="book-cover mb-8">
+    <div className="book-cover mb-8 w-full flex justify-center">
       <a href={book.driveLink} target="_blank" rel="noopener noreferrer">
         <img
           src={book.imageUrl}
           alt={book.title}
-          className="w-80 h-auto object-cover rounded-lg shadow-lg border-4 border-gray-700 hover:border-green-500 transition-colors"
+          className="w-56 sm:w-80 md:w-96 h-auto object-cover rounded-lg shadow-lg border-4 border-gray-700 hover:border-green-500 transition-colors"
           loading="lazy"
           onError={(e) => {
             e.currentTarget.onerror = null;
@@ -155,7 +155,7 @@ const Sidebar = ({ isMenuOpen, toggleMenu, handleNavigate }) => {
         {Object.entries(categories).map(([categoryName, items]) => (
           <li key={categoryName} className={`nav-item has-dropdown ${activeDropdown === categoryName ? 'dropdown-active' : ''}`}>
             <button className="nav-link" onClick={() => setActiveDropdown(activeDropdown === categoryName ? null : categoryName)}>
-              <i className={`fa-solid ${categoryName === 'Dungeons & Dragons' ? 'fa-dragon' : categoryName === 'Mundo das Trevas' ? 'fa-hat-wizard' : categoryName === 'Cthulhu Mythos' ? 'fa-book-skull' : 'fa-scroll'} icon`}></i>
+              <i className={`fa-solid ${categoryName === 'Dungeons & Dragons' ? 'fa-dragon' : categoryName === 'Mundo das Trevas' ? 'fa-hat-wizard' : categoryName === 'Cthulhu Mythos' ? 'fa-book' : 'fa-layer-group'}`}></i>
               <span className="text">{categoryName}</span>
               <i className="fa-solid fa-chevron-right dropdown-arrow"></i>
             </button>
@@ -278,8 +278,7 @@ const App = () => {
               <button
                 key={item}
                 onClick={() => setPage(item)}
-                className={`px-3 py-2 rounded-lg transition-colors shadow-md min-w-10 ${page === item ? 'bg-green-600 text-white' : 'bg-gray-700 text-white hover:bg-gray-600'}`}
-              >
+                className={`px-3 py-2 rounded-lg transition-colors shadow-md min-w-10 ${page === item ? 'bg-green-600 text-white' : 'bg-gray-700 text-white hover:bg-gray-600'}`}>
                 {item}
               </button>
             ) : (
@@ -474,7 +473,7 @@ async function loadBooksData() {
         <div style="max-width: 720px; margin: 48px auto; padding: 24px; color: #fca5a5; background: rgba(17,24,39,.9); border: 1px solid rgba(248,113,113,.3); border-radius: 12px; font-family: Inter, sans-serif;">
           <h1 style="margin: 0 0 12px; color: #fff;">Falha ao iniciar a biblioteca</h1>
           <p style="margin: 0 0 12px;">${String(error.message || error)}</p>
-          <p style="margin: 0; color: #d1d5db;">Confirme se os arquivos <code>data/books.yml</code> e <code>data/descriptions.yml</code> existem e se a CDN do <code>js-yaml</code> foi adicionada ao HTML.</p>
+          <p style="margin: 0; color: #d1d5db;">Confirme se os arquivos <code>data/books.yml</code> e <code>data/descriptions.yml</code> existem e se a CDN do <code>js-yaml</code> foi adicionada no HTML.</p>
         </div>
       `;
     }
