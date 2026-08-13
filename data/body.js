@@ -6,7 +6,7 @@ const normalizeText = (value) =>
     .normalize('NFC')
     .replaceAll('Ã¡', 'á')
     .replaceAll('Ã©', 'é')
-    .replaceAll('Ã­', 'í')
+    .replaceAll('Ã\xad', 'í')
     .replaceAll('Ã³', 'ó')
     .replaceAll('Ãº', 'ú')
     .replaceAll('Ã£', 'ã')
@@ -15,9 +15,9 @@ const normalizeText = (value) =>
     .replaceAll('Ãª', 'ê')
     .replaceAll('Ã´', 'ô')
     .replaceAll('Ã§', 'ç')
-    .replaceAll('DruÃ­dica', 'Druídica')
+    .replaceAll('DruÃ\xaddica', 'Druídica')
     .replaceAll('descriÃ§Ãµes', 'descrições')
-    .replaceAll('IndisponÃ­vel', 'Indisponível')
+    .replaceAll('IndisponÃ\xadvel', 'Indisponível')
     .replaceAll('botÃ£o', 'botão')
     .replaceAll('ColeÃ§Ãµes', 'Coleções');
 
@@ -224,7 +224,9 @@ const App = () => {
     }
     return items;
   }, [currentView, selectedCategory, searchTerm]);
+
   const totalPages = Math.ceil(filteredBooks.length / booksPerPage);
+
   const booksForDisplay = React.useMemo(() => {
     const start = (currentPage - 1) * booksPerPage;
     return filteredBooks.slice(start, start + booksPerPage);
@@ -233,27 +235,35 @@ const App = () => {
   const firstItemIndex = filteredBooks.length === 0 ? 0 : (currentPage - 1) * booksPerPage + 1;
   const lastItemIndex = Math.min(currentPage * booksPerPage, filteredBooks.length);
 
+  // Lógica otimizada de janela deslizante para manter a paginação enxuta e alinhada ao body
   const pageWindow = React.useMemo(() => {
-    if (totalPages <= 10) {
+    if (totalPages <= 7) {
       return Array.from({ length: totalPages }, (_, index) => index + 1);
     }
 
-    const windowSize = 10;
-    const halfWindow = Math.floor(windowSize / 2);
-    let start = Math.max(1, currentPage - halfWindow);
-    let end = start + windowSize - 1;
+    const delta = 1; // Quantidade de botões ao redor da página atual
+    const range = [];
+    const pages = [];
 
-    if (end > totalPages) {
-      end = totalPages;
-      start = Math.max(1, end - windowSize + 1);
+    for (let i = 1; i <= totalPages; i++) {
+      if (i === 1 || i === totalPages || (i >= currentPage - delta && i <= currentPage + delta)) {
+        range.push(i);
+      }
     }
 
-    const pages = [];
-    if (start > 1) pages.push(1);
-    if (start > 2) pages.push('ellipsis-left');
-    for (let page = start; page <= end; page += 1) pages.push(page);
-    if (end < totalPages - 1) pages.push('ellipsis-right');
-    if (end < totalPages) pages.push(totalPages);
+    let prev = 0;
+    for (let i of range) {
+      if (prev) {
+        if (i - prev === 2) {
+          pages.push(prev + 1);
+        } else if (i - prev > 2) {
+          pages.push('ellipsis');
+        }
+      }
+      pages.push(i);
+      prev = i;
+    }
+
     return pages;
   }, [currentPage, totalPages]);
 
@@ -266,37 +276,41 @@ const App = () => {
   const PaginationControls = ({ page, total, setPage }) => {
     if (total <= 1) return null;
     return (
-      <div className="flex flex-col items-center gap-3 mt-8 mb-8">
-        <p className="text-sm text-gray-300">
-          Mostrando {firstItemIndex}-{lastItemIndex} de {filteredBooks.length} livros filtrados de um total de {totalBooks} livros na biblioteca
+      <div className="flex flex-col items-center gap-3 mt-8 mb-8 w-full max-w-4xl mx-auto px-2">
+        <p className="text-sm text-gray-300 text-center">
+          Mostrando {firstItemIndex}-{lastItemIndex} de {filteredBooks.length} livros filtrados (Total: {totalBooks})
         </p>
-        <div className="flex justify-center items-center flex-wrap gap-2">
+        <div className="flex justify-center items-center flex-wrap gap-1.5 sm:gap-2">
           <button
             onClick={() => setPage((prev) => Math.max(1, prev - 1))}
             disabled={page === 1}
-            className="px-3 py-2 bg-gray-700 text-white rounded-lg hover:bg-gray-600 disabled:opacity-50 disabled:cursor-not-allowed transition-colors shadow-md"
+            className="px-3 py-2 bg-gray-700 text-white rounded-lg hover:bg-gray-600 disabled:opacity-50 disabled:cursor-not-allowed transition-colors shadow-md text-sm"
           >
             Anterior
           </button>
-          {pageWindow.map((item) =>
+          {pageWindow.map((item, index) =>
             typeof item === 'number' ? (
               <button
                 key={item}
                 onClick={() => setPage(item)}
-                className={`px-3 py-2 rounded-lg transition-colors shadow-md min-w-10 ${page === item ? 'bg-green-600 text-white' : 'bg-gray-700 text-white hover:bg-gray-600'}`}
+                className={`px-3 py-2 rounded-lg transition-colors shadow-md min-w-[38px] text-sm ${
+                  page === item ? 'bg-green-600 text-white font-bold' : 'bg-gray-700 text-white hover:bg-gray-600'
+                }`}
               >
                 {item}
               </button>
             ) : (
-              <span key={item} className="px-2 py-2 text-gray-400 select-none">?</span>
-            ),
+              <span key={`dots-${index}`} className="px-1 py-2 text-gray-400 select-none font-bold">
+                ...
+              </span>
+            )
           )}
           <button
             onClick={() => setPage((prev) => Math.min(total, prev + 1))}
             disabled={page === total}
-            className="px-3 py-2 bg-gray-700 text-white rounded-lg hover:bg-gray-600 disabled:opacity-50 disabled:cursor-not-allowed transition-colors shadow-md"
+            className="px-3 py-2 bg-gray-700 text-white rounded-lg hover:bg-gray-600 disabled:opacity-50 disabled:cursor-not-allowed transition-colors shadow-md text-sm"
           >
-            Pr?ximo
+            Próximo
           </button>
         </div>
       </div>
@@ -363,7 +377,7 @@ const App = () => {
           </div>
         </div>
         <div className="mb-4 text-center text-sm text-gray-400">
-          {filteredBooks.length} livro(s) encontrados de {totalBooks} livros na biblioteca | {booksPerPage} por pagina | {totalPages} pagina(s)
+          {filteredBooks.length} livro(s) encontrados de {totalBooks} livros na biblioteca | {booksPerPage} por página | {totalPages} página(s)
         </div>
         <PaginationControls page={currentPage} total={totalPages} setPage={setCurrentPage} />
         <section className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 xl:grid-cols-5 gap-8">
@@ -445,18 +459,18 @@ function loadBooksData() {
     descriptionsData = sanitizeDescriptions(window.DESCRIPTIONS_DATA || []);
 
     const root = document.getElementById('root-app');
-    if (!root) throw new Error('Elemento root-app n?o encontrado.');
+    if (!root) throw new Error('Elemento root-app não encontrado.');
 
     ReactDOM.createRoot(root).render(<App />);
   } catch (error) {
-    console.error('Erro ao carregar a aplica??o:', error);
+    console.error('Erro ao carregar a aplicação:', error);
     const root = document.getElementById('root-app');
     if (root) {
       root.innerHTML = `
         <div style="max-width: 720px; margin: 48px auto; padding: 24px; color: #fca5a5; background: rgba(17,24,39,.9); border: 1px solid rgba(248,113,113,.3); border-radius: 12px; font-family: Inter, sans-serif;">
           <h1 style="margin: 0 0 12px; color: #fff;">Falha ao iniciar a biblioteca</h1>
           <p style="margin: 0 0 12px;">${String(error.message || error)}</p>
-          <p style="margin: 0; color: #d1d5db;">Confirme se <code>data/books-data.js</code> e <code>data/descriptions-data.js</code> est?o sendo carregados antes do app.</p>
+          <p style="margin: 0; color: #d1d5db;">Confirme se <code>data/books-data.js</code> e <code>data/descriptions-data.js</code> estão sendo carregados antes do app.</p>
         </div>
       `;
     }
