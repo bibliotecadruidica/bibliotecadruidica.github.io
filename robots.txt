@@ -1,1 +1,5 @@
-
+User-agent: *
+Allow: /
+Sitemap: https://bibliotecadruidica.github.io/feed.xml
+# Host is optional for GitHub Pages but included for completeness
+Host: bibliotecadruidica.github.io

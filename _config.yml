@@ -1,10 +1,16 @@
 # Site settings
 title: Biblioteca Druídica
-email: greumthedruid@gmail.com
+email: "greum [at] gmail.com"
 description: >
   Acervo de RPG.
 baseurl: ""
 url: "https://bibliotecadruidica.github.io"
+language: "pt-BR"
+timezone: "America/Sao_Paulo"
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
 
 # Coleções
 #Coleções:
@@ -13,3 +19,7 @@ url: "https://bibliotecadruidica.github.io"
 
 sass:
   style: compressed
+
+# Arquivos que não precisam ser publicados (limpeza)
+exclude:
+  - jquery-1.3.2.js
