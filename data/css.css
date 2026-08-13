@@ -8,32 +8,44 @@
   --sidebar-width: 320px;
 }
 
-.sidebar,
-.menu-toggle {
-  font-family: 'Inter', sans-serif;
+* {
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
 }
 
 body {
+  margin: 0;
+  min-height: 100vh;
   transition: margin-left var(--transition-speed) ease;
-  background: linear-gradient(rgba(17, 24, 39, 0.85), rgba(17, 24, 39, 0.85)),
-    url('./image/bg2.webp');
+  background: linear-gradient(rgba(17, 24, 39, 0.85), rgba(17, 24, 39, 0.85)), url('../image/bg2.webp');
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
 }
 
+button,
+a,
+select,
+input {
+  font: inherit;
+}
+
+.sidebar,
+.menu-toggle {
+  font-family: 'Inter', sans-serif;
+}
+
 #overlay {
   position: fixed;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
+  inset: 0;
   background-color: rgba(0, 0, 0, 0.6);
   z-index: 998;
   opacity: 0;
   visibility: hidden;
-  transition: opacity var(--transition-speed) ease,
-    visibility var(--transition-speed) ease;
+  transition: opacity var(--transition-speed) ease, visibility var(--transition-speed) ease;
 }
 
 #overlay.active {
@@ -86,6 +98,8 @@ body {
   flex-grow: 1;
   overflow-y: auto;
   overflow-x: hidden;
+  padding: 0;
+  margin: 0;
 }
 
 .nav-item {
@@ -95,12 +109,16 @@ body {
 .nav-link {
   display: flex;
   align-items: center;
+  width: 100%;
   padding: 12px 15px;
   color: var(--text-color);
   text-decoration: none;
   border-radius: 8px;
   white-space: nowrap;
   cursor: pointer;
+  border: 0;
+  background: transparent;
+  text-align: left;
 }
 
 .nav-link:hover,
@@ -192,6 +210,17 @@ body {
   background-color: var(--secondary-color);
 }
 
+.menu-toggle:focus-visible,
+.nav-link:focus-visible,
+.submenu-link:focus-visible,
+button:focus-visible,
+a:focus-visible,
+select:focus-visible,
+input:focus-visible {
+  outline: 2px solid #22c55e;
+  outline-offset: 2px;
+}
+
 .sidebar.active ~ .menu-toggle {
   left: calc(var(--sidebar-width) + 20px);
 }
@@ -201,33 +230,6 @@ body {
   font-size: 24px;
   transition: transform 0.3s ease, opacity 0.3s ease;
   position: absolute;
-}
-
-.menu-toggle .fa-xmark {
-  opacity: 0;
-  transform: rotate(-90deg);
-}
-
-.sidebar.active ~ .menu-toggle .fa-bars {
-  opacity: 0;
-  transform: rotate(90deg);
-}
-
-.sidebar.active ~ .menu-toggle .fa-xmark {
-  opacity: 1;
-  transform: rotate(0deg);
-}
-
-.main-content {
-  padding-top: 20px;
-  padding-bottom: 20px;
-  transition: margin-left var(--transition-speed) ease-in-out;
-}
-
-@media (min-width: 769px) {
-  .sidebar.active ~ .main-content {
-    margin-left: var(--sidebar-width);
-  }
 }
 
 @media (max-width: 768px) {
