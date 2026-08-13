@@ -289,38 +289,19 @@ input:focus-visible {
   }
 }
 
-/* --- New: make the grid appear wider on many phones like desktop mode --- */
+/* --- New: widen layout aggressively to mimic desktop on many phones (Option 4) --- */
 .books-grid {
   display: grid;
-  grid-template-columns: repeat(1, 1fr);
-  gap: 1.5rem;
+  grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+  gap: 1rem;
   align-items: start;
-}
-
-/* show two columns starting at small phone widths */
-@media (min-width: 360px) {
-  .books-grid {
-    grid-template-columns: repeat(2, 1fr);
-  }
-}
-
-/* three columns on medium phones */
-@media (min-width: 640px) {
-  .books-grid {
-    grid-template-columns: repeat(3, 1fr);
-  }
-}
-
-@media (min-width: 1024px) {
-  .books-grid {
-    grid-template-columns: repeat(4, 1fr);
-  }
 }
 
 /* center items and limit their max width so they align like desktop grid */
 .books-grid > * {
   justify-self: center;
-  max-width: 280px;
+  max-width: 320px;
+  width: 100%;
 }
 
 /* container tweaks to make content feel wider on phones without changing viewport */
@@ -334,18 +315,43 @@ input:focus-visible {
 
   /* reduce header spacing so more grid is visible above the fold */
   .text-center {
-    padding-top: 2.5rem;
+    padding-top: 1rem;
+    padding-bottom: 0.75rem;
   }
 
   .text-center > h1 {
-    font-size: 1.8rem;
-    line-height: 1.1;
+    font-size: 1.6rem;
+    line-height: 1.05;
     margin-bottom: 0.25rem;
+  }
+
+  .text-center > p {
+    font-size: 0.95rem;
   }
 
   /* make search inputs and select fit better inline */
   .mb-10.w-full.max-w-lg.mx-auto.flex.flex-col.sm\:flex-row.gap-4 {
     gap: 0.6rem;
+  }
+
+  /* allow two/three columns on many phones like S23 FE */
+  .books-grid {
+    grid-template-columns: repeat(auto-fit, minmax(160px, 1fr));
+    gap: 0.9rem;
+  }
+}
+
+/* Slightly larger columns for wider phones (phablets) */
+@media (min-width: 360px) and (max-width: 639px) {
+  .books-grid > * {
+    max-width: 300px;
+  }
+}
+
+@media (min-width: 640px) and (max-width: 1023px) {
+  .books-grid {
+    grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+    gap: 1rem;
   }
 }
 
