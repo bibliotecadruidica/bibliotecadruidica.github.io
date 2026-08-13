@@ -16,7 +16,7 @@ async function loadBooksData() {
       acc[item.title] = item.description;
       return acc;
     }, {});
-    console.log('Dados das descrições carregados:', descriptionsData);
+    console.log('Dados das descricoes carregados:', descriptionsData);
 
     ReactDOM.createRoot(document.getElementById('root-app')).render(<App />);
   } catch (r) {
@@ -78,7 +78,7 @@ const BookDetail = ({ book, onBackToList }) => {
             onError={(e) => {
               e.target.onerror = null;
               e.target.src =
-                'https://placehold.co/320x420/2d3748/e2e8f0?text=Capa+Indisponível';
+                'https://placehold.co/320x420/2d3748/e2e8f0?text=Capa+Indisponivel';
             }}
           />
         </a>
@@ -92,7 +92,7 @@ const BookDetail = ({ book, onBackToList }) => {
         Acessar no Google Drive
       </a>
       <p className="text-gray-400 text-sm mt-4 text-center">
-        Clique na capa ou no botão para abrir o arquivo no Google Drive.
+        Clique na capa ou no botao para abrir o arquivo no Google Drive.
       </p>
       {book.description && (
         <p className="text-gray-300 text-base mt-6 text-center leading-relaxed max-w-prose">
@@ -140,21 +140,21 @@ const Sidebar = ({ isMenuOpen, toggleMenu, handleNavigate, allCategories = [] })
   const featuredCategories = {
     'Dungeons & Dragons': ['D&D 5E', 'D&D 3.5'],
     'Mundo das Trevas': [
-      'Mago a Ascensão',
-      'Vampiro a Máscara',
+      'Mago a Ascensao',
+      'Vampiro a Mascara',
       'Vampiro a Idade das Trevas',
-      'Vampiro o Réquiem',
+      'Vampiro o Requiem',
     ],
     'Cthulhu Mythos': ['Chamado de Cthulhu', 'Rastro de Cthulhu'],
     'Outros Sistemas': [
       'Tormenta',
       'Old Dragon',
-      '13ª Era',
-      '7º Mar',
+      '13a Era',
+      '7o Mar',
       'Violentina',
       'Angus RPG',
       '2Q RPG',
-      'Ação!!!',
+      'Acao!!!',
     ],
   };
 
@@ -173,13 +173,13 @@ const Sidebar = ({ isMenuOpen, toggleMenu, handleNavigate, allCategories = [] })
     <nav className="sidebar" id="sidebar">
       <div className="sidebar-header">
         <i className="fa-solid fa-dungeon logo-icon"></i>
-        <span className="logo-text">Bib. Druídica</span>
+        <span className="logo-text">Bib. Druidica</span>
       </div>
       <ul className="sidebar-nav">
         <li className="nav-item">
           <a className="nav-link" onClick={() => handleNavLinkClick('home')}>
             <i className="fa-solid fa-house icon"></i>
-            <span className="text">Início</span>
+            <span className="text">Inicio</span>
           </a>
         </li>
         {Object.entries(categories).map(([e, t]) => (
@@ -223,6 +223,86 @@ const Sidebar = ({ isMenuOpen, toggleMenu, handleNavigate, allCategories = [] })
   );
 };
 
+const PaginationControls = ({ currentPage, totalPages, setCurrentPage }) => {
+  if (totalPages <= 1) return null;
+
+  const getPageNumbers = () => {
+    const pages = [];
+    const maxVisiblePages = 5;
+
+    if (totalPages <= maxVisiblePages + 2) {
+      for (let i = 1; i <= totalPages; i++) pages.push(i);
+    } else {
+      pages.push(1);
+
+      let start = Math.max(2, currentPage - 1);
+      let end = Math.min(totalPages - 1, currentPage + 1);
+
+      if (currentPage <= 3) {
+        end = 4;
+      } else if (currentPage >= totalPages - 2) {
+        start = totalPages - 3;
+      }
+
+      if (start > 2) {
+        pages.push('...');
+      }
+
+      for (let i = start; i <= end; i++) {
+        pages.push(i);
+      }
+
+      if (end < totalPages - 1) {
+        pages.push('...');
+      }
+
+      pages.push(totalPages);
+    }
+
+    return pages;
+  };
+
+  return (
+    <div className="flex justify-center items-center mt-8 mb-8 space-x-2 flex-wrap gap-1">
+      <button
+        onClick={() => setCurrentPage((prev) => Math.max(1, prev - 1))}
+        disabled={currentPage === 1}
+        className="px-4 py-2 bg-gray-700 text-white rounded-lg hover:bg-gray-600 disabled:opacity-50 disabled:cursor-not-allowed transition-colors shadow-md text-sm"
+      >
+        Anterior
+      </button>
+
+      {getPageNumbers().map((page, index) =>
+        page === '...' ? (
+          <span key={`dots-${index}`} className="px-3 py-2 text-gray-400 select-none">
+            ...
+          </span>
+        ) : (
+          <button
+            key={page}
+            onClick={() => setCurrentPage(page)}
+            className={`px-4 py-2 rounded-lg transition-colors shadow-md text-sm ${
+              currentPage === page
+                ? 'bg-green-600 text-white font-bold'
+                : 'bg-gray-700 text-white hover:bg-gray-600'
+            }`}
+          >
+            {page}
+          </button>
+        )
+      )}
+
+      <button
+        onClick={() => setCurrentPage((prev) => Math.min(totalPages, prev + 1))}
+        disabled={currentPage === totalPages}
+        className="px-4 py-2 bg-gray-700 text-white rounded-lg hover:bg-gray-600 disabled:opacity-50 disabled:cursor-not-allowed transition-colors shadow-md text-sm"
+      >
+        Proximo
+      </button>
+    </div>
+  );
+};
+
 const App = () => {
   const allCategories = React.useMemo(
     () =>
@@ -243,7 +323,6 @@ const App = () => {
   const [isMenuOpen, setIsMenuOpen] = React.useState(false);
   const [currentPage, setCurrentPage] = React.useState(1);
   const [booksPerPage, setBooksPerPage] = React.useState(20);
-  const booksPerPageOptions = [20, 40, 60];
 
   const handleNavigate = (e, t = '') => {
     setCurrentView(e);
@@ -256,7 +335,7 @@ const App = () => {
 
   const handleSelectBook = (book) => {
     const description =
-      descriptionsData[book.title] || 'Nenhuma descrição disponível neste tomo.';
+      descriptionsData[book.title] || 'Nenhuma descricao disponivel neste tomo.';
     setSelectedBook({ ...book, description });
     setCurrentView('book');
     window.scrollTo(0, 0);
@@ -305,87 +384,6 @@ const App = () => {
     return e.slice(s, t);
   }, [currentView, selectedCategory, searchTerm, currentPage, booksPerPage]);
 
-  // Paginação compacta e inteligente
-  const PaginationControls = ({ currentPage, totalPages, setCurrentPage }) => {
-    if (totalPages <= 1) return null;
-
-    const getPageNumbers = () => {
-      const pages = [];
-      const maxVisiblePages = 5;
-
-      if (totalPages <= maxVisiblePages + 2) {
-        for (let i = 1; i <= totalPages; i++) pages.push(i);
-      } else {
-        pages.push(1);
-
-        let start = Math.max(2, currentPage - 1);
-        let end = Math.min(totalPages - 1, currentPage + 1);
-
-        if (currentPage <= 3) {
-          end = 4;
-        } else if (currentPage >= totalPages - 2) {
-          start = totalPages - 3;
-        }
-
-        if (start > 2) {
-          pages.push('...');
-        }
-
-        for (let i = start; i <= end; i++) {
-          pages.push(i);
-        }
-
-        if (end < totalPages - 1) {
-          pages.push('...');
-        }
-
-        pages.push(totalPages);
-      }
-
-      return pages;
-    };
-
-    return (
-      <div className="flex justify-center items-center mt-8 mb-8 space-x-2 flex-wrap gap-1">
-        <button
-          onClick={() => setCurrentPage((prev) => Math.max(1, prev - 1))}
-          disabled={currentPage === 1}
-          className="px-4 py-2 bg-gray-700 text-white rounded-lg hover:bg-gray-600 disabled:opacity-50 disabled:cursor-not-allowed transition-colors shadow-md text-sm"
-        >
-          Anterior
-        </button>
-
-        {getPageNumbers().map((page, index) =>
-          page === '...' ? (
-            <span key={`dots-${index}`} className="px-3 py-2 text-gray-400 select-none">
-              ...
-            </span>
-          ) : (
-            <button
-              key={page}
-              onClick={() => setCurrentPage(page)}
-              className={`px-4 py-2 rounded-lg transition-colors shadow-md text-sm ${
-                currentPage === page
-                  ? 'bg-green-600 text-white font-bold'
-                  : 'bg-gray-700 text-white hover:bg-gray-600'
-              }`}
-            >
-              {page}
-            </button>
-          )
-        )}
-
-        <button
-          onClick={() => setCurrentPage((prev) => Math.min(totalPages, prev + 1))}
-          disabled={currentPage === totalPages}
-          className="px-4 py-2 bg-gray-700 text-white rounded-lg hover:bg-gray-600 disabled:opacity-50 disabled:cursor-not-allowed transition-colors shadow-md text-sm"
-        >
-          Próximo
-        </button>
-      </div>
-    );
-  };
-
   const renderContent = () => {
     if (currentView === 'book' && selectedBook) {
       return (
@@ -397,7 +395,7 @@ const App = () => {
         />
       );
     }
-    let e = 'Biblioteca Druídica',
+    let e = 'Biblioteca Druidica',
       t = 'Seu acervo digital de livros de RPG.';
     if (currentView === 'category') {
       e = selectedCategory;
@@ -409,12 +407,11 @@ const App = () => {
           <h1 className="text-4xl md:text-5xl font-bold mb-2 text-white">{e}</h1>
           <p className="text-lg text-gray-300">{t}</p>
 
-          {/* Contador de Livros */}
           <div className="mt-4 inline-flex items-center gap-2 px-4 py-2 bg-gray-800 bg-opacity-60 border border-gray-700 rounded-full text-sm text-gray-300 shadow-md">
             <i className="fa-solid fa-book text-green-500"></i>
             <span>
               {filteredBooksCount === booksData.length ? (
-                <><strong>{booksData.length}</strong> livros disponíveis no acervo</>
+                <><strong>{booksData.length}</strong> livros disponiveis no acervo</>
               ) : (
                 <>Exibindo <strong>{filteredBooksCount}</strong> de <strong>{booksData.length}</strong> livros</>
               )}
@@ -427,7 +424,7 @@ const App = () => {
                 onClick={() => handleNavigate('home')}
                 className="px-4 py-2 bg-green-600 text-white rounded-lg hover:bg-green-700 transition-colors shadow-md"
               >
-                &larr; Voltar para o Início
+                &larr; Voltar para o Inicio
               </button>
             </div>
           )}
@@ -436,7 +433,7 @@ const App = () => {
         <div className="mb-10 w-full max-w-lg mx-auto flex flex-col sm:flex-row gap-4">
           <input
             type="text"
-            placeholder="Buscar por título ou autor..."
+            placeholder="Buscar por titulo ou autor..."
             className="w-full px-5 py-3 bg-gray-700 text-white rounded-full focus:outline-none focus:ring-2 focus:ring-green-500 transition-shadow"
             onChange={(e) => {
               setSearchTerm(e.target.value);
@@ -545,7 +542,7 @@ const App = () => {
       </button>
       <main className="container mx-auto px-4 py-8">{renderContent()}</main>
       <footer className="bg-black bg-opacity-30 backdrop-blur-sm p-6 text-center text-gray-400 mt-12 rounded-t-lg">
-        <p>&copy; {new Date().getFullYear()} Biblioteca Druídica. Todos os direitos reservados.</p>
+        <p>&copy; {new Date().getFullYear()} Biblioteca Druidica. Todos os direitos reservados.</p>
         <div className="mt-4">
           <p>
             Visite o canal na Twitch:
