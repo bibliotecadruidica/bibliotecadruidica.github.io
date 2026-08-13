@@ -1,5 +1,5 @@
 let booksData = [];
-let descriptionsData = {};
+let descriptionsData = {} ;
 
 async function loadBooksData() {
   try {
