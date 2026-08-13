@@ -261,7 +261,7 @@ const App = () => {
   const PaginationControls = ({ page, total, setPage }) => {
     if (total <= 1) return null;
     return (
-      <div className="flex flex-col items-center gap-3 mt-8 mb-8">
+      <div className="flex flex-col items-center gap-3 mt-8 mb-8 pagination-touch-friendly">
         <p className="text-sm text-gray-300">
           Mostrando {firstItemIndex}-{lastItemIndex} de {filteredBooks.length} livros filtrados de um total de {totalBooks} livros na biblioteca
         </p>
@@ -360,7 +360,7 @@ const App = () => {
           {filteredBooks.length} livro(s) encontrados de {totalBooks} livros na biblioteca | {booksPerPage} por página | {totalPages} página(s)
         </div>
         <PaginationControls page={currentPage} total={totalPages} setPage={setCurrentPage} />
-        <section className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 xl:grid-cols-5 gap-8">
+        <section className="books-grid grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 xl:grid-cols-5 gap-8">
           {booksForDisplay.length > 0 ? (
             booksForDisplay.map((book) => (
               <Book
