@@ -16,7 +16,7 @@ async function loadBooksData() {
       acc[item.title] = item.description;
       return acc;
     }, {});
-    console.log('Dados das descriÃ§Ãµes carregados:', descriptionsData);
+    console.log('Dados das descrições carregados:', descriptionsData);
 
     ReactDOM.createRoot(document.getElementById('root-app')).render(<App />);
   } catch (r) {
@@ -78,7 +78,7 @@ const BookDetail = ({ book, onBackToList }) => {
             onError={(e) => {
               e.target.onerror = null;
               e.target.src =
-                'https://placehold.co/320x420/2d3748/e2e8f0?text=Capa+IndisponÃ­vel';
+                'https://placehold.co/320x420/2d3748/e2e8f0?text=Capa+Indisponível';
             }}
           />
         </a>
@@ -92,7 +92,7 @@ const BookDetail = ({ book, onBackToList }) => {
         Acessar no Google Drive
       </a>
       <p className="text-gray-400 text-sm mt-4 text-center">
-        Clique na capa ou no botÃ£o para abrir o arquivo no Google Drive.
+        Clique na capa ou no botão para abrir o arquivo no Google Drive.
       </p>
       {book.description && (
         <p className="text-gray-300 text-base mt-6 text-center leading-relaxed max-w-prose">
@@ -140,21 +140,21 @@ const Sidebar = ({ isMenuOpen, toggleMenu, handleNavigate, allCategories = [] })
   const featuredCategories = {
     'Dungeons & Dragons': ['D&D 5E', 'D&D 3.5'],
     'Mundo das Trevas': [
-      'Mago a AscensÃ£o',
-      'Vampiro a MÃ¡scara',
+      'Mago a Ascensão',
+      'Vampiro a Máscara',
       'Vampiro a Idade das Trevas',
-      'Vampiro o RÃ©quiem',
+      'Vampiro o Réquiem',
     ],
     'Cthulhu Mythos': ['Chamado de Cthulhu', 'Rastro de Cthulhu'],
     'Outros Sistemas': [
       'Tormenta',
       'Old Dragon',
-      '13Âª Era',
-      '7Âº Mar',
+      '13ª Era',
+      '7º Mar',
       'Violentina',
       'Angus RPG',
       '2Q RPG',
-      'AÃ§Ã£o!!!',
+      'Ação!!!',
     ],
   };
 
@@ -173,13 +173,13 @@ const Sidebar = ({ isMenuOpen, toggleMenu, handleNavigate, allCategories = [] })
     <nav className="sidebar" id="sidebar">
       <div className="sidebar-header">
         <i className="fa-solid fa-dungeon logo-icon"></i>
-        <span className="logo-text">Bib. DruÃ­dica</span>
+        <span className="logo-text">Bib. Druídica</span>
       </div>
       <ul className="sidebar-nav">
         <li className="nav-item">
           <a className="nav-link" onClick={() => handleNavLinkClick('home')}>
             <i className="fa-solid fa-house icon"></i>
-            <span className="text">InÃ­cio</span>
+            <span className="text">Início</span>
           </a>
         </li>
         {Object.entries(categories).map(([e, t]) => (
@@ -256,7 +256,7 @@ const App = () => {
 
   const handleSelectBook = (book) => {
     const description =
-      descriptionsData[book.title] || 'Nenhuma descriÃ§Ã£o disponÃ­vel neste tomo.';
+      descriptionsData[book.title] || 'Nenhuma descrição disponível neste tomo.';
     setSelectedBook({ ...book, description });
     setCurrentView('book');
     window.scrollTo(0, 0);
@@ -305,36 +305,82 @@ const App = () => {
     return e.slice(s, t);
   }, [currentView, selectedCategory, searchTerm, currentPage, booksPerPage]);
 
+  // Paginação compacta e inteligente
   const PaginationControls = ({ currentPage, totalPages, setCurrentPage }) => {
     if (totalPages <= 1) return null;
+
+    const getPageNumbers = () => {
+      const pages = [];
+      const maxVisiblePages = 5;
+
+      if (totalPages <= maxVisiblePages + 2) {
+        for (let i = 1; i <= totalPages; i++) pages.push(i);
+      } else {
+        pages.push(1);
+
+        let start = Math.max(2, currentPage - 1);
+        let end = Math.min(totalPages - 1, currentPage + 1);
+
+        if (currentPage <= 3) {
+          end = 4;
+        } else if (currentPage >= totalPages - 2) {
+          start = totalPages - 3;
+        }
+
+        if (start > 2) {
+          pages.push('...');
+        }
+
+        for (let i = start; i <= end; i++) {
+          pages.push(i);
+        }
+
+        if (end < totalPages - 1) {
+          pages.push('...');
+        }
+
+        pages.push(totalPages);
+      }
+
+      return pages;
+    };
+
     return (
-      <div className="flex justify-center items-center mt-8 mb-8 space-x-4 flex-wrap gap-2">
+      <div className="flex justify-center items-center mt-8 mb-8 space-x-2 flex-wrap gap-1">
         <button
           onClick={() => setCurrentPage((prev) => Math.max(1, prev - 1))}
           disabled={currentPage === 1}
-          className="px-4 py-2 bg-gray-700 text-white rounded-lg hover:bg-gray-600 disabled:opacity-50 disabled:cursor-not-allowed transition-colors shadow-md"
+          className="px-4 py-2 bg-gray-700 text-white rounded-lg hover:bg-gray-600 disabled:opacity-50 disabled:cursor-not-allowed transition-colors shadow-md text-sm"
         >
           Anterior
         </button>
-        {[...Array(totalPages)].map((e, t) => (
-          <button
-            key={t + 1}
-            onClick={() => setCurrentPage(t + 1)}
-            className={`px-4 py-2 rounded-lg transition-colors shadow-md ${
-              currentPage === t + 1
-                ? 'bg-green-600 text-white'
-                : 'bg-gray-700 text-white hover:bg-gray-600'
-            }`}
-          >
-            {t + 1}
-          </button>
-        ))}
+
+        {getPageNumbers().map((page, index) =>
+          page === '...' ? (
+            <span key={`dots-${index}`} className="px-3 py-2 text-gray-400 select-none">
+              ...
+            </span>
+          ) : (
+            <button
+              key={page}
+              onClick={() => setCurrentPage(page)}
+              className={`px-4 py-2 rounded-lg transition-colors shadow-md text-sm ${
+                currentPage === page
+                  ? 'bg-green-600 text-white font-bold'
+                  : 'bg-gray-700 text-white hover:bg-gray-600'
+              }`}
+            >
+              {page}
+            </button>
+          )
+        )}
+
         <button
           onClick={() => setCurrentPage((prev) => Math.min(totalPages, prev + 1))}
           disabled={currentPage === totalPages}
-          className="px-4 py-2 bg-gray-700 text-white rounded-lg hover:bg-gray-600 disabled:opacity-50 disabled:cursor-not-allowed transition-colors shadow-md"
+          className="px-4 py-2 bg-gray-700 text-white rounded-lg hover:bg-gray-600 disabled:opacity-50 disabled:cursor-not-allowed transition-colors shadow-md text-sm"
         >
-          PrÃ³ximo
+          Próximo
         </button>
       </div>
     );
@@ -351,7 +397,7 @@ const App = () => {
         />
       );
     }
-    let e = 'Biblioteca DruÃ­dica',
+    let e = 'Biblioteca Druídica',
       t = 'Seu acervo digital de livros de RPG.';
     if (currentView === 'category') {
       e = selectedCategory;
@@ -362,19 +408,35 @@ const App = () => {
         <div className="text-center mb-10 pt-12">
           <h1 className="text-4xl md:text-5xl font-bold mb-2 text-white">{e}</h1>
           <p className="text-lg text-gray-300">{t}</p>
+
+          {/* Contador de Livros */}
+          <div className="mt-4 inline-flex items-center gap-2 px-4 py-2 bg-gray-800 bg-opacity-60 border border-gray-700 rounded-full text-sm text-gray-300 shadow-md">
+            <i className="fa-solid fa-book text-green-500"></i>
+            <span>
+              {filteredBooksCount === booksData.length ? (
+                <><strong>{booksData.length}</strong> livros disponíveis no acervo</>
+              ) : (
+                <>Exibindo <strong>{filteredBooksCount}</strong> de <strong>{booksData.length}</strong> livros</>
+              )}
+            </span>
+          </div>
+
           {currentView === 'category' && (
-            <button
-              onClick={() => handleNavigate('home')}
-              className="mt-4 px-4 py-2 bg-green-600 text-white rounded-lg hover:bg-green-700 transition-colors shadow-md"
-            >
-              &larr; Voltar para o InÃ­cio
-            </button>
+            <div className="mt-4">
+              <button
+                onClick={() => handleNavigate('home')}
+                className="px-4 py-2 bg-green-600 text-white rounded-lg hover:bg-green-700 transition-colors shadow-md"
+              >
+                &larr; Voltar para o Início
+              </button>
+            </div>
           )}
         </div>
+
         <div className="mb-10 w-full max-w-lg mx-auto flex flex-col sm:flex-row gap-4">
           <input
             type="text"
-            placeholder="Buscar por tÃ­tulo ou autor..."
+            placeholder="Buscar por título ou autor..."
             className="w-full px-5 py-3 bg-gray-700 text-white rounded-full focus:outline-none focus:ring-2 focus:ring-green-500 transition-shadow"
             onChange={(e) => {
               setSearchTerm(e.target.value);
@@ -467,7 +529,7 @@ const App = () => {
 
   return (
     <div className="min-h-screen text-gray-100 font-inter antialiased">
-            <Sidebar
+      <Sidebar
         isMenuOpen={isMenuOpen}
         toggleMenu={toggleMenu}
         handleNavigate={handleNavigate}
@@ -483,7 +545,7 @@ const App = () => {
       </button>
       <main className="container mx-auto px-4 py-8">{renderContent()}</main>
       <footer className="bg-black bg-opacity-30 backdrop-blur-sm p-6 text-center text-gray-400 mt-12 rounded-t-lg">
-        <p>&copy; {new Date().getFullYear()} Biblioteca DruÃ­dica. Todos os direitos reservados.</p>
+        <p>&copy; {new Date().getFullYear()} Biblioteca Druídica. Todos os direitos reservados.</p>
         <div className="mt-4">
           <p>
             Visite o canal na Twitch:
@@ -501,4 +563,3 @@ const App = () => {
     </div>
   );
 };
-
