@@ -17,6 +17,8 @@ const normalizeText = (value) =>
     .replaceAll('Ãª', 'ê')
     .replaceAll('Ã´', 'ô')
     .replaceAll('Ã§', 'ç')
+    .replaceAll('Âª', 'ª')
+    .replaceAll('Âº', 'º')
     .replaceAll('DruÃ­dica', 'Druídica')
     .replaceAll('descriÃ§Ãµes', 'descrições')
     .replaceAll('IndisponÃ­vel', 'Indisponível')
@@ -448,10 +450,14 @@ async function loadBooksData() {
       throw new Error('Não foi possível carregar os arquivos YAML de dados. Verifique a pasta "data".');
     }
 
-    const [booksYamlText, descYamlText] = await Promise.all([
-      booksRes.text(),
-      descRes.text(),
+    const [booksBuffer, descBuffer] = await Promise.all([
+      booksRes.arrayBuffer(),
+      descRes.arrayBuffer(),
     ]);
+
+    const decoder = new TextDecoder('utf-8');
+    const booksYamlText = decoder.decode(booksBuffer);
+    const descYamlText = decoder.decode(descBuffer);
 
     if (typeof jsyaml === 'undefined') {
       throw new Error('A biblioteca js-yaml não foi carregada no seu HTML.');
